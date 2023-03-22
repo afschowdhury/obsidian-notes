@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Creating a thread.md",
+                "file": "Add Alias in Fish shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,22 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evolution of NLP.md",
+                "file": "Python/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "87e80097b9387a9f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolution of NLP.md",
+                "file": "Add Alias in Fish shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evolution of NLP.md",
+                "file": "Add Alias in Fish shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evolution of NLP.md"
+                "file": "Add Alias in Fish shell.md"
               }
             }
           }
@@ -165,20 +156,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "a0d7039e2d79e163",
+  "active": "27a5bcf82627a7dd",
   "lastOpenFiles": [
-    "30-10-2022.md",
+    "Add Alias in Fish shell.md",
+    "Python/Creating a thread.md",
+    "Python/Untitled.md",
+    "Database/Comments in SQL.md",
+    "coding basic/Disadvantage of Scripting Language.md",
+    "Python/Thread.md",
     "Evolution of NLP.md",
+    "30-10-2022.md",
     "Python/Using thread class present in the threading module.md",
     "Python/start a thread from method.md",
     "Attachments/Pasted image 20230207114526.png",
-    "Attachments/Pasted image 20230207120149.png",
-    "Python/Creating a thread.md",
-    "Templates/Python.md",
-    "Templates/Thread.md",
-    "Python/TID.md"
+    "Attachments/Pasted image 20230207120149.png"
   ]
 }
