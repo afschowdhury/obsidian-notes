@@ -4,34 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "8ace1035b6f58d0f",
+        "id": "4671e5c434b5b2ab",
         "type": "tabs",
         "children": [
           {
-            "id": "27a5bcf82627a7dd",
+            "id": "7f574ee05cc8b191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Add Alias in Fish shell.md",
+                "file": "Templates/Rasa.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a0d7039e2d79e163",
+            "id": "5c71d8d386710cbb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a27d6d6befbae424",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Untitled.md",
+                "file": "STORIES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "306282a1496ab435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "610e2538b899f983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "domain.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Add Alias in Fish shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Add Alias in Fish shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,16 +167,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Add Alias in Fish shell.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -160,19 +189,46 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "27a5bcf82627a7dd",
+  "active": "5c71d8d386710cbb",
   "lastOpenFiles": [
-    "Add Alias in Fish shell.md",
-    "Python/Creating a thread.md",
-    "Python/Untitled.md",
-    "Database/Comments in SQL.md",
-    "coding basic/Disadvantage of Scripting Language.md",
-    "Python/Thread.md",
-    "Evolution of NLP.md",
-    "30-10-2022.md",
-    "Python/Using thread class present in the threading module.md",
-    "Python/start a thread from method.md",
-    "Attachments/Pasted image 20230207114526.png",
-    "Attachments/Pasted image 20230207120149.png"
+    "domain.md",
+    "response.md",
+    "Templates/Rasa.md",
+    "Attachments/Pasted image 20230323180601.png",
+    "Attachments/Pasted image 20230323180201.png",
+    "Attachments/Pasted image 20230323180001.png",
+    "slots.md",
+    "NLU.md",
+    "STORIES.md",
+    "task oriented dialogue system.md",
+    "entities.md",
+    "intents.md",
+    "Attachments/Pasted image 20230323174640.png",
+    "Attachments/Pasted image 20230323174133.png",
+    "Rasa/Rasa Commands.md",
+    "Rasa/Introduction to Rasa.md",
+    "data.md",
+    "Rasa/Rasa Project Structure.md",
+    "RULES.md",
+    "Attachments/Pasted image 20230323113622.png",
+    "Attachments/Pasted image 20230323113048.png",
+    "Attachments/Pasted image 20230323112820.png",
+    "Attachments/Pasted image 20230323112757.png",
+    "Attachments/Pasted image 20230323112638.png",
+    "Rasa/How to install Rasa.md",
+    "Templates/CodingBasic.md",
+    "Rasa",
+    "Templates/Database.md",
+    "Templates/DSA.md",
+    "Templates/NLP.md",
+    "Templates/Python.md",
+    "Templates/Thread.md",
+    "Templates/Untitled.md",
+    "Database/Untitled 1.md",
+    "How to build a task oriented Chatbot.md",
+    "AI/NLP/Untitled 1.md",
+    "obsidian-valut-main/AI/NLP",
+    "obsidian-valut-main/AI",
+    "obsidian-valut-main"
   ]
 }
