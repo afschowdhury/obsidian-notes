@@ -1,0 +1,1 @@
+this are the categories the user want to say. for example , <mark style="background: #FF5582A6;">**if a user want to buy a pizza and his location is dhanmondi, here, intent is buying** </mark>   and pizza and dhanmondi are [[entities]]

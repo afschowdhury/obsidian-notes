@@ -1,1 +1,10 @@
-{}
+{
+  "highlightr-plugin:Red": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ]
+}

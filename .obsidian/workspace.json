@@ -4,27 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "8ace1035b6f58d0f",
+        "id": "4671e5c434b5b2ab",
         "type": "tabs",
         "children": [
           {
-            "id": "27a5bcf82627a7dd",
+            "id": "7f574ee05cc8b191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Creating a thread.md",
+                "file": "Templates/Rasa.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "a0d7039e2d79e163",
+=======
+            "id": "5c71d8d386710cbb",
+>>>>>>> 0d26fca2e8840a025d55b49a1810f37b4947a08d
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "a27d6d6befbae424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STORIES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "306282a1496ab435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NLU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "610e2538b899f983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "domain.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -138,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -149,11 +189,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "a0d7039e2d79e163",
+  "active": "5c71d8d386710cbb",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "desktop.ini",
     "Evolution of NLP.md",
     "Python/Creating a thread.md",
@@ -162,8 +204,46 @@
     "Python/start a thread from method.md",
     "Attachments/Pasted image 20230207114526.png",
     "Attachments/Pasted image 20230207120149.png",
+=======
+    "domain.md",
+    "response.md",
+    "Templates/Rasa.md",
+    "Attachments/Pasted image 20230323180601.png",
+    "Attachments/Pasted image 20230323180201.png",
+    "Attachments/Pasted image 20230323180001.png",
+    "slots.md",
+    "NLU.md",
+    "STORIES.md",
+    "task oriented dialogue system.md",
+    "entities.md",
+    "intents.md",
+    "Attachments/Pasted image 20230323174640.png",
+    "Attachments/Pasted image 20230323174133.png",
+    "Rasa/Rasa Commands.md",
+    "Rasa/Introduction to Rasa.md",
+    "data.md",
+    "Rasa/Rasa Project Structure.md",
+    "RULES.md",
+    "Attachments/Pasted image 20230323113622.png",
+    "Attachments/Pasted image 20230323113048.png",
+    "Attachments/Pasted image 20230323112820.png",
+    "Attachments/Pasted image 20230323112757.png",
+    "Attachments/Pasted image 20230323112638.png",
+    "Rasa/How to install Rasa.md",
+    "Templates/CodingBasic.md",
+    "Rasa",
+    "Templates/Database.md",
+    "Templates/DSA.md",
+    "Templates/NLP.md",
+>>>>>>> 0d26fca2e8840a025d55b49a1810f37b4947a08d
     "Templates/Python.md",
     "Templates/Thread.md",
-    "Python/TID.md"
+    "Templates/Untitled.md",
+    "Database/Untitled 1.md",
+    "How to build a task oriented Chatbot.md",
+    "AI/NLP/Untitled 1.md",
+    "obsidian-valut-main/AI/NLP",
+    "obsidian-valut-main/AI",
+    "obsidian-valut-main"
   ]
 }

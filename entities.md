@@ -1,0 +1,1 @@
+this are the specific information extracted from the incoming text from the user.  for example , <mark style="background: #FF5582A6;">**if a user want to buy a pizza and his location is dhanmondi, here, intent is buying** </mark>   and pizza and dhanmondi are [[entities]]

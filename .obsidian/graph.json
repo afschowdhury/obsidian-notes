@@ -5,8 +5,16 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Rasa",
+      "color": {
+        "a": 1,
+        "rgb": 7825646
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.5,
@@ -17,6 +25,10 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 0.12266699725642286,
+=======
+  "scale": 0.1668259496898343,
+>>>>>>> 0d26fca2e8840a025d55b49a1810f37b4947a08d
   "close": true
 }

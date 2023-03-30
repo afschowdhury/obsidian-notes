@@ -1,5 +1,7 @@
 [
   "templater-obsidian",
   "obsidian-git",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "gpt3-notes",
+  "highlightr-plugin"
 ]
