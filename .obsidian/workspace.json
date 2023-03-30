@@ -23,18 +23,6 @@
             "id": "a0d7039e2d79e163",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evolution of NLP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87e80097b9387a9f",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
@@ -106,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolution of NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evolution of NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Evolution of NLP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,13 +154,14 @@
   },
   "active": "a0d7039e2d79e163",
   "lastOpenFiles": [
-    "30-10-2022.md",
+    "desktop.ini",
     "Evolution of NLP.md",
+    "Python/Creating a thread.md",
+    "30-10-2022.md",
     "Python/Using thread class present in the threading module.md",
     "Python/start a thread from method.md",
     "Attachments/Pasted image 20230207114526.png",
     "Attachments/Pasted image 20230207120149.png",
-    "Python/Creating a thread.md",
     "Templates/Python.md",
     "Templates/Thread.md",
     "Python/TID.md"
