@@ -11,3 +11,13 @@ There are three ways and entity can be extracted in rasa
 1. [[Using Pre-Built Transformers]]
 2. [[Using Regex]]
 3. [[Using Machine Learning]]]
+
+when the entity is extracted, it is outputted in json format with details: 
+![[Pasted image 20230402174303.png]]
+
+
+The entity extractions are even more facilitated with some features such as:
+[[synonyms]] and [[lookup table]]
+
+
+Also [[entity roles and groups]] are very essential in entity extraction 
