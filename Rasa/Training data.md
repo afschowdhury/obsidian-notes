@@ -32,3 +32,9 @@ How should the user say things -> kept in the [[intents]]
 [[Preparing training data for entities]]
 
 
+**after updating the training data, we need to train the model using** 
+```shell
+ rasa train
+```
+
+

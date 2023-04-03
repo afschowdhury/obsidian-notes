@@ -36,3 +36,6 @@ rasa shell
 
 to interact with the chatbot 
 
+in the chat, type `/restart` to restart the session or start a new chat . 
+
+![[Pasted image 20230403162711.png]]

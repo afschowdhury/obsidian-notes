@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Rasa",
       "color": {
         "a": 1,
         "rgb": 7825646
+      }
+    },
+    {
+      "query": "tag:#rasa",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.11660477277965726,
+  "scale": 0.28548580833376846,
   "close": true
 }

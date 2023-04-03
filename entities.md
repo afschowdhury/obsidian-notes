@@ -18,5 +18,7 @@ The NER ( Named Entity Recognition) is the example of entity extraction from use
 
 ![[Pasted image 20230402162622.png]]
 
+Entities can be stored in [[domain]] files and training data should be annoted in [[NLU]] files
+
 [[Preparing training data for entities]]
 

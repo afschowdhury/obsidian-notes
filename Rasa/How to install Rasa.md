@@ -31,3 +31,10 @@ rasa init
 ```
 
 It will create a default rasa project .
+
+
+we can train a rasa model after preparing [[Training data]] by running
+```shell
+rasa train
+```
+

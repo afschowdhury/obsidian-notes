@@ -9,5 +9,10 @@ it is similar to the `fstring` to python.
 
 ![[Pasted image 20230403135510.png]]
 
-Slots are defined in the [[domain]] file . first we define the slots name, then type of the slot and other configurations. 
+Slots are defined in the [[domain]] file . first we define the slots name, then type of the slot and other [[configurations in slots]]. 
 ![[Pasted image 20230403135719.png]]
+![[Pasted image 20230403140502.png]]
+
+[[Setting Slots in Rasa]]
+
+[[Types of slots]]

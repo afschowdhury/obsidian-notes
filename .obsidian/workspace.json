@@ -8,12 +8,168 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23d80665589b51e9",
+            "id": "3b2610a1e4bea29c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slots.md",
+                "file": "list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "276a61bf43e592a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "any.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8382265545a5768a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "713aa8bf43a4bbaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "float.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb09f2d66e5c27a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "boolean.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "591206406036dff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "text.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "037e2bb4d149720b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "configurations in slots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d5ff8b8c3759a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "auto_fill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db98e7c5a3d96ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "influence_conversation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28ca6fda936f25d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types of slots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e689dba661baa3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Slots in Rasa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a33310e67571dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Using NLU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c8c2c06f7c34a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Preparing training data for entities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91aaf1605febe930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "output processing features after entity extraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +186,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11744fba75bc0f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "domain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b0363a4c62196c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "response.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55c9646ade80ec57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "response.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa92cbc8a89bbfdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "More interactive responses with multiple responses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adc5eb9059da7a83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "More interactive responses with multiple responses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -98,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entities.md",
+                "file": "More interactive responses with multiple responses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "entities.md",
+                "file": "More interactive responses with multiple responses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entities.md"
+                "file": "More interactive responses with multiple responses.md"
               }
             }
           }
@@ -161,45 +377,45 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "b858465955e4ff1b",
+  "active": "adc5eb9059da7a83",
   "lastOpenFiles": [
-    "slots.md",
-    "Preparing training data for entities.md",
-    "synonyms.md",
-    "Using Machine Learning.md",
-    "Using Pre-Built Transformers.md",
-    "entities.md",
-    "Attachments/Pasted image 20230403135719.png",
-    "Attachments/Pasted image 20230403135510.png",
+    "Attachments/Pasted image 20230403162722.png",
+    "Rasa/Rasa Commands.md",
+    "Attachments/Pasted image 20230403162711.png",
+    "More interactive responses with multiple responses.md",
+    "Attachments/Pasted image 20230403162447.png",
+    "Rasa/How to install Rasa.md",
     "Rasa/Training data.md",
-    "Templates/Rasa.md",
-    "Python/start a thread from method.md",
-    "Python/set in python.md",
-    "Python/thread aplication.md",
-    "Python/Thread.md",
-    "Python/Python Interveiw Questions.md",
-    "Python/Literals in Python.md",
-    "Python/Key Features of Python.md",
-    "Python/is vs == in python.md",
-    "Python/Difference between .py and .pyc files.md",
-    "Python/Advantages of threading.md",
-    "Python/2. Thread based Multitasking.md",
-    "Templates/Python.md",
+    "Anatomy of a response.md",
+    "Attachments/Pasted image 20230403161916.png",
+    "response.md",
+    "Attachments/Pasted image 20230403161535.png",
+    "Attachments/Pasted image 20230403160807.png",
+    "Attachments/Pasted image 20230403160452.png",
     "Rasa/Rasa docs.md",
-    "Checkpoints in stories.md",
-    "Preparing Intents for training.md",
-    "Using Regex.md",
-    "lookup table.md",
-    "entity roles and groups.md",
-    "Attachments/Pasted image 20230402181318.png",
-    "Attachments/Pasted image 20230402180827.png",
-    "Attachments/Pasted image 20230402180615.png",
-    "Attachments/Pasted image 20230402180202.png",
-    "Attachments/Pasted image 20230402175217.png",
-    "Attachments/Pasted image 20230402175008.png",
-    "Attachments/Pasted image 20230402174303.png",
+    "configurations in slots.md",
+    "Rasa/Introduction to Rasa.md",
+    "initial_value.md",
+    "Attachments/Pasted image 20230403153417.png",
+    "any.md",
+    "list.md",
+    "Attachments/Pasted image 20230403153222.png",
+    "Types of slots.md",
+    "Attachments/Pasted image 20230403152753.png",
+    "Attachments/Pasted image 20230403152645.png",
+    "float.md",
+    "categorical.md",
+    "boolean.md",
+    "text.md",
+    "slots.md",
+    "influence_conversation.md",
+    "auto_fill.md",
+    "Setting Slots in Rasa.md",
+    "Using NLU.md",
+    "output processing features after entity extraction.md",
+    "Preparing training data for entities.md",
+    "entities.md",
     "desktop.ini",
-    "Attachments/Pasted image 20230402164838.png",
     "Rasa",
     "obsidian-valut-main/AI/NLP",
     "obsidian-valut-main/AI",

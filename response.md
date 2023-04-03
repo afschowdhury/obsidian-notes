@@ -1,10 +1,22 @@
 
 #rasa #headless #nlp 
 This are the things the assistant can say or reply to the user after analyzing the [[intents]] and [[entities]]
+![[Pasted image 20230403160452.png]]
+
+[[Anatomy of a response]]
 
 
 
-## Random response with slots 
+
+
+[[More interactive responses with multiple responses]]
+
+
+
+
+
+
+## Random response with [[slots]]
 
 the response can be creative. For example 
 ![[Pasted image 20230323174640.png]]
