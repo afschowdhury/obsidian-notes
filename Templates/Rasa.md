@@ -3,7 +3,7 @@ type: Coding
 tags: rasa , headless, nlp
 category: work
 for_inteview: True
-creation_date: <% tp.file.creation_date()%>
+creation_date: <% tp.file.creation_date() %>
 modification_date: <% tp.file.last_modified_date() %>
 ---
 

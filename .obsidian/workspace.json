@@ -4,143 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f7ff99cefd72258b",
+        "id": "79f261b2feac3961",
         "type": "tabs",
         "children": [
           {
-            "id": "16a55c1fe235a9c0",
+            "id": "23d80665589b51e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preparing training data for entities.md",
+                "file": "slots.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1246eed0d0fa47d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "synonyms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7462674b1dc09ee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preparing training data for entities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be518c30163f9326",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entity roles and groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7069014bc149e29c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lookup table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a185f200d007fc2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "synonyms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76f40695323ab7fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preparing Intents for training.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3509ff4ee97fdf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Using Regex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc6a72fb63e02452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Using Pre-Built Transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "533dcefa31f92c37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Using Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f367e35af59cd33e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preparing Intents for training.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53d82fd0700519dd",
+            "id": "b858465955e4ff1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entity roles and groups.md",
+                "file": "entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "entity roles and groups.md",
+                "file": "entities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entity roles and groups.md"
+                "file": "entities.md"
               }
             }
           }
@@ -271,55 +151,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "gpt3-notes:GPT-3 Notes": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "be518c30163f9326",
+  "active": "b858465955e4ff1b",
   "lastOpenFiles": [
+    "slots.md",
+    "Preparing training data for entities.md",
+    "synonyms.md",
+    "Using Machine Learning.md",
+    "Using Pre-Built Transformers.md",
+    "entities.md",
+    "Attachments/Pasted image 20230403135719.png",
+    "Attachments/Pasted image 20230403135510.png",
+    "Rasa/Training data.md",
+    "Templates/Rasa.md",
+    "Python/start a thread from method.md",
+    "Python/set in python.md",
+    "Python/thread aplication.md",
+    "Python/Thread.md",
+    "Python/Python Interveiw Questions.md",
+    "Python/Literals in Python.md",
+    "Python/Key Features of Python.md",
+    "Python/is vs == in python.md",
+    "Python/Difference between .py and .pyc files.md",
+    "Python/Advantages of threading.md",
+    "Python/2. Thread based Multitasking.md",
+    "Templates/Python.md",
+    "Rasa/Rasa docs.md",
+    "Checkpoints in stories.md",
+    "Preparing Intents for training.md",
+    "Using Regex.md",
+    "lookup table.md",
+    "entity roles and groups.md",
     "Attachments/Pasted image 20230402181318.png",
     "Attachments/Pasted image 20230402180827.png",
     "Attachments/Pasted image 20230402180615.png",
-    "Preparing training data for entities.md",
-    "entity roles and groups.md",
-    "lookup table.md",
     "Attachments/Pasted image 20230402180202.png",
-    "entities.md",
-    "synonyms.md",
-    "intents.md",
-    "Preparing Intents for training.md",
-    "Rasa/Training data.md",
-    "Using Machine Learning.md",
     "Attachments/Pasted image 20230402175217.png",
     "Attachments/Pasted image 20230402175008.png",
     "Attachments/Pasted image 20230402174303.png",
     "desktop.ini",
     "Attachments/Pasted image 20230402164838.png",
-    "Using Pre-Built Transformers.md",
-    "Using Regex.md",
-    "Attachments/Pasted image 20230402163815.png",
-    "Attachments/Pasted image 20230402163415.png",
-    "Attachments/Pasted image 20230402162909.png",
-    "why few intents.md",
-    "domain.md",
-    "NLU.md",
-    "STORIES.md",
-    "Rasa/How the stories are made.md",
-    "OR statements in stories.md",
-    "Rasa/Introduction to Rasa.md",
-    "Do's and Don'ts in training data.md",
-    "RULES.md",
-    "Checkpoints in stories.md",
-    "Untitled 1.md",
-    "Rasa/Rasa docs.md",
-    "Rasa/Rasa Commands.md",
-    "task oriented dialogue system.md",
     "Rasa",
     "obsidian-valut-main/AI/NLP",
     "obsidian-valut-main/AI",
