@@ -11,18 +11,11 @@ This are the things the assistant can say or reply to the user after analyzing t
 
 [[More interactive responses with multiple responses]]
 
+[[interactive responses with slots]]
 
 
 
 
-
-## Random response with [[slots]]
-
-the response can be creative. For example 
-![[Pasted image 20230323174640.png]]
-
-
-here two response is given in the `utter_greet`. When called, one of the two will be randomly selected. Also, {name} is the slots. It is more likely to the `f string` in python. 
 
 ## Buttons and images in response 
 also you can send button and images to a response 
