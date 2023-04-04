@@ -10,12 +10,10 @@ here two response is given in the `utter_greet`. When called, one of the two wil
 we need to add it in [[domain]] file as the slots are defined in it.
 
 
-for doing that, first , new need to extract that as [[entities]]. in the [[domain]] file, we can define the entity and slot as the same name .  [[Using NLU#By using NLU, we can connect a slot to a entities . If the entity name and slots name is same, then the value of the entity can be automatically mapped into the slots and used further.]]
+![[Pasted image 20230404121054.png]]
 
+here the [[slots]] is of type [[any]]  and we have specified their [[slots mapping]] [[from_entity]]
 
-![[Pasted image 20230403174441.png]]
-
-here the [[slots]] is of type [[any]] .
 
 now we need to add some  examples in [[Preparing training data for entities]] for the model to learn the name pattern 
 

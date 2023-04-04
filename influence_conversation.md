@@ -18,7 +18,10 @@ here, we can see, the `user_name` [[slots]] can be used to capture the user name
 If a [[slots]] default configuration is set to `influence_conversation` , then , we need to add that to our [[STORIES]]  to let out chatbot know how to response or change the conversation depending upon the value of the slot is set or not.
 
 
-![[Pasted image 20230403143112.png]]
+![[Pasted image 20230404112226.png]]
+here we have implemented [[or features]] to set the value of the slots differently . [[or features]] enables us to write less stories and capture many scenarios in one story.
+
+> over using or statements leads to much longer training time
 
 
 the following examle will clear everything

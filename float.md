@@ -1,7 +1,9 @@
 #rasa 
 
 It is used to store any numerical values. like [[boolean]] and [[categorical]] it can [[influence_conversation]] based on its value. 
-![[Pasted image 20230403151410.png]]
+
+![[Pasted image 20230404120102.png]]
+
 
 it can also have `min_value` and `max_value` . if the user provides value that is under the min value, then it will be mapped to the `min_value` and same for the max value. 
 

@@ -7,3 +7,12 @@ from the beginning of the conversation and can be reset later on
 by NLU or custom actions.
 
 ![[Pasted image 20230403153417.png]]
+
+```yml
+slots:
+	current_account:
+		type: float
+		initial_value: 100
+		mappings:
+		- type: custom
+```
