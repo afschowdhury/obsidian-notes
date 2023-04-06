@@ -8,179 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adc5eb9059da7a83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "slots mapping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "963d276623ac0c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "interactive responses with slots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8434bd9c5710c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "from_intent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47d33dad4139b1b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "list.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c87c6ae49525390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "from_trigger_intent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73ace708b538d12f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "from_intent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fe4ab8d7bed568c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "slots mapping configurations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cb549149200bfb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "slots mapping configurations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "377abe0bac22174b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "from_text.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da55e4a1ada97e3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "from_entity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c40fc56104a2fc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "slots mapping configurations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f168318100265da0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "from_text.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f5b33755ede9866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "from_entity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51c83709501d4fc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "from_entity.md",
+                "file": "influence_conversation.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "79f841d6836edc15",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -194,33 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f6e8237f4c1b5472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Setting Slots in Rasa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e18798e374549808",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Using NLU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interactive responses with slots.md",
+                "file": "influence_conversation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -303,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interactive responses with slots.md",
+                "file": "influence_conversation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interactive responses with slots.md"
+                "file": "influence_conversation.md"
               }
             }
           }
@@ -349,19 +160,26 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "963d276623ac0c40",
+  "active": "51c83709501d4fc4",
   "lastOpenFiles": [
+    "slots.md",
+    "influence_conversation.md",
+    "from_entity.md",
+    "from_text.md",
+    "slots mapping configurations.md",
+    "from_intent.md",
+    "from_trigger_intent.md",
+    "list.md",
+    "Python/Pipreqs.md",
+    "slots mapping.md",
+    "OR statements in stories.md",
+    "interactive responses with slots.md",
     "Attachments/Pasted image 20230404121054.png",
     "response.md",
     "More interactive responses with multiple responses.md",
     "initial_value.md",
     "configurations in slots.md",
-    "slots mapping configurations.md",
-    "from_intent.md",
     "type of slots mapping.md",
-    "from_entity.md",
-    "slots mapping.md",
-    "list.md",
     "Types of slots.md",
     "any.md",
     "Attachments/Pasted image 20230404120155.png",
@@ -376,17 +194,10 @@
     "Attachments/Pasted image 20230404115821.png",
     "custom slot mapping.md",
     "Attachments/Pasted image 20230404115557.png",
-    "from_trigger_intent.md",
     "Attachments/Pasted image 20230404115312.png",
     "Attachments/Pasted image 20230404114847.png",
-    "from_text.md",
-    "Attachments/Pasted image 20230404114320.png",
-    "slots.md",
-    "influence_conversation.md",
     "Setting Slots in Rasa.md",
     "Using NLU.md",
-    "interactive responses with slots.md",
-    "Preparing training data for entities.md",
     "desktop.ini",
     "Rasa",
     "obsidian-valut-main/AI/NLP",
