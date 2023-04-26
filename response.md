@@ -6,12 +6,13 @@ This are the things the assistant can say or reply to the user after analyzing t
 [[Anatomy of a response]]
 
 
+# Multiple way to give responses : 
 
 
-
-[[More interactive responses with multiple responses]]
-
-[[interactive responses with slots]]
+1. [[More interactive responses with multiple responses]] 
+2. [[interactive responses with slots]]
+3. [[response with images]]
+4. [[response with buttons]]
 
 
 
