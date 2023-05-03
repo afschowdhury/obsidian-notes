@@ -8,67 +8,103 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51c83709501d4fc4",
+            "id": "f2c41c034b731731",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "response.md",
+                "file": "Preparing training data for entities.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4f8a06845aed705b",
+            "id": "a99ecb0ed0776b9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "langchain modules.md",
+                "file": "output processing features after entity extraction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e7447c43ca48d6d",
+            "id": "399bce9711a84752",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "langchain.md",
+                "file": "output processing features after entity extraction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "199e4975b2113b56",
+            "id": "f3a83de082082d21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "installing gradio.md",
+                "file": "entity roles and groups.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "490792968e7deadf",
+            "id": "e528796135565ad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gradio.md",
+                "file": "synonyms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "729e50c834df6a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "domain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8ef3bbdc541adf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Using NLU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66dcb3590a895cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/Custiom Actions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "installing gradio.md",
+                "file": "Rasa/Custiom Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "installing gradio.md",
+                "file": "Rasa/Custiom Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "installing gradio.md"
+                "file": "Rasa/Custiom Actions.md"
               }
             }
           }
@@ -197,44 +233,44 @@
       "gpt3-notes:GPT-3 Notes": false
     }
   },
-  "active": "199e4975b2113b56",
+  "active": "66dcb3590a895cdd",
   "lastOpenFiles": [
+    "slots mapping.md",
+    "Rasa/Custiom Actions.md",
+    "Using NLU.md",
+    "Setting Slots in Rasa.md",
+    "slots.md",
+    "Preparing training data for entities.md",
+    "output processing features after entity extraction.md",
+    "Using Pre-Built Transformers.md",
+    "entities.md",
+    "Rasa/Rasa docs.md",
+    "synonyms.md",
+    "domain.md",
+    "Database/DISTINCT.md",
+    "Database/SELECT statement.md",
+    "entity roles and groups.md",
+    "streamlit.md",
     "gradio.md",
-    "installing gradio.md",
+    "Untitled 2.md",
     "Python/start a thread from method.md",
+    "NLU.md",
+    "gradio Interface Class.md",
+    "basic gradio app.md",
+    "basic streamlit app.md",
+    "Attachments/Pasted image 20230426172548.png",
+    "installing gradio.md",
     "langchain modules.md",
     "langchain.md",
-    "intents.md",
-    "Preparing Intents for training.md",
-    "Rasa/How to install Rasa.md",
-    "response with buttons.md",
     "Attachments/Pasted image 20230412175107.png",
     "Attachments/Pasted image 20230412175024.png",
     "Attachments/Pasted image 20230412174950.png",
     "Attachments/Pasted image 20230412174511.png",
-    "response.md",
-    "slots.md",
-    "response with images.md",
     "Attachments/Pasted image 20230412154749.png",
     "Attachments/Pasted image 20230406151634.png",
-    "interactive responses with slots.md",
-    "influence_conversation.md",
-    "from_entity.md",
-    "from_text.md",
-    "slots mapping configurations.md",
-    "from_intent.md",
-    "from_trigger_intent.md",
-    "list.md",
-    "Python/Pipreqs.md",
-    "slots mapping.md",
-    "OR statements in stories.md",
     "Attachments/Pasted image 20230404121054.png",
-    "More interactive responses with multiple responses.md",
-    "initial_value.md",
-    "configurations in slots.md",
     "Attachments/Pasted image 20230404120155.png",
     "Attachments/Pasted image 20230404120126.png",
-    "Attachments/Pasted image 20230404120102.png",
     "desktop.ini",
     "Rasa",
     "obsidian-valut-main/AI/NLP",
