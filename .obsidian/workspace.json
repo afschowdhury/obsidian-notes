@@ -149,6 +149,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4b51da36e3ab7666",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -228,9 +236,7 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "gpt3-notes:GPT-3 Notes": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "66dcb3590a895cdd",
