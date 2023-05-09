@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "9aaea76cac29875f",
+            "id": "5801ecc1fd839ca8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-09 15.46.26.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-05-09 19.20.31.excalidraw.md"
               }
             }
           }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-09 15.46.26.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-05-09 19.20.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-09 15.46.26.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-05-09 19.20.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-05-09 15.46.26.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-05-09 19.20.31.excalidraw.md"
               }
             }
           }
@@ -252,9 +252,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9aaea76cac29875f",
+  "active": "5801ecc1fd839ca8",
   "lastOpenFiles": [
     "slots.md",
+    "Excalidraw/Drawing 2023-05-09 19.20.31.excalidraw.md",
     "Excalidraw/Drawing 2023-05-09 15.46.26.excalidraw.md",
     "Excalidraw",
     "slots mapping.md",
@@ -281,7 +282,6 @@
     "basic gradio app.md",
     "basic streamlit app.md",
     "Attachments/Pasted image 20230426172548.png",
-    "installing gradio.md",
     "Attachments/Pasted image 20230412175107.png",
     "Attachments/Pasted image 20230412175024.png",
     "Attachments/Pasted image 20230412174950.png",
