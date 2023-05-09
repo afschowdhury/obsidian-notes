@@ -18,3 +18,4 @@ Slots are defined in the [[domain]] file . first we define the slots name, then 
 [[Setting Slots in Rasa]]
 
 [[Types of slots]]
+
