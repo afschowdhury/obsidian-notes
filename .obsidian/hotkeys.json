@@ -6,5 +6,23 @@
       ],
       "key": "B"
     }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-insert-transclusion": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "A"
+    }
   ]
 }
