@@ -54,6 +54,42 @@
             }
           },
           {
+            "id": "645d659adc1d3c9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sales Data Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b84bcabfa51c655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatChef/Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4866beaa31251f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sales Data Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7a4275fc657b19a5",
             "type": "leaf",
             "state": {
@@ -76,9 +112,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e0d3351f5e732df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatChef/Tasks for Model End.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sales Data Analysis.md",
+                "file": "Excalidraw/ChatChef.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sales Data Analysis.md",
+                "file": "Excalidraw/ChatChef.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sales Data Analysis.md"
+                "file": "Excalidraw/ChatChef.excalidraw"
               }
             }
           }
@@ -213,14 +261,16 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "gpt3-notes:GPT-3 Notes": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "7a4275fc657b19a5",
+  "active": "957ee81521818456",
   "lastOpenFiles": [
-    "Excalidraw/ChatChef.excalidraw",
     "Sales Data Analysis.md",
+    "Excalidraw/ChatChef.excalidraw",
     "ChatChef/Plan.md",
+    "ChatChef/Tasks for Model End.md",
     "ChatChef/Initial Model Tasks.md",
     "2023-05-12.md",
     "Attachments/Pasted image 20230512144733.png",
@@ -254,7 +304,6 @@
     "Rasa/Custiom Actions.md",
     "Setting Slots in Rasa.md",
     "Using Pre-Built Transformers.md",
-    "entities.md",
     "Attachments/Pasted image 20230426172548.png",
     "desktop.ini",
     "Rasa",
