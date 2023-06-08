@@ -73,70 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "domain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8ef3bbdc541adf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Using NLU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66dcb3590a895cdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "slots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5801ecc1fd839ca8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-05-09 19.20.31.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "b9d5fd9f64734508",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
-          },
-          {
-            "id": "fd7e24952fefa326",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic Instructions For Better Prompt.md",
+                "file": "LLM/Andrew course/test note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -210,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Instructions For Better Prompt.md",
+                "file": "LLM/Andrew course/test note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Instructions For Better Prompt.md",
+                "file": "LLM/Andrew course/test note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Instructions For Better Prompt.md"
+                "file": "LLM/Andrew course/test note.md"
               }
             }
           }
@@ -275,13 +219,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd7e24952fefa326",
+  "active": "a8e933d0dee0e344",
   "lastOpenFiles": [
+    "Templates/Untitled.md",
+    "Templates/Thread.md",
+    "Templates/Rasa.md",
+    "Templates/Python.md",
+    "Templates/NLP.md",
+    "Templates/Database.md",
+    "Templates/DSA.md",
+    "Templates/CodingBasic.md",
+    "Templates/ChatChef.md",
+    "Templates",
+    "domain.md",
+    "Using NLU.md",
+    "LLM/Andrew course/test note.md",
+    "slots.md",
+    "Excalidraw/Drawing 2023-05-09 19.20.31.excalidraw.md",
+    "Preparing training data for entities.md",
     "Basic Instructions For Better Prompt.md",
-    "LLM/DeepLearning.ai course",
+    "LLM/Andrew course",
     "LLM",
     "Untitled 3.md",
-    "Templates/ChatChef.md",
+    "Rasa/Templates/ChatChef.md",
     "Sales Data Analysis.md",
     "Excalidraw/ChatChef.excalidraw",
     "ChatChef/Tasks for Model End.md",
@@ -298,30 +258,14 @@
     "Attachments/Chat chef timeline.png",
     "Attachments/Chat Chef Roadmap.png",
     "2023-05-12.md",
-    "slots.md",
-    "Excalidraw/Drawing 2023-05-09 19.20.31.excalidraw.md",
     "Excalidraw/Drawing 2023-05-09 15.46.26.excalidraw.md",
     "Excalidraw",
     "slots mapping.md",
     "intents.md",
-    "Rasa/Custiom Actions.md",
-    "Using NLU.md",
-    "Setting Slots in Rasa.md",
-    "Preparing training data for entities.md",
-    "output processing features after entity extraction.md",
-    "Using Pre-Built Transformers.md",
-    "entities.md",
-    "Rasa/Rasa docs.md",
-    "synonyms.md",
-    "domain.md",
-    "Database/DISTINCT.md",
-    "Database/SELECT statement.md",
-    "entity roles and groups.md",
     "Attachments/Pasted image 20230426172548.png",
     "desktop.ini",
     "Rasa",
     "obsidian-valut-main/AI/NLP",
-    "obsidian-valut-main/AI",
-    "obsidian-valut-main"
+    "obsidian-valut-main/AI"
   ]
 }
