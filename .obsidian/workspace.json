@@ -219,8 +219,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8e933d0dee0e344",
+  "active": "729e50c834df6a6c",
   "lastOpenFiles": [
+    "test.sh",
     "Templates/Untitled.md",
     "Templates/Thread.md",
     "Templates/Rasa.md",
@@ -261,7 +262,6 @@
     "Excalidraw/Drawing 2023-05-09 15.46.26.excalidraw.md",
     "Excalidraw",
     "slots mapping.md",
-    "intents.md",
     "Attachments/Pasted image 20230426172548.png",
     "desktop.ini",
     "Rasa",
