@@ -20,12 +20,48 @@
             }
           },
           {
-            "id": "f371738329aa0cb4",
+            "id": "6292c966fc7c5509",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Output Parser.md",
+                "file": "LLM/Memory in Langchain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e59ca0445b94c53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/Why we need output parser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc144790cd89da6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/What is output parser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa58653d8b5dce48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/using output parser.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test page new.md",
+                "file": "LLM/Memory in Langchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test page new.md",
+                "file": "LLM/Memory in Langchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test page new.md"
+                "file": "LLM/Memory in Langchain.md"
               }
             }
           }
@@ -207,11 +243,21 @@
       "obsidian-raindrop-highlights:Sync your Raindrop highlights": false
     }
   },
-  "active": "c8140e78ad1dd197",
+  "active": "6292c966fc7c5509",
   "lastOpenFiles": [
-    "LLM/Output Parser.md",
-    "test page new.md",
     "LLM/Advantage of using Langchain.md",
+    "LLM/Memory in Langchain.md",
+    "basic gradio app.md",
+    "LLM/Output Parser.md",
+    "LLM/Why we need output parser.md",
+    "LLM/What is output parser.md",
+    "LLM/using output parser.md",
+    "Attachments/Pasted image 20230611143608.png",
+    "Attachments/Pasted image 20230611143445.png",
+    "Attachments/Pasted image 20230611143306.png",
+    "Attachments/Pasted image 20230611141552.png",
+    "LLM/test_t.md",
+    "test page new.md",
     "LLM/Prompt Template in Langchain.md",
     "LLM/LLM Notes.md",
     "Prompt using OpenAI.md",
@@ -226,28 +272,18 @@
     "Attachments/Pasted image 20230611114721.png",
     "Attachments/Pasted image 20230611114630.png",
     "Attachments/Pasted image 20230611114510.png",
-    "Attachments/Pasted image 20230611114343.png",
     "Untitled 4.md",
     "LLM/Openai Helper Function.md",
-    "Attachments/Pasted image 20230611113410.png",
-    "Attachments/Pasted image 20230611112859.png",
     "LLM/Langchain.md",
     "langchain.md",
     "entity roles and groups.md",
     "synonyms.md",
-    "Attachments/Pasted image 20230608143858.png",
     "Excalidraw/Drawing 2023-06-08 14.20.38.excalidraw.md",
     "Templates/LLM.md",
     "Templates/Rasa.md",
     "LLM/Andrew course/test note.md",
     "test.sh",
     "Templates/Untitled.md",
-    "Templates/Thread.md",
-    "Templates/Python.md",
-    "Templates/NLP.md",
-    "Templates/Database.md",
-    "Templates/DSA.md",
-    "Templates/CodingBasic.md",
     "Templates",
     "LLM/Andrew course",
     "LLM",

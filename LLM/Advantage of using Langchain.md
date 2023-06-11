@@ -18,6 +18,7 @@ Current Folder : LLM
 
 1. Better [[Prompt template]] see [[Prompt Template in Langchain]]
 2. Built in [[Output Parser]]
+3. Multiple Conversation Memory [[Memory in Langchain]]
 
 
 we have openai prompts but, using [[langchain]] gives us the more control , flexibility, and liberty to use multiple tools to work with llm.
