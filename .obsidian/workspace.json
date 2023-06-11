@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "79f261b2feac3961",
+        "id": "042a5d16a8aa0bdf",
         "type": "tabs",
         "children": [
           {
-            "id": "729e50c834df6a6c",
+            "id": "8ebee336ddc36709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Openai Helper Function.md",
+                "file": "LLM/Prompt Template in Langchain.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/Openai Helper Function.md",
+                "file": "LLM/Prompt Template in Langchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/Openai Helper Function.md",
+                "file": "LLM/Prompt Template in Langchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Openai Helper Function.md"
+                "file": "LLM/Prompt Template in Langchain.md"
               }
             }
           }
@@ -158,11 +158,14 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "729e50c834df6a6c",
+  "active": "8ebee336ddc36709",
   "lastOpenFiles": [
+    "Untitled 4.md",
+    "LLM/Prompt Template in Langchain.md",
+    "LLM/Openai Helper Function.md",
+    "Attachments/Pasted image 20230611113410.png",
     "Attachments/Pasted image 20230611112859.png",
     "LLM/Langchain.md",
-    "LLM/Openai Helper Function.md",
     "LLM/Advantage of using Langchain prompt.md",
     "langchain.md",
     "entity roles and groups.md",
@@ -191,7 +194,6 @@
     "Basic Instructions For Better Prompt.md",
     "LLM/Andrew course",
     "LLM",
-    "Untitled 3.md",
     "Excalidraw/ChatChef.excalidraw",
     "ChatChef",
     "Attachments/chatchef.png",
@@ -200,8 +202,6 @@
     "Attachments/chatchef .png",
     "Attachments/Pasted image 20230512144733.png",
     "Attachments/Pasted image 20230512144651.png",
-    "Attachments/Pasted image 20230512144603.png",
-    "Attachments/Chat chef timeline.png",
     "Excalidraw",
     "desktop.ini",
     "Rasa",

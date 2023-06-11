@@ -43,3 +43,21 @@ def get_completion(prompt, model="gpt-3.5-turbo"):
 
 `response.choices[0].message["content"]` this will return the only string content . but if you check the response only by modifying the function you will get ![[Pasted image 20230611112859.png]]
 it also shows how many tokens are used . 
+
+
+also you can use this template 
+```python 
+def get_completion(prompt, model="gpt-3.5-turbo"):
+    messages = [{"role": "user", "content": prompt}]
+    response = openai.ChatCompletion.create(
+        model=model,
+        messages=messages,
+        temperature=0, 
+    )
+    
+    print(f"Total token used : {response.usage.total_tokens}")
+    return response.choices[0].message["content"] 
+```
+
+![[Pasted image 20230611113410.png]]
+
