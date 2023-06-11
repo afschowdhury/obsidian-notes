@@ -21,6 +21,6 @@ Memory are used to store the conversation and give memory to the chatbots so tha
 there are 4 types of memory in [[langchain]]
 
 -  [[ConversationBufferMemory]]
-- ConversationBufferWindowMemory
-- ConversationTokenBufferMemory
-- ConversationSummaryMemory
+- [[ConversationBufferWindowMemory]]
+- [[ConversationTokenBufferMemory]]
+- [[ConversationSummaryMemory]]
