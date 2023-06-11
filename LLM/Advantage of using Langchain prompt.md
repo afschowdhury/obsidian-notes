@@ -15,7 +15,7 @@ Current Folder : LLM
 
 [[08-06-2023]]
 
-we have openai prompts but, using [[]]
+we have openai prompts but, using [[langchain]] gives us the more control , flexibility, and liberty to use multiple tools to work with llm.
 
 ![[Pasted image 20230608143724.png]] 
 
