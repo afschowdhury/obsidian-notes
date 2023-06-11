@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "739a8be242298bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/Prompt Template in Langchain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/LLM Notes.md",
+                "file": "LLM/Output Parser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/LLM Notes.md",
+                "file": "LLM/Output Parser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/LLM Notes.md"
+                "file": "LLM/Output Parser.md"
               }
             }
           }
@@ -219,14 +231,14 @@
       "obsidian-raindrop-highlights:Sync your Raindrop highlights": false
     }
   },
-  "active": "c47a3f6af54a27be",
+  "active": "b6a3ac9d47228ed4",
   "lastOpenFiles": [
-    "LLM/Output Parser.md",
     "LLM/LLM Notes.md",
+    "LLM/Prompt Template in Langchain.md",
+    "LLM/Output Parser.md",
     "LLM/Advantage of using Langchain.md",
     "Prompt using OpenAI.md",
     "Untitled 5.md",
-    "LLM/Prompt Template in Langchain.md",
     "RainDrop/Webs/20 Best Productivity Podcasts You Have To Listen To in 2023 - Quidlo.md",
     "RainDrop/Webs",
     "RainDrop",

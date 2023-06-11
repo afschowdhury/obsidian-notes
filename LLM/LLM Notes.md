@@ -4,8 +4,13 @@
 
 
 ```dataview
-TABLE file.name AS "File", file.tags AS "Rating" FROM #llm
+TABLE file.name AS "File", file.tags AS "Tags" FROM #llm
 ```
 
 
-# la
+
+# langchains
+
+```dataview
+TABLE file.name AS "File", file.tags AS "Tags" FROM #langchain 
+```
