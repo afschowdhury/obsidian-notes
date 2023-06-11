@@ -8,17 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Rasa",
+      "query": "path:LLM",
       "color": {
         "a": 1,
-        "rgb": 7825646
-      }
-    },
-    {
-      "query": "tag:#rasa",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
+        "rgb": 10678786
       }
     }
   ],
@@ -32,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.09650290924994283,
+  "scale": 0.45050811767578125,
   "close": true
 }
