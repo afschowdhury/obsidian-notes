@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Langchain.md",
+                "file": "LLM/Openai Helper Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/Langchain.md",
+                "file": "LLM/Openai Helper Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/Langchain.md",
+                "file": "LLM/Openai Helper Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Langchain.md"
+                "file": "LLM/Openai Helper Function.md"
               }
             }
           }
@@ -160,7 +160,9 @@
   },
   "active": "729e50c834df6a6c",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230611112859.png",
     "LLM/Langchain.md",
+    "LLM/Openai Helper Function.md",
     "LLM/Advantage of using Langchain prompt.md",
     "langchain.md",
     "entity roles and groups.md",
@@ -190,8 +192,6 @@
     "LLM/Andrew course",
     "LLM",
     "Untitled 3.md",
-    "Rasa/Templates/ChatChef.md",
-    "Sales Data Analysis.md",
     "Excalidraw/ChatChef.excalidraw",
     "ChatChef",
     "Attachments/chatchef.png",
