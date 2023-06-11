@@ -18,7 +18,7 @@ Current Folder : LLM
 
 
 for using openai , we have to follow the [[Openai Helper Function]] to initialize , then create prompt using fstings. 
-![[Prompt using OpenAI]]
+[[Prompt using OpenAI]]
 
 ## But , In langchain 
 
@@ -31,4 +31,12 @@ prompt
 1. You can see, there is `HumanMessagePromptTemplate` it stores the users message and with the 
 
 
-2. we also can see the input variables are automatically detected. Now, we need to format ( inject the input variables into the prompt template)
+2. we also can see the input variables are automatically detected. Now, we need to format ( inject the input variables into the [[Prompt template]])
+![[Pasted image 20230611115412.png]]
+
+now it becomes more similar to [[Prompt using OpenAI]] promt.
+
+now , if we feed it to the model 
+![[Pasted image 20230611115900.png]]
+
+but , the cool thing is , if we 
