@@ -39,4 +39,9 @@ now it becomes more similar to [[Prompt using OpenAI]] promt.
 now , if we feed it to the model 
 ![[Pasted image 20230611115900.png]]
 
-but , the cool thing is , if we 
+but , the cool thing is , if we see the customer_messages and customer_response
+![[Pasted image 20230611120135.png]]
+
+the response is AIMessage
+
+it helps to built the conversation and keep track of the messages.
