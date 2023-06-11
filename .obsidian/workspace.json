@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a512430de5224e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompt using OpenAI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -160,8 +172,13 @@
   },
   "active": "8ebee336ddc36709",
   "lastOpenFiles": [
-    "Untitled 4.md",
+    "Attachments/Pasted image 20230611114721.png",
+    "Attachments/Pasted image 20230611114630.png",
+    "Prompt using OpenAI.md",
+    "Attachments/Pasted image 20230611114510.png",
+    "Attachments/Pasted image 20230611114343.png",
     "LLM/Prompt Template in Langchain.md",
+    "Untitled 4.md",
     "LLM/Openai Helper Function.md",
     "Attachments/Pasted image 20230611113410.png",
     "Attachments/Pasted image 20230611112859.png",
@@ -190,8 +207,6 @@
     "Using NLU.md",
     "slots.md",
     "Excalidraw/Drawing 2023-05-09 19.20.31.excalidraw.md",
-    "Preparing training data for entities.md",
-    "Basic Instructions For Better Prompt.md",
     "LLM/Andrew course",
     "LLM",
     "Excalidraw/ChatChef.excalidraw",
@@ -199,9 +214,6 @@
     "Attachments/chatchef.png",
     "Attachments/chatchef timeline.png",
     "Attachments/chatchef roadmap.png",
-    "Attachments/chatchef .png",
-    "Attachments/Pasted image 20230512144733.png",
-    "Attachments/Pasted image 20230512144651.png",
     "Excalidraw",
     "desktop.ini",
     "Rasa",
