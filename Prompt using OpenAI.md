@@ -10,3 +10,6 @@ create prompts using f-strings
 
 give the template to model for getting completion
 ![[Pasted image 20230611114510.png]]
+
+
+[[Output Parser]]
