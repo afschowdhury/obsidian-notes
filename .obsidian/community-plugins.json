@@ -1,10 +1,9 @@
 [
   "templater-obsidian",
-  "obsidian-git",
-  "gpt3-notes",
   "highlightr-plugin",
   "dataview",
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
-  "obsidian-to-notion"
+  "obsidian-to-notion",
+  "obsidian-raindrop-highlights"
 ]

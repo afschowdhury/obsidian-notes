@@ -189,17 +189,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "gpt3-notes:GPT-3 Notes": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-to-notion:Share to notion": false
+      "obsidian-to-notion:Share to notion": false,
+      "obsidian-raindrop-highlights:Sync your Raindrop highlights": false
     }
   },
   "active": "8ebee336ddc36709",
   "lastOpenFiles": [
+    "RainDrop/Webs/20 Best Productivity Podcasts You Have To Listen To in 2023 - Quidlo.md",
+    "RainDrop/Webs",
+    "RainDrop",
+    "LLM/Prompt Template in Langchain.md",
     "Attachments/Pasted image 20230611120135.png",
     "Attachments/Pasted image 20230611115900.png",
     "Prompt using OpenAI.md",
-    "LLM/Prompt Template in Langchain.md",
     "Attachments/Pasted image 20230611115412.png",
     "Prompt template.md",
     "Attachments/Pasted image 20230611114721.png",
@@ -216,7 +219,6 @@
     "entity roles and groups.md",
     "synonyms.md",
     "Attachments/Pasted image 20230608143858.png",
-    "Attachments/Pasted image 20230608143724.png",
     "Excalidraw/Drawing 2023-06-08 14.20.38.excalidraw.md",
     "Templates/LLM.md",
     "Templates/Rasa.md",
@@ -239,8 +241,6 @@
     "Excalidraw/ChatChef.excalidraw",
     "ChatChef",
     "Excalidraw",
-    "desktop.ini",
-    "Rasa",
-    "obsidian-valut-main/AI/NLP"
+    "desktop.ini"
   ]
 }
