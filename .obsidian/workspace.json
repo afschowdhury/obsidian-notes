@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9451b9fc40c2d829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/ConversationSummaryMemory.md",
+                "file": "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/ConversationSummaryMemory.md",
+                "file": "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/ConversationSummaryMemory.md"
+                "file": "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md"
               }
             }
           }
@@ -267,13 +279,14 @@
       "obsidian-raindrop-highlights:Sync your Raindrop highlights": false
     }
   },
-  "active": "e908fb48cde538ee",
+  "active": "9451b9fc40c2d829",
   "lastOpenFiles": [
+    "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
+    "LLM/ConversationSummaryMemory.md",
     "Attachments/Pasted image 20230611152545.png",
     "Attachments/Pasted image 20230611152530.png",
     "Attachments/Pasted image 20230611152500.png",
     "LLM/Memory in Langchain.md",
-    "LLM/ConversationSummaryMemory.md",
     "LLM/ConversationTokenBufferMemory.md",
     "Attachments/Pasted image 20230611151545.png",
     "LLM/ConversationBufferWindowMemory.md",
@@ -284,7 +297,6 @@
     "Attachments/Pasted image 20230611150750.png",
     "LLM/ConversationBufferMemory.md",
     "Attachments/Pasted image 20230611150506.png",
-    "Attachments/Pasted image 20230611150339.png",
     "LLM/Why we need output parser.md",
     "LLM/Prompt Template in Langchain.md",
     "LLM/Advantage of using Langchain.md",
