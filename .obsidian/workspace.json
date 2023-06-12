@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "c5ecccb366be1077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/SimpleSequentialChain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea541903fbd766f6",
             "type": "leaf",
             "state": {
@@ -42,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f8ab9fa5b660c268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/Chains in Langchain.md",
+                "file": "LLM/SimpleSequentialChain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/Chains in Langchain.md",
+                "file": "LLM/SimpleSequentialChain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Chains in Langchain.md"
+                "file": "LLM/SimpleSequentialChain.md"
               }
             }
           }
@@ -183,12 +207,14 @@
       "obsidian-raindrop-highlights:Sync your Raindrop highlights": false
     }
   },
-  "active": "b7791592a8df3bb1",
+  "active": "c5ecccb366be1077",
   "lastOpenFiles": [
-    "LLM/LLMChain.md",
     "LLM/Chains in Langchain.md",
-    "LLM/LLM Notes.md",
+    "LLM/SimpleSequentialChain.md",
+    "LLM/LLMChain.md",
     "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
+    "Attachments/Pasted image 20230612124918.png",
+    "LLM/LLM Notes.md",
     "LLM/ConversationSummaryMemory.md",
     "Attachments/Pasted image 20230611152545.png",
     "Attachments/Pasted image 20230611152530.png",
@@ -203,7 +229,6 @@
     "Attachments/Pasted image 20230611150816.png",
     "Attachments/Pasted image 20230611150750.png",
     "LLM/ConversationBufferMemory.md",
-    "Attachments/Pasted image 20230611150506.png",
     "LLM/Why we need output parser.md",
     "LLM/Prompt Template in Langchain.md",
     "LLM/Advantage of using Langchain.md",
@@ -222,7 +247,6 @@
     "Untitled 4.md",
     "LLM/Openai Helper Function.md",
     "LLM/Langchain.md",
-    "langchain.md",
     "test.sh",
     "Templates",
     "LLM/Andrew course",
