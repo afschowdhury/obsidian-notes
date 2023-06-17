@@ -23,11 +23,9 @@
             "id": "b7791592a8df3bb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "LLM/LLM Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "drawings/blog writter.excalidraw"
               }
             }
           },
@@ -44,51 +42,25 @@
             }
           },
           {
-            "id": "f8ab9fa5b660c268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a15077ab3c0a4684",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "from_intent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d22ae6912cd18a3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "slots mapping configurations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7a1b1da8aec6848e",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "968aa23a11c0fae0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "drawings/blog writter.excalidraw"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/LLM Notes.md",
+                "file": "drawings/blog writter.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/LLM Notes.md",
+                "file": "drawings/blog writter.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/LLM Notes.md"
+                "file": "drawings/blog writter.excalidraw"
               }
             }
           }
@@ -227,17 +199,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7791592a8df3bb1",
+  "active": "968aa23a11c0fae0",
   "lastOpenFiles": [
-    "drawings/blog writter.png",
     "LLM/LLMChain.md",
     "from_intent.md",
+    "drawings/blog writter.excalidraw",
+    "LLM/LLM Notes.md",
+    "drawings/blog writter.png",
     "slots mapping configurations.md",
     "from_trigger_intent.md",
     "basic gradio app.md",
     "basic streamlit app.md",
     "LLM/Output Parser.md",
-    "drawings/blog writter.excalidraw",
     "Blog ai.md",
     "drawings",
     "LLM/Chains in Langchain.md",
@@ -246,7 +219,6 @@
     "Attachments/Pasted image 20230612131044.png",
     "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
     "Attachments/Pasted image 20230612124918.png",
-    "LLM/LLM Notes.md",
     "LLM/ConversationSummaryMemory.md",
     "Attachments/Pasted image 20230611152545.png",
     "Attachments/Pasted image 20230611152530.png",
