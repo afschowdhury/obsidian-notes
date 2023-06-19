@@ -2098,8 +2098,8 @@
 		},
 		{
 			"type": "arrow",
-			"version": 134,
-			"versionNonce": 567774685,
+			"version": 135,
+			"versionNonce": 1611398401,
 			"isDeleted": false,
 			"id": "YwwgvN96C4UJGUxtiyvsk",
 			"fillStyle": "hachure",
@@ -2120,7 +2120,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1686983843641,
+			"updated": 1687146188012,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2153,8 +2153,8 @@
 		},
 		{
 			"type": "arrow",
-			"version": 418,
-			"versionNonce": 1185020496,
+			"version": 420,
+			"versionNonce": 1976862785,
 			"isDeleted": false,
 			"id": "3UZz-sQtMIrS1bxTO6ak2",
 			"fillStyle": "hachure",
@@ -2175,18 +2175,18 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1686652901165,
+			"updated": 1687146509638,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "PHcy2aV3ytyyvWaXUh_uE",
-				"focus": 0.03165901589589897,
+				"focus": 0.031655965486678615,
 				"gap": 17.136665763250136
 			},
 			"endBinding": {
 				"elementId": "CstFrQ7EdkKqJDW4m3hmX",
-				"focus": -0.06424699574526681,
-				"gap": 15.895658538027192
+				"focus": -0.06424699574526671,
+				"gap": 15.895658538027078
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -5373,10 +5373,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 190.6724139617948,
-		"scrollY": -307.92921341220256,
+		"scrollX": 883.0750113643926,
+		"scrollY": 43.25914336990445,
 		"zoom": {
-			"value": 0.55
+			"value": 0.5
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

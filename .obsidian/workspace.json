@@ -43,6 +43,18 @@
             }
           },
           {
+            "id": "8693792fb5931b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/SimpleSequentialChain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7a1b1da8aec6848e",
             "type": "leaf",
             "state": {
@@ -202,6 +214,8 @@
   },
   "active": "ea541903fbd766f6",
   "lastOpenFiles": [
+    "LLM/SimpleSequentialChain.md",
+    "LLM/Chains in Langchain.md",
     "LLM/LLMChain.md",
     "drawings/blog writter.excalidraw",
     "from_intent.md",
@@ -214,9 +228,7 @@
     "LLM/Output Parser.md",
     "Blog ai.md",
     "drawings",
-    "LLM/Chains in Langchain.md",
     "Untitled 6.md",
-    "LLM/SimpleSequentialChain.md",
     "Attachments/Pasted image 20230612131044.png",
     "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
     "Attachments/Pasted image 20230612124918.png",

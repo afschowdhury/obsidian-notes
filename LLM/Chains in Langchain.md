@@ -27,6 +27,8 @@ Current Folder : LLM
 Chains are useful because they allow you to create and run applications powered by language models more easily and efficiently. You can use the standard interface and the built-in chains provided by LangChain, or you can create your own custom chains. **You can also use chains to connect language models to other sources of data, interact with the environment, and use memory.**
 
 
+
+## Types of Chains
 Some examples of chains in LangChain are:
 
 - [[LLMChain]]: A chain that combines a prompt template, a language model (either an LLM or a ChatModel), and an optional [[output parser]]. This chain takes multiple input variables, uses the [[prompt template]] to format them into a prompt, passes it to the language model, and parses the output into a final format.
@@ -37,6 +39,5 @@ Some examples of chains in LangChain are:
 
 
 
-## Types of Chains
 
-1. [[LLMChain]]
+
