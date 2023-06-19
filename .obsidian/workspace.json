@@ -43,6 +43,18 @@
             }
           },
           {
+            "id": "fe66313fb4a689fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/SequentialChain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8693792fb5931b7c",
             "type": "leaf",
             "state": {
@@ -58,8 +70,12 @@
             "id": "7a1b1da8aec6848e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -73,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/SimpleSequentialChain.md",
+                "file": "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/SimpleSequentialChain.md",
+                "file": "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/SimpleSequentialChain.md"
+                "file": "LLM/Difference between SimpleSequentialChain and SequentialChain.md"
               }
             }
           }
@@ -212,8 +228,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8693792fb5931b7c",
+  "active": "7a1b1da8aec6848e",
   "lastOpenFiles": [
+    "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
+    "LLM/SequentialChain.md",
     "LLM/Chains in Langchain.md",
     "LLM/SimpleSequentialChain.md",
     "LLM/LLMChain.md",
@@ -250,7 +268,6 @@
     "LLM/What is output parser.md",
     "LLM/using output parser.md",
     "LLM/test_t.md",
-    "test page new.md",
     "RainDrop/Webs",
     "RainDrop",
     "test.sh",

@@ -20,7 +20,8 @@ A chain that runs multiple [[LLMChain]] in sequence, **passing the output of one
 </mark>
 
 
-> It works well when there is a single input and single output . For multiple input and multiple output we us
+> It works well when there is a single input and single output . For multiple input and multiple output use [[SequentialChain]]
+> 
 
 ![[Pasted image 20230612131044.png]]
 
