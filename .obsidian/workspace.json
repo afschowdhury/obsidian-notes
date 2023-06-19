@@ -35,8 +35,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/LLMChain.md",
+                "file": "LLM/Chains in Langchain.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -60,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drawings/blog writter.excalidraw",
+                "file": "LLM/Chains in Langchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drawings/blog writter.excalidraw",
+                "file": "LLM/Chains in Langchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drawings/blog writter.excalidraw"
+                "file": "LLM/Chains in Langchain.md"
               }
             }
           }
@@ -199,11 +200,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "968aa23a11c0fae0",
+  "active": "ea541903fbd766f6",
   "lastOpenFiles": [
     "LLM/LLMChain.md",
-    "from_intent.md",
     "drawings/blog writter.excalidraw",
+    "from_intent.md",
     "LLM/LLM Notes.md",
     "drawings/blog writter.png",
     "slots mapping configurations.md",
