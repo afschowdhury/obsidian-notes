@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/Chains in Langchain.md",
+                "file": "LLM/SimpleSequentialChain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/Chains in Langchain.md",
+                "file": "LLM/SimpleSequentialChain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Chains in Langchain.md"
+                "file": "LLM/SimpleSequentialChain.md"
               }
             }
           }
@@ -212,10 +212,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea541903fbd766f6",
+  "active": "8693792fb5931b7c",
   "lastOpenFiles": [
-    "LLM/SimpleSequentialChain.md",
     "LLM/Chains in Langchain.md",
+    "LLM/SimpleSequentialChain.md",
     "LLM/LLMChain.md",
     "drawings/blog writter.excalidraw",
     "from_intent.md",
