@@ -230,6 +230,7 @@
   },
   "active": "fe66313fb4a689fe",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230619100459.png",
     "LLM/Chains in Langchain.md",
     "LLM/SequentialChain.md",
     "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
@@ -267,7 +268,6 @@
     "LLM/Advantage of using Langchain.md",
     "LLM/What is output parser.md",
     "LLM/using output parser.md",
-    "LLM/test_t.md",
     "RainDrop/Webs",
     "RainDrop",
     "test.sh",

@@ -19,5 +19,6 @@ A chain that runs multiple LLMChains in sequence, passing multiple outputs and i
 
 
 Here we can chain multiple [[LLMChain]] but , the input and output to each chain must be very precise. 
+![[Pasted image 20230619100459.png]]
 
-
+here, we can see, in the prompt we are defining the input keys to that [[LLMChain]] and when instantiating the chain , we are defining the output of that [[LLMChain]] . 
