@@ -65,21 +65,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7a1b1da8aec6848e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#rasa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +121,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LLM/SimpleSequentialChain.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,11 +154,12 @@
             }
           },
           {
-            "id": "d865cdfaf3d042fe",
+            "id": "40e3e04772369f6a",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "LLM/SimpleSequentialChain.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +183,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -203,6 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LLM/SimpleSequentialChain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +216,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LLM/SimpleSequentialChain.md"
+              }
             }
           },
           {
@@ -236,11 +230,25 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "c9199fac796b4e08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "678da2d476f21a18",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,10 +265,10 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "cbaa088ba032ecce",
+  "active": "a30662451c3b4de4",
   "lastOpenFiles": [
-    "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
     "LLM/SimpleSequentialChain.md",
+    "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
     "LLM/SequentialChain.md",
     "Attachments/Pasted image 20230619101000.png",
     "Attachments/Pasted image 20230619100923.png",
