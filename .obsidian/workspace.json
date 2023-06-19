@@ -60,14 +60,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/SimpleSequentialChain.md",
+                "file": "Anatomy of a response.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b13b83f48155ec39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/How to install Rasa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfe7a77322828de1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/LLM Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -96,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rasa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/SimpleSequentialChain.md",
+                "file": "Rasa/How to install Rasa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/SimpleSequentialChain.md",
+                "file": "Rasa/How to install Rasa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/SimpleSequentialChain.md",
+                "file": "Rasa/How to install Rasa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/SimpleSequentialChain.md"
+                "file": "Rasa/How to install Rasa.md"
               }
             }
           },
@@ -265,8 +288,12 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "a30662451c3b4de4",
+  "active": "b13b83f48155ec39",
   "lastOpenFiles": [
+    "Rasa/Rasa Notes.md",
+    "LLM/LLM Notes.md",
+    "Untitled 7.md",
+    "Anatomy of a response.md",
     "LLM/SimpleSequentialChain.md",
     "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
     "LLM/SequentialChain.md",
@@ -277,7 +304,6 @@
     "LLM/LLMChain.md",
     "drawings/blog writter.excalidraw",
     "from_intent.md",
-    "LLM/LLM Notes.md",
     "drawings/blog writter.png",
     "slots mapping configurations.md",
     "from_trigger_intent.md",
@@ -302,8 +328,6 @@
     "LLM/Why we need output parser.md",
     "LLM/Prompt Template in Langchain.md",
     "LLM/Advantage of using Langchain.md",
-    "LLM/What is output parser.md",
-    "LLM/using output parser.md",
     "RainDrop/Webs",
     "RainDrop",
     "test.sh",
