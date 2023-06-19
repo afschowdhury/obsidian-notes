@@ -1,5 +1,6 @@
 {
   "accentColor": "#aa8888",
   "cssTheme": "Spectrum",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "APL386 Unicode"
 }
