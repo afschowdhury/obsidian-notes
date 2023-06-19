@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
+                "file": "LLM/SequentialChain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
+                "file": "LLM/SequentialChain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Difference between SimpleSequentialChain and SequentialChain.md"
+                "file": "LLM/SequentialChain.md"
               }
             }
           }
@@ -228,11 +228,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a1b1da8aec6848e",
+  "active": "fe66313fb4a689fe",
   "lastOpenFiles": [
-    "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
-    "LLM/SequentialChain.md",
     "LLM/Chains in Langchain.md",
+    "LLM/SequentialChain.md",
+    "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
     "LLM/SimpleSequentialChain.md",
     "LLM/LLMChain.md",
     "drawings/blog writter.excalidraw",

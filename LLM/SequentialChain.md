@@ -15,4 +15,9 @@ Current Folder : LLM
 
 [[19-06-2023]]
 
+A chain that runs multiple LLMChains in sequence, passing multiple outputs and inputs between them. Each chain can have multiple input and output unlike [[SimpleSequentialChain]]. 
+
+
+Here we can chain multiple [[LLMChain]] but , the input and output to each chain must be very precise. 
+
 
