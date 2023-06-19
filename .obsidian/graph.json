@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -13,18 +13,25 @@
         "a": 1,
         "rgb": 10678786
       }
+    },
+    {
+      "query": "tag:#rasa",
+      "color": {
+        "a": 1,
+        "rgb": 5397472
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -0.5,
-  "nodeSizeMultiplier": 1.4806052855925,
-  "lineSizeMultiplier": 2.18239556692242,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1.93175618073316,
+  "lineSizeMultiplier": 2.63354646206309,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.059326171875,
+  "scale": 0.0889892578125,
   "close": true
 }

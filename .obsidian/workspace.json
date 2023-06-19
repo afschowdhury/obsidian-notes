@@ -96,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using NLU.md",
+                "file": "More interactive responses with multiple responses.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,9 +149,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c024ada21140a0c1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -225,7 +233,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Using NLU.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +249,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Using NLU.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +283,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Using NLU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,9 +304,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Using NLU.md"
-              }
+              "state": {}
             }
           },
           {
@@ -348,12 +351,13 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "2c358ca1edc411e0",
+  "active": "c024ada21140a0c1",
   "lastOpenFiles": [
+    "More interactive responses with multiple responses.md",
+    "Using NLU.md",
     "slots mapping.md",
     "type of slots mapping.md",
     "from_intent.md",
-    "Using NLU.md",
     "Setting Slots in Rasa.md",
     "slots.md",
     "Rasa/How to install Rasa.md",
@@ -386,7 +390,6 @@
     "Attachments/Pasted image 20230611152545.png",
     "Attachments/Pasted image 20230611152530.png",
     "Attachments/Pasted image 20230611152500.png",
-    "LLM/Memory in Langchain.md",
     "Attachments/Pasted image 20230611151545.png",
     "RainDrop/Webs",
     "RainDrop",
