@@ -2153,8 +2153,8 @@
 		},
 		{
 			"type": "arrow",
-			"version": 420,
-			"versionNonce": 1976862785,
+			"version": 422,
+			"versionNonce": 1793455727,
 			"isDeleted": false,
 			"id": "3UZz-sQtMIrS1bxTO6ak2",
 			"fillStyle": "hachure",
@@ -2175,7 +2175,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1687146509638,
+			"updated": 1687147876155,
 			"link": null,
 			"locked": false,
 			"startBinding": {
