@@ -49,5 +49,13 @@
   "anuppuccin-theme-settings@@anp-disable-newtab-align": true,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
   "CG@@CG-workspace-background-workspace-slider": 1,
-  "CG@@CG-workspace-background-brightness": 2.09
+  "CG@@CG-workspace-background-brightness": 2.09,
+  "sanctum@@active-line-accent": "var(--background-hover)",
+  "sanctum@@dark-mode-contrast-mode": "sanctum-contrast-dark",
+  "sanctum@@color-accent-rgb-d": "243, 90, 55",
+  "sanctum@@font-editor-theme": "APL386 Unicode",
+  "sanctum@@blockquote-font-style": "italic",
+  "sanctum@@code-lines": true,
+  "sanctum@@code-label": true,
+  "sanctum@@code-border": true
 }
