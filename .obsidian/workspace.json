@@ -72,7 +72,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rasa/How to install Rasa.md",
+                "file": "slots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45073fc3426c8487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setting Slots in Rasa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c358ca1edc411e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Using NLU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f48905fdf9d4316c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slots mapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d8245c67dc7796d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "type of slots mapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "989e87886b0a600e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "from_intent.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -165,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/How to install Rasa.md",
+                "file": "Using NLU.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/How to install Rasa.md",
+                "file": "Using NLU.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/How to install Rasa.md",
+                "file": "Using NLU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/How to install Rasa.md"
+                "file": "Using NLU.md"
               }
             }
           },
@@ -288,8 +348,15 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "b13b83f48155ec39",
+  "active": "2c358ca1edc411e0",
   "lastOpenFiles": [
+    "slots mapping.md",
+    "type of slots mapping.md",
+    "from_intent.md",
+    "Using NLU.md",
+    "Setting Slots in Rasa.md",
+    "slots.md",
+    "Rasa/How to install Rasa.md",
     "Rasa/Rasa Notes.md",
     "LLM/LLM Notes.md",
     "Untitled 7.md",
@@ -303,7 +370,6 @@
     "LLM/Chains in Langchain.md",
     "LLM/LLMChain.md",
     "drawings/blog writter.excalidraw",
-    "from_intent.md",
     "drawings/blog writter.png",
     "slots mapping configurations.md",
     "from_trigger_intent.md",
@@ -321,13 +387,7 @@
     "Attachments/Pasted image 20230611152530.png",
     "Attachments/Pasted image 20230611152500.png",
     "LLM/Memory in Langchain.md",
-    "LLM/ConversationTokenBufferMemory.md",
     "Attachments/Pasted image 20230611151545.png",
-    "LLM/ConversationBufferWindowMemory.md",
-    "LLM/ConversationBufferMemory.md",
-    "LLM/Why we need output parser.md",
-    "LLM/Prompt Template in Langchain.md",
-    "LLM/Advantage of using Langchain.md",
     "RainDrop/Webs",
     "RainDrop",
     "test.sh",
