@@ -79,13 +79,11 @@
             }
           },
           {
-            "id": "968aa23a11c0fae0",
+            "id": "10d5fd10f8e34bc3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "drawings/blog writter.excalidraw"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -230,13 +228,13 @@
   },
   "active": "fe66313fb4a689fe",
   "lastOpenFiles": [
+    "LLM/SimpleSequentialChain.md",
+    "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
+    "LLM/SequentialChain.md",
     "Attachments/Pasted image 20230619101000.png",
     "Attachments/Pasted image 20230619100923.png",
     "Attachments/Pasted image 20230619100459.png",
     "LLM/Chains in Langchain.md",
-    "LLM/SequentialChain.md",
-    "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
-    "LLM/SimpleSequentialChain.md",
     "LLM/LLMChain.md",
     "drawings/blog writter.excalidraw",
     "from_intent.md",
@@ -261,7 +259,6 @@
     "LLM/ConversationTokenBufferMemory.md",
     "Attachments/Pasted image 20230611151545.png",
     "LLM/ConversationBufferWindowMemory.md",
-    "Attachments/Pasted image 20230611151318.png",
     "LLM/ConversationBufferMemory.md",
     "LLM/Why we need output parser.md",
     "LLM/Prompt Template in Langchain.md",

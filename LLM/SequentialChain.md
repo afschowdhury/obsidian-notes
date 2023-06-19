@@ -25,7 +25,7 @@ here, we can see, in the prompt we are defining the input keys to that [[LLMChai
 
 
 ![[Pasted image 20230619100923.png]]
-here we can see, `chain_four` has multiple inputs. and in the overall chain , we list all our chain in `chains` and define the input_variables
+here we can see, `chain_four` has multiple inputs. and in the overall chain , we list all our chain in `chains` and define the `input_variables` and all the `output_variables`
 The flow is like this : 
 ![[Pasted image 20230619101000.png]]
 
