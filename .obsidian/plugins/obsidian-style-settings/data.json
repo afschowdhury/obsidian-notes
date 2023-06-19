@@ -51,11 +51,12 @@
   "CG@@CG-workspace-background-workspace-slider": 1,
   "CG@@CG-workspace-background-brightness": 2.09,
   "sanctum@@active-line-accent": "var(--background-hover)",
-  "sanctum@@dark-mode-contrast-mode": "sanctum-contrast-dark",
+  "sanctum@@dark-mode-contrast-mode": "sanctum-black",
   "sanctum@@color-accent-rgb-d": "243, 90, 55",
   "sanctum@@font-editor-theme": "APL386 Unicode",
   "sanctum@@blockquote-font-style": "italic",
   "sanctum@@code-lines": true,
   "sanctum@@code-label": true,
-  "sanctum@@code-border": true
+  "sanctum@@code-border": true,
+  "sanctum@@syntax-highlighting": "one-dark"
 }
