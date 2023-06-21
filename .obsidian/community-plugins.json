@@ -1,12 +1,7 @@
 [
-  "templater-obsidian",
-  "highlightr-plugin",
   "dataview",
+  "highlightr-plugin",
   "obsidian-style-settings",
-  "obsidian-excalidraw-plugin",
-  "obsidian-to-notion",
-  "obsidian-raindrop-highlights",
-  "obsidian-extract-pdf-highlights",
-  "obsidian-tasks-plugin",
+  "templater-obsidian",
   "obsidian-outliner"
 ]

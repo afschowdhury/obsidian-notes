@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2c358ca1edc411e0",
+            "id": "d18a3d3019fd40a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/Rasa docs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd36a15f6100d32d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3ad7e9f0e549b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/How to define Custom Action in rasa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/Custiom Actions.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/Custiom Actions.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/Custiom Actions.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/Custiom Actions.md"
+                "file": "Rasa/How to define Custom Action in rasa.md"
               }
             }
           },
@@ -191,8 +216,10 @@
             "id": "678da2d476f21a18",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Attachments/Pasted image 20221110125157.png"
+              }
             }
           }
         ]
@@ -203,23 +230,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-to-notion:Share to notion": true,
-      "obsidian-raindrop-highlights:Sync your Raindrop highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": true,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2c358ca1edc411e0",
+  "active": "c3ad7e9f0e549b41",
   "lastOpenFiles": [
-    "Custom Action.md",
+    "Attachments/Pasted image 20230621104455.png",
+    "Attachments/Pasted image 20230621104321.png",
+    "Attachments/Pasted image 20230621104043.png",
     "Rasa/Custiom Actions.md",
+    "Rasa/How to define Custom Action in rasa.md",
+    "Rasa/Rasa docs.md",
+    "Attachments/Pasted image 20230621101545.png",
+    "Attachments/Pasted image 20230621101229.png",
+    "LLM/ConversationBufferMemory.md",
+    "Attachments/Pasted image 20221110125157.png",
+    "Custom Action.md",
     "More interactive responses with multiple responses.md",
     "slots mapping.md",
     "Setting Slots in Rasa.md",
@@ -245,17 +277,8 @@
     "slots mapping configurations.md",
     "from_trigger_intent.md",
     "basic gradio app.md",
-    "basic streamlit app.md",
-    "LLM/Output Parser.md",
-    "Blog ai.md",
     "drawings",
-    "Untitled 6.md",
     "Attachments/Pasted image 20230612131044.png",
-    "Attachments/Pasted image 20230612124918.png",
-    "Attachments/Pasted image 20230611152545.png",
-    "Attachments/Pasted image 20230611152530.png",
-    "Attachments/Pasted image 20230611152500.png",
-    "Attachments/Pasted image 20230611151545.png",
     "RainDrop/Webs",
     "RainDrop",
     "test.sh",
