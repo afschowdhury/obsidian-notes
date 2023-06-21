@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md"
+                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md"
               }
             }
           },
@@ -263,12 +263,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3ad7e9f0e549b41",
+  "active": "7f866b3b32011e13",
   "lastOpenFiles": [
+    "Rasa/How to define Custom Action in rasa.md",
     "Attachments/Pasted image 20230621111838.png",
     "Rasa/Difference between Lookup table and Synonyms in rasa.md",
     "lookup table.md",
-    "Rasa/How to define Custom Action in rasa.md",
     "Attachments/Pasted image 20230621104554.png",
     "Attachments/Pasted image 20230621104455.png",
     "Attachments/Pasted image 20230621104321.png",
@@ -299,7 +299,6 @@
     "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
     "Attachments/Pasted image 20230619101000.png",
     "Attachments/Pasted image 20230619100923.png",
-    "Attachments/Pasted image 20230619100459.png",
     "LLM/LLMChain.md",
     "slots mapping configurations.md",
     "drawings",
