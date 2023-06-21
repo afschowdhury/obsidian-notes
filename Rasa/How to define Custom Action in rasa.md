@@ -25,3 +25,10 @@ in convention, the class name should be similar to the action name.
 the `name` method is very important. It should have the same name as mentioned in the domain file. 
 ![[Pasted image 20230621104455.png]]
 
+the components of the custom action class is : 
+![[Pasted image 20230621104554.png]]
+
+>inside the `run` method, we define our custom action. the run method needs some object to send message ( dispatcher) , tracker to fetch information like [[intents]] /  and other relevant information form the conversation and any relevant information from the [[domain]] file. 
+
+
+

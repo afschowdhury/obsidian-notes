@@ -58,5 +58,7 @@
   "sanctum@@code-lines": true,
   "sanctum@@code-label": true,
   "sanctum@@code-border": true,
-  "sanctum@@syntax-highlighting": "one-dark"
+  "sanctum@@syntax-highlighting": "one-dark",
+  "sanctum@@blockquote-border-color@@dark": "#8A3434",
+  "sanctum@@blockquote-color@@dark": "#B0EDA7"
 }

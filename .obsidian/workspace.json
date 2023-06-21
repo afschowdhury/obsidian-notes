@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65698d9b6820ef89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lookup table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f866b3b32011e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md"
+                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md"
               }
             }
           },
@@ -239,13 +263,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3ad7e9f0e549b41",
+  "active": "7f866b3b32011e13",
   "lastOpenFiles": [
+    "Rasa/Difference between Lookup table and Synonyms in rasa.md",
+    "lookup table.md",
+    "Rasa/How to define Custom Action in rasa.md",
+    "Attachments/Pasted image 20230621104554.png",
     "Attachments/Pasted image 20230621104455.png",
     "Attachments/Pasted image 20230621104321.png",
     "Attachments/Pasted image 20230621104043.png",
     "Rasa/Custiom Actions.md",
-    "Rasa/How to define Custom Action in rasa.md",
     "Rasa/Rasa docs.md",
     "Attachments/Pasted image 20230621101545.png",
     "Attachments/Pasted image 20230621101229.png",
@@ -273,12 +300,9 @@
     "Attachments/Pasted image 20230619100923.png",
     "Attachments/Pasted image 20230619100459.png",
     "LLM/LLMChain.md",
-    "drawings/blog writter.png",
     "slots mapping configurations.md",
     "from_trigger_intent.md",
-    "basic gradio app.md",
     "drawings",
-    "Attachments/Pasted image 20230612131044.png",
     "RainDrop/Webs",
     "RainDrop",
     "test.sh",
