@@ -100,6 +100,18 @@
             }
           },
           {
+            "id": "8f7dd069a964bfb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Using Pre-Built Transformers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4746a4badeccb116",
             "type": "leaf",
             "state": {
@@ -142,9 +154,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "2fe5fe3b4dee0ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/revert user message.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -218,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preparing training data for entities.md",
+                "file": "Rasa/revert user message.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Preparing training data for entities.md",
+                "file": "Rasa/revert user message.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -270,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preparing training data for entities.md",
+                "file": "Rasa/revert user message.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preparing training data for entities.md"
+                "file": "Rasa/revert user message.md"
               }
             }
           },
@@ -328,7 +352,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Preparing training data for entities.md",
+                "file": "Rasa/revert user message.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -375,12 +399,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8d32d6b4e92c227b",
+  "active": "2fe5fe3b4dee0ee5",
   "lastOpenFiles": [
+    "Rasa/revert user message.md",
+    "Using Pre-Built Transformers.md",
+    "Preparing training data for entities.md",
     "Rasa/entities.md",
     "output processing features after entity extraction.md",
-    "Preparing training data for entities.md",
-    "Using Pre-Built Transformers.md",
     "Rasa/NLU.md",
     "Rasa/test.md",
     "Attachments/Pasted image 20221110125157.png",
@@ -411,7 +436,6 @@
     "LLM/SequentialChain.md",
     "Anatomy of a response.md",
     "type of slots mapping.md",
-    "from_intent.md",
     "Attachments/Pasted image 20230619101000.png",
     "Attachments/Pasted image 20230619100923.png",
     "drawings",
