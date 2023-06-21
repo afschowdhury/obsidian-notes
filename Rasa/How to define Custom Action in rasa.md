@@ -31,4 +31,23 @@ the components of the custom action class is :
 >inside the `run` method, we define our custom action. the run method needs some object to send message ( dispatcher) , tracker to fetch information like [[intents]] /  and other relevant information form the conversation and any relevant information from the [[domain]] file. 
 
 
+generally , we want to bind a custom action to a when there is a specific [[intents]] is triggered. then we bind the [[actions]] to that specific intent and this can be done in the [[RULES]] 
 
+we also need to connect the [[NLU]] server with [[Custom Action]] server. For that , we need to expose the endpoint of the [[Custom Action]] in the [[enpoint]] yml file
+
+![[Pasted image 20230621111838.png]]
+
+```yml
+  
+
+action_endpoint:
+
+url: "http://localhost:5055/webhook"
+
+```
+
+
+
+now, at last, we need to run the custom action server by running
+
+`rasa run actions`

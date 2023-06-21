@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md"
+                "file": "Rasa/How to define Custom Action in rasa.md"
               }
             }
           },
@@ -263,8 +263,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f866b3b32011e13",
+  "active": "c3ad7e9f0e549b41",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230621111838.png",
     "Rasa/Difference between Lookup table and Synonyms in rasa.md",
     "lookup table.md",
     "Rasa/How to define Custom Action in rasa.md",
@@ -301,7 +302,6 @@
     "Attachments/Pasted image 20230619100459.png",
     "LLM/LLMChain.md",
     "slots mapping configurations.md",
-    "from_trigger_intent.md",
     "drawings",
     "RainDrop/Webs",
     "RainDrop",
