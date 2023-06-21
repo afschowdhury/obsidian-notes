@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "da9ee71b0cfaee8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "output processing features after entity extraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b216ba3bdd42ddcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entity roles and groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8f7dd069a964bfb3",
             "type": "leaf",
             "state": {
@@ -115,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -346,19 +371,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ed269f735d33655",
+  "active": "b216ba3bdd42ddcf",
   "lastOpenFiles": [
+    "output processing features after entity extraction.md",
+    "Preparing training data for entities.md",
+    "entity roles and groups.md",
     "Rasa/NLU.md",
     "Rasa/revert user message.md",
     "Using Pre-Built Transformers.md",
-    "Preparing training data for entities.md",
     "Rasa/entities.md",
-    "output processing features after entity extraction.md",
     "Rasa/test.md",
     "Attachments/Pasted image 20221110125157.png",
     "intents.md",
     "Rasa/Unlikely intent.md",
-    "entity roles and groups.md",
     "Rasa/Difference between Lookup table and Synonyms in rasa.md",
     "Rasa/How to define Custom Action in rasa.md",
     "Attachments/Pasted image 20230621111838.png",
