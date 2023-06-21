@@ -66,9 +66,65 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ed269f735d33655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entity roles and groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7472353aa9c894bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/Unlikely intent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e803c2400e4bff0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4c18c937cf3120f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04fe57474d918d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -142,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md",
+                "file": "entities.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md",
+                "file": "entities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md",
+                "file": "entities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/Difference between Lookup table and Synonyms in rasa.md"
+                "file": "entities.md"
               }
             }
           },
@@ -245,12 +301,48 @@
                 "file": "Attachments/Pasted image 20221110125157.png"
               }
             }
+          },
+          {
+            "id": "02250688cabf96ae",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "entities.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": true
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,11 +355,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f866b3b32011e13",
+  "active": "04fe57474d918d27",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20221110125157.png",
+    "entities.md",
+    "intents.md",
+    "Rasa/Unlikely intent.md",
+    "entity roles and groups.md",
+    "Rasa/Difference between Lookup table and Synonyms in rasa.md",
     "Rasa/How to define Custom Action in rasa.md",
     "Attachments/Pasted image 20230621111838.png",
-    "Rasa/Difference between Lookup table and Synonyms in rasa.md",
     "lookup table.md",
     "Attachments/Pasted image 20230621104554.png",
     "Attachments/Pasted image 20230621104455.png",
@@ -278,7 +375,6 @@
     "Attachments/Pasted image 20230621101545.png",
     "Attachments/Pasted image 20230621101229.png",
     "LLM/ConversationBufferMemory.md",
-    "Attachments/Pasted image 20221110125157.png",
     "Custom Action.md",
     "More interactive responses with multiple responses.md",
     "slots mapping.md",
@@ -295,12 +391,8 @@
     "Rasa/How to install Rasa.md",
     "Rasa/Rasa Notes.md",
     "Untitled 7.md",
-    "LLM/SimpleSequentialChain.md",
-    "LLM/Difference between SimpleSequentialChain and SequentialChain.md",
     "Attachments/Pasted image 20230619101000.png",
     "Attachments/Pasted image 20230619100923.png",
-    "LLM/LLMChain.md",
-    "slots mapping configurations.md",
     "drawings",
     "RainDrop/Webs",
     "RainDrop",
