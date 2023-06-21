@@ -1,4 +1,20 @@
-#rasa #nlp  #headless 
+---
+type: Coding  
+tags: rasa , headless, nlp
+category: work
+for_inteview: True
+creation_date: 2023-06-14 12:34
+modification_date: 2023-06-21 14:52
+---
+
+  
+Current Folder : Rasa
+
+
+
+
+[[21-06-2023]]
+
 
 
 The NLU generally stands for Natural Language Understanding
