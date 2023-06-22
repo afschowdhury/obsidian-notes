@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "4f7818b44b7b6b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "output processing features after entity extraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c638b7bb24cc806e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entity roles and groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da9ee71b0cfaee8b",
             "type": "leaf",
             "state": {
@@ -140,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -374,12 +398,12 @@
   "active": "b216ba3bdd42ddcf",
   "lastOpenFiles": [
     "output processing features after entity extraction.md",
-    "Preparing training data for entities.md",
     "entity roles and groups.md",
+    "Preparing training data for entities.md",
+    "Rasa/entities.md",
     "Rasa/NLU.md",
     "Rasa/revert user message.md",
     "Using Pre-Built Transformers.md",
-    "Rasa/entities.md",
     "Rasa/test.md",
     "Attachments/Pasted image 20221110125157.png",
     "intents.md",
