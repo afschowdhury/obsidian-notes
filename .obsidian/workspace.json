@@ -162,9 +162,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cec301658d64961",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -238,7 +246,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entity roles and groups.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +262,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "entity roles and groups.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,7 +296,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "entity roles and groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,9 +317,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "entity roles and groups.md"
-              }
+              "state": {}
             }
           },
           {
@@ -326,7 +329,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "c9199fac796b4e08",
@@ -348,7 +351,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "entity roles and groups.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -371,7 +373,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6666666666666666,
+                  "scale": 0.058527663465935034,
                   "close": true
                 }
               }
@@ -395,10 +397,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b216ba3bdd42ddcf",
+  "active": "6cec301658d64961",
   "lastOpenFiles": [
-    "output processing features after entity extraction.md",
     "entity roles and groups.md",
+    "output processing features after entity extraction.md",
     "Preparing training data for entities.md",
     "Rasa/entities.md",
     "Rasa/NLU.md",
