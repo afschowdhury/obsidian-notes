@@ -44,6 +44,42 @@
             }
           },
           {
+            "id": "13309a12eb68d1fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "type of slots mapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dcd28285b728156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "from_entity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0013e9f0e684e16f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slots mapping configurations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8bc2360517bb667f",
             "type": "leaf",
             "state": {
@@ -116,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -190,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slots mapping.md",
+                "file": "from_entity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "slots mapping.md",
+                "file": "from_entity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,7 +278,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slots mapping.md",
+                "file": "from_entity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +301,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slots mapping.md"
+                "file": "from_entity.md"
               }
             }
           },
@@ -300,7 +336,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "slots mapping.md",
+                "file": "from_entity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -347,10 +383,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd24e853b4e21502",
+  "active": "6dcd28285b728156",
   "lastOpenFiles": [
-    "configurations in slots.md",
+    "slots mapping configurations.md",
+    "from_entity.md",
+    "type of slots mapping.md",
     "slots mapping.md",
+    "configurations in slots.md",
     "entity roles and groups.md",
     "Rasa/How to define Custom Action in rasa.md",
     "Rasa/Custiom Actions.md",
@@ -381,9 +420,6 @@
     "slots.md",
     "LLM/LLM Notes.md",
     "drawings/blog writter.excalidraw",
-    "LLM/Chains in Langchain.md",
-    "LLM/SequentialChain.md",
-    "Anatomy of a response.md",
     "Attachments/Pasted image 20230619101000.png",
     "Attachments/Pasted image 20230619100923.png",
     "drawings",
