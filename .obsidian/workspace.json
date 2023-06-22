@@ -8,102 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ed269f735d33655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entity roles and groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4c18c937cf3120f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04fe57474d918d27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/entities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d32d6b4e92c227b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preparing training data for entities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f7818b44b7b6b6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "output processing features after entity extraction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c638b7bb24cc806e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entity roles and groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da9ee71b0cfaee8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "output processing features after entity extraction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b216ba3bdd42ddcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entity roles and groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8f7dd069a964bfb3",
             "type": "leaf",
             "state": {
@@ -122,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "output processing features after entity extraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd24e853b4e21502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entity roles and groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,15 +80,31 @@
             }
           },
           {
-            "id": "6cec301658d64961",
+            "id": "732dc006746dc5f4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/Custiom Actions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cff9b0d126110bd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/How to define Custom Action in rasa.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "entity roles and groups.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,6 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "entity roles and groups.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -296,6 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "entity roles and groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +252,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "entity roles and groups.md"
+              }
             }
           },
           {
@@ -329,7 +266,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c9199fac796b4e08",
@@ -351,6 +288,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "entity roles and groups.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -373,7 +311,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.058527663465935034,
+                  "scale": 0.6666666666666663,
                   "close": true
                 }
               }
@@ -397,33 +335,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6cec301658d64961",
+  "active": "02250688cabf96ae",
   "lastOpenFiles": [
+    "Rasa/How to define Custom Action in rasa.md",
+    "Rasa/Custiom Actions.md",
+    "Rasa/revert user message.md",
+    "Custom Action.md",
     "entity roles and groups.md",
     "output processing features after entity extraction.md",
     "Preparing training data for entities.md",
     "Rasa/entities.md",
     "Rasa/NLU.md",
-    "Rasa/revert user message.md",
     "Using Pre-Built Transformers.md",
     "Rasa/test.md",
     "Attachments/Pasted image 20221110125157.png",
     "intents.md",
     "Rasa/Unlikely intent.md",
     "Rasa/Difference between Lookup table and Synonyms in rasa.md",
-    "Rasa/How to define Custom Action in rasa.md",
     "Attachments/Pasted image 20230621111838.png",
     "lookup table.md",
     "Attachments/Pasted image 20230621104554.png",
     "Attachments/Pasted image 20230621104455.png",
     "Attachments/Pasted image 20230621104321.png",
     "Attachments/Pasted image 20230621104043.png",
-    "Rasa/Custiom Actions.md",
     "Rasa/Rasa docs.md",
     "Attachments/Pasted image 20230621101545.png",
     "Attachments/Pasted image 20230621101229.png",
     "LLM/ConversationBufferMemory.md",
-    "Custom Action.md",
     "More interactive responses with multiple responses.md",
     "slots mapping.md",
     "Setting Slots in Rasa.md",
