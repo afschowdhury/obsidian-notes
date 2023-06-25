@@ -80,6 +80,42 @@
             }
           },
           {
+            "id": "2348d806798ea0ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Preparing training data for entities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a852d975ac66d157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "output processing features after entity extraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f62503254bed32f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "synonyms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0013e9f0e684e16f",
             "type": "leaf",
             "state": {
@@ -164,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -238,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/entities.md",
+                "file": "synonyms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +291,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/entities.md",
+                "file": "synonyms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/entities.md",
+                "file": "synonyms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/entities.md"
+                "file": "synonyms.md"
               }
             }
           },
@@ -348,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/entities.md",
+                "file": "synonyms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -395,8 +431,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88029884260a233f",
+  "active": "8f62503254bed32f",
   "lastOpenFiles": [
+    "output processing features after entity extraction.md",
+    "Preparing training data for entities.md",
+    "Rasa/entities.md",
     "from_entity.md",
     "slots mapping configurations.md",
     "type of slots mapping.md",
@@ -407,9 +446,6 @@
     "Rasa/Custiom Actions.md",
     "Rasa/revert user message.md",
     "Custom Action.md",
-    "output processing features after entity extraction.md",
-    "Preparing training data for entities.md",
-    "Rasa/entities.md",
     "Rasa/NLU.md",
     "Using Pre-Built Transformers.md",
     "Rasa/test.md",
