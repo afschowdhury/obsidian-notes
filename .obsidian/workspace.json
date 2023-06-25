@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/synonyms.md",
+                "file": "output processing features after entity extraction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/synonyms.md",
+                "file": "output processing features after entity extraction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -326,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/synonyms.md",
+                "file": "output processing features after entity extraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/synonyms.md"
+                "file": "output processing features after entity extraction.md"
               }
             }
           },
@@ -384,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/synonyms.md",
+                "file": "output processing features after entity extraction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -431,11 +431,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8f62503254bed32f",
+  "active": "a852d975ac66d157",
   "lastOpenFiles": [
+    "Rasa/synonyms.md",
     "Rasa/Get info of Rasa Message.md",
     "Attachments/Pasted image 20230625150554.png",
-    "Rasa/synonyms.md",
     "output processing features after entity extraction.md",
     "Preparing training data for entities.md",
     "Rasa/entities.md",

@@ -2,5 +2,12 @@
   "alwaysUpdateLinks": true,
   "showFrontmatter": true,
   "spellcheck": true,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
