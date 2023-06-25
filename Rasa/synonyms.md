@@ -1,4 +1,20 @@
-#rasa 
+---
+type: Coding  
+tags: rasa , headless, nlp
+category: work
+for_inteview: True
+creation_date: 2023-06-14 12:34
+modification_date: 2023-06-25 16:55
+---
+
+  
+Current Folder : Rasa
+
+
+
+
+[[25-06-2023]]
+
 
 a user can call a single entity in different way just like synonyms. they are the same but, defined in different way. For, example , credit card account and credit account is just the synonyms of one single entity. Thus , to remove ambiguity, we can normalize the entities into a single one.
 ![[Pasted image 20230402175008.png]]

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rasa/Get info of Rasa Message.md",
+                "file": "Rasa/synonyms.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/Get info of Rasa Message.md",
+                "file": "Rasa/synonyms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/Get info of Rasa Message.md",
+                "file": "Rasa/synonyms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -326,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/Get info of Rasa Message.md",
+                "file": "Rasa/synonyms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/Get info of Rasa Message.md"
+                "file": "Rasa/synonyms.md"
               }
             }
           },
@@ -384,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/Get info of Rasa Message.md",
+                "file": "Rasa/synonyms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -433,9 +433,9 @@
   },
   "active": "8f62503254bed32f",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230625150554.png",
-    "synonyms.md",
     "Rasa/Get info of Rasa Message.md",
+    "Attachments/Pasted image 20230625150554.png",
+    "Rasa/synonyms.md",
     "output processing features after entity extraction.md",
     "Preparing training data for entities.md",
     "Rasa/entities.md",
@@ -469,7 +469,6 @@
     "More interactive responses with multiple responses.md",
     "drawings/blog writter.excalidraw",
     "Attachments/Pasted image 20230619101000.png",
-    "Attachments/Pasted image 20230619100923.png",
     "drawings",
     "RainDrop/Webs",
     "RainDrop",
