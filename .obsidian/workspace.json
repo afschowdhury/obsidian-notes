@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "synonyms.md",
+                "file": "Rasa/Get info of Rasa Message.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "synonyms.md",
+                "file": "Rasa/Get info of Rasa Message.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "synonyms.md",
+                "file": "Rasa/Get info of Rasa Message.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -326,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "synonyms.md",
+                "file": "Rasa/Get info of Rasa Message.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "synonyms.md"
+                "file": "Rasa/Get info of Rasa Message.md"
               }
             }
           },
@@ -384,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "synonyms.md",
+                "file": "Rasa/Get info of Rasa Message.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -433,6 +433,9 @@
   },
   "active": "8f62503254bed32f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230625150554.png",
+    "synonyms.md",
+    "Rasa/Get info of Rasa Message.md",
     "output processing features after entity extraction.md",
     "Preparing training data for entities.md",
     "Rasa/entities.md",
@@ -464,9 +467,6 @@
     "Attachments/Pasted image 20230621101229.png",
     "LLM/ConversationBufferMemory.md",
     "More interactive responses with multiple responses.md",
-    "Setting Slots in Rasa.md",
-    "slots.md",
-    "LLM/LLM Notes.md",
     "drawings/blog writter.excalidraw",
     "Attachments/Pasted image 20230619101000.png",
     "Attachments/Pasted image 20230619100923.png",
