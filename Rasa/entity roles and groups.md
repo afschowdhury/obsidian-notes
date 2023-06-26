@@ -1,4 +1,20 @@
-#rasa 
+---
+type: Coding  
+tags: rasa , headless, nlp
+category: work
+for_inteview: True
+creation_date: 2023-06-14 12:34
+modification_date: 2023-06-26 09:46
+---
+
+  
+Current Folder : Rasa
+
+
+
+
+[[26-06-2023]]
+
 
 each entity has certain roles. For example, if a user said , i want to book a ticket from dhaka to rangpur, here, both , dhaka and rangpur are the location , but, we also need to know, which is the origin , and which is the destination . so , we need to annotate this in the training data
 ![[Pasted image 20230402180827.png]]
