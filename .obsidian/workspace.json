@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rasa/entity roles and groups.md",
+                "file": "Rasa/synonyms.md",
                 "mode": "source",
                 "source": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/entity roles and groups.md",
+                "file": "Rasa/synonyms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +291,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/entity roles and groups.md",
+                "file": "Rasa/synonyms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -326,7 +326,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/entity roles and groups.md",
+                "file": "Rasa/synonyms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,7 +349,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/entity roles and groups.md"
+                "file": "Rasa/synonyms.md"
               }
             }
           },
@@ -384,7 +384,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/entity roles and groups.md",
+                "file": "Rasa/synonyms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -433,6 +433,7 @@
   },
   "active": "a852d975ac66d157",
   "lastOpenFiles": [
+    "Rasa/entity roles and groups.md",
     "output processing features after entity extraction.md",
     "Rasa/synonyms.md",
     "Rasa/Get info of Rasa Message.md",
@@ -444,7 +445,6 @@
     "type of slots mapping.md",
     "slots mapping.md",
     "configurations in slots.md",
-    "Rasa/entity roles and groups.md",
     "Rasa/How to define Custom Action in rasa.md",
     "Rasa/Custiom Actions.md",
     "Rasa/revert user message.md",
