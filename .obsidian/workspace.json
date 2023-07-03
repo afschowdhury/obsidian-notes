@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -222,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 268.5
   },
   "right": {
     "id": "30a6f45e97eb79e9",
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/synonyms.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/synonyms.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/synonyms.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +313,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/synonyms.md"
+                "file": "Rasa/How to define Custom Action in rasa.md"
               }
             }
           },
@@ -322,6 +322,14 @@
             "type": "leaf",
             "state": {
               "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d90032a226b4f300",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
               "state": {}
             }
           }
@@ -348,9 +356,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/synonyms.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -362,15 +370,15 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.1,
+                  "nodeSizeMultiplier": 0.814583333333333,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
+                  "collapse-forces": false,
+                  "centerStrength": 0.161458333333333,
+                  "repelStrength": 2.5,
+                  "linkStrength": 0.442708333333333,
+                  "linkDistance": 270,
                   "scale": 0.6666666666666663,
                   "close": true
                 }
@@ -382,7 +390,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -392,14 +400,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": true,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02250688cabf96ae",
+  "active": "cff9b0d126110bd1",
   "lastOpenFiles": [
+    "Rasa/synonyms.md",
     "Rasa/entity roles and groups.md",
     "output processing features after entity extraction.md",
-    "Rasa/synonyms.md",
     "Rasa/Get info of Rasa Message.md",
     "Attachments/Pasted image 20230625150554.png",
     "Preparing training data for entities.md",
