@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "5bc860db75a44d3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "enable sync a specific folder in mega.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c9a093d0306488e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Upload a folder in mega.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0b90386afb521a4d",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mega CMD.md",
+                "file": "enable sync a specific folder in mega.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mega CMD.md",
+                "file": "enable sync a specific folder in mega.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mega CMD.md",
+                "file": "enable sync a specific folder in mega.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mega CMD.md"
+                "file": "enable sync a specific folder in mega.md"
               }
             }
           },
@@ -295,7 +320,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mega CMD.md",
+                "file": "enable sync a specific folder in mega.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -346,10 +371,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6bed435582c523a9",
+  "active": "5bc860db75a44d3a",
   "lastOpenFiles": [
-    "YML.md",
+    "Attachments/Pasted image 20230703180401.png",
     "Mega CMD.md",
+    "enable sync a specific folder in mega.md",
+    "Upload a folder in mega.md",
+    "Attachments/Pasted image 20230703180132.png",
+    "Attachments/Pasted image 20230703180011.png",
+    "YML.md",
     "obsidian-notes/why yml is needed.md",
     "obsidian-notes/text formatiing in rasa.md",
     "obsidian-notes/text.md",
@@ -372,9 +402,6 @@
     "obsidian-notes/slots mapping configurations.md",
     "obsidian-notes/obsidian-valut-main/AI/NLP/Untitled.md",
     "obsidian-notes/list.md",
-    "obsidian-notes/gradio.md",
-    "obsidian-notes/installing gradio.md",
-    "obsidian-notes/from_trigger_intent.md",
     "obsidian-notes/drawings/blog writter.excalidraw",
     "obsidian-notes/drawings/blog writter.png",
     "obsidian-notes/Excalidraw/ChatChef.excalidraw",
@@ -385,8 +412,6 @@
     "obsidian-notes/Attachments/Pasted image 20230703172305.png",
     "obsidian-notes/Attachments/Pasted image 20230703163854.png",
     "obsidian-notes/Attachments/Pasted image 20230611152500.png",
-    "obsidian-notes/Attachments/Pasted image 20230703170518.png",
-    "obsidian-notes/Attachments/Pasted image 20230703164806.png",
     "obsidian-notes/raw-notes",
     "obsidian-notes/obsidian-valut-main/AI/NLP",
     "obsidian-notes/obsidian-valut-main/AI",

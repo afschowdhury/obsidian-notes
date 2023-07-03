@@ -18,4 +18,17 @@ Current Folder :
 
 download **Mega CMD** from here https://mega.io/cmd#downloadapps
 
-after that , l
+after that , login using this 
+```fish
+mega-login afs.storeroom@gmail.com password
+```
+
+list items in the mega cloud by 
+![[Pasted image 20230703180132.png]]
+
+
+
+
+![[Upload a folder in mega]]
+
+![[enable sync a specific folder in mega]]
