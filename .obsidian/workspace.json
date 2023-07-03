@@ -274,6 +274,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
@@ -282,13 +284,12 @@
       "daily-notes:Open today's daily note": true,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
   "active": "3f327468ec6d7781",
   "lastOpenFiles": [
+    "Download a folder using mega cmd.md",
     "IELTS/Listening Basics.md",
     "Untitled 10.md",
     "Attachments/Pasted image 20230703214133.png",
@@ -320,7 +321,6 @@
     "obsidian-notes/test page new.md",
     "obsidian-notes/streamlit.md",
     "obsidian-notes/lookup table.md",
-    "obsidian-notes/output processing features after entity extraction.md",
     "obsidian-notes/drawings/blog writter.excalidraw",
     "obsidian-notes/drawings/blog writter.png",
     "obsidian-notes/Excalidraw/ChatChef.excalidraw",
