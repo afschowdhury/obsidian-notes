@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mega CMD.md",
+                "file": "IELTS/Listening Basics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mega CMD.md",
+                "file": "IELTS/Listening Basics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mega CMD.md",
+                "file": "IELTS/Listening Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mega CMD.md"
+                "file": "IELTS/Listening Basics.md"
               }
             }
           },
@@ -236,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mega CMD.md",
+                "file": "IELTS/Listening Basics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,10 +287,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "3f327468ec6d7781",
+  "active": "5fd965dc3802d3e6",
   "lastOpenFiles": [
-    "Download a folder using mega cmd.md",
+    "Mega CMD.md",
     "IELTS/Listening Basics.md",
+    "Download a folder using mega cmd.md",
     "Untitled 10.md",
     "Attachments/Pasted image 20230703214133.png",
     "Templates/IELTS.md",
@@ -307,7 +308,6 @@
     "Upload a folder in mega.md",
     "enable sync a specific folder in mega.md",
     "Attachments/Pasted image 20230703180401.png",
-    "Mega CMD.md",
     "Attachments/Pasted image 20230703180132.png",
     "Attachments/Pasted image 20230703180011.png",
     "YML.md",
