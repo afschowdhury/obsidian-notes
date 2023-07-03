@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YML.md",
+                "file": "Mega CMD.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,8 +103,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loading yml data in python.md",
+                "file": "Mega CMD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "loading yml data in python.md",
+                "file": "Mega CMD.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "loading yml data in python.md",
+                "file": "Mega CMD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "loading yml data in python.md"
+                "file": "Mega CMD.md"
               }
             }
           },
@@ -296,7 +295,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "loading yml data in python.md",
+                "file": "Mega CMD.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -347,53 +346,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0b90386afb521a4d",
+  "active": "6bed435582c523a9",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230703172401.png",
-    "Attachments/Pasted image 20230703172305.png",
-    "Attachments/Pasted image 20230703171957.png",
     "YML.md",
-    "loading yml data in python.md",
-    "declaring variables and accessing in yml.md",
-    "Attachments/Pasted image 20230703171006.png",
-    "Attachments/Pasted image 20230703170518.png",
-    "text formatiing in rasa.md",
-    "Attachments/Pasted image 20230703164806.png",
-    "How to add objects in yml.md",
-    "Attachments/Pasted image 20230703163854.png",
-    "Attachments/Pasted image 20230703163843.png",
-    "how to add array in yml.md",
-    "Attachments/Pasted image 20230703162803.png",
-    "Attachments/Pasted image 20230703162536.png",
-    "Attachments/Pasted image 20230703161544.png",
-    "YML.docx",
-    "why yml is needed.md",
-    "Why.md",
-    "Using Pre-Built Transformers.md",
-    "Rasa/NLU.md",
-    "slots mapping configurations.md",
-    "slots mapping.md",
-    "Rasa/Custiom Actions.md",
-    "Templates/UntitledNote.md",
-    "Templates/Thread.md",
-    "Untitled 8.md",
-    "Rasa/How to define Custom Action in rasa.md",
-    "Rasa/synonyms.md",
-    "Rasa/entity roles and groups.md",
-    "output processing features after entity extraction.md",
-    "Rasa/Get info of Rasa Message.md",
-    "Preparing training data for entities.md",
-    "Rasa/entities.md",
-    "from_entity.md",
-    "type of slots mapping.md",
-    "drawings/blog writter.excalidraw",
-    "drawings",
-    "RainDrop/Webs",
-    "RainDrop",
-    "test.sh",
-    "Templates",
-    "LLM/Andrew course",
-    "LLM",
-    "Excalidraw/ChatChef.excalidraw"
+    "Mega CMD.md",
+    "obsidian-notes/why yml is needed.md",
+    "obsidian-notes/text formatiing in rasa.md",
+    "obsidian-notes/text.md",
+    "obsidian-notes/why few intents.md",
+    "obsidian-notes/type of slots mapping.md",
+    "obsidian-notes/task oriented dialogue system.md",
+    "obsidian-notes/test.sh",
+    "obsidian-notes/test page new.md",
+    "obsidian-notes/streamlit.md",
+    "obsidian-notes/lookup table.md",
+    "obsidian-notes/output processing features after entity extraction.md",
+    "obsidian-notes/response with buttons.md",
+    "obsidian-notes/raw-notes/test-dataview.md",
+    "obsidian-notes/slots.md",
+    "obsidian-notes/raw-notes/Github SSH authentication.md",
+    "obsidian-notes/response with images.md",
+    "obsidian-notes/response.md",
+    "obsidian-notes/loading yml data in python.md",
+    "obsidian-notes/slots mapping.md",
+    "obsidian-notes/slots mapping configurations.md",
+    "obsidian-notes/obsidian-valut-main/AI/NLP/Untitled.md",
+    "obsidian-notes/list.md",
+    "obsidian-notes/gradio.md",
+    "obsidian-notes/installing gradio.md",
+    "obsidian-notes/from_trigger_intent.md",
+    "obsidian-notes/drawings/blog writter.excalidraw",
+    "obsidian-notes/drawings/blog writter.png",
+    "obsidian-notes/Excalidraw/ChatChef.excalidraw",
+    "obsidian-notes/Attachments/chatchef roadmap.png",
+    "obsidian-notes/Attachments/chatchef timeline.png",
+    "obsidian-notes/Attachments/chatchef.png",
+    "obsidian-notes/Attachments/Pasted image 20230703171957.png",
+    "obsidian-notes/Attachments/Pasted image 20230703172305.png",
+    "obsidian-notes/Attachments/Pasted image 20230703163854.png",
+    "obsidian-notes/Attachments/Pasted image 20230611152500.png",
+    "obsidian-notes/Attachments/Pasted image 20230703170518.png",
+    "obsidian-notes/Attachments/Pasted image 20230703164806.png",
+    "obsidian-notes/raw-notes",
+    "obsidian-notes/obsidian-valut-main/AI/NLP",
+    "obsidian-notes/obsidian-valut-main/AI",
+    "obsidian-notes/obsidian-valut-main",
+    "obsidian-notes/linux",
+    "obsidian-notes/journals",
+    "obsidian-notes/drawings"
   ]
 }

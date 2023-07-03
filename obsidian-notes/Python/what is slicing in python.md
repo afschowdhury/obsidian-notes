@@ -1,0 +1,3 @@
+#python 
+
+Slicing is used to access parts of sequences like [[List-Python]], [[Tuple-Python]], and strings. The syntax of slicing is-`[start:end:step]`. The step can be omitted as well. When we write `[start:end]` this returns all the elements of the sequence from the start (inclusive) till the end-1 element. If the start or end element is negative i, it means the ith element from the end. The step indicates the jump or how many elements have to be skipped. Eg. if there is a list- `[1,2,3,4,5,6,7,8]`. Then `[-1:2:2]` will return elements starting from the last element till the third element by printing every second element.i.e. `[8,6,4]`
