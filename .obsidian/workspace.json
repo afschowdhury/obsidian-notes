@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f6bc7b7ff104ea77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IELTS/section 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e06e5378030cda2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IELTS/section 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3f327468ec6d7781",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IELTS/Listening Basics.md",
+                "file": "IELTS/section 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IELTS/Listening Basics.md",
+                "file": "IELTS/section 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IELTS/Listening Basics.md",
+                "file": "IELTS/section 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IELTS/Listening Basics.md"
+                "file": "IELTS/section 2.md"
               }
             }
           },
@@ -236,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IELTS/Listening Basics.md",
+                "file": "IELTS/section 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,10 +311,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "5fd965dc3802d3e6",
+  "active": "f6bc7b7ff104ea77",
   "lastOpenFiles": [
-    "Mega CMD.md",
     "IELTS/Listening Basics.md",
+    "IELTS/section 2.md",
+    "IELTS/section 1.md",
+    "Mega CMD.md",
     "Download a folder using mega cmd.md",
     "Untitled 10.md",
     "Attachments/Pasted image 20230703214133.png",
@@ -319,8 +345,6 @@
     "obsidian-notes/task oriented dialogue system.md",
     "obsidian-notes/test.sh",
     "obsidian-notes/test page new.md",
-    "obsidian-notes/streamlit.md",
-    "obsidian-notes/lookup table.md",
     "obsidian-notes/drawings/blog writter.excalidraw",
     "obsidian-notes/drawings/blog writter.png",
     "obsidian-notes/Excalidraw/ChatChef.excalidraw",
