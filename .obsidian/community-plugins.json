@@ -1,6 +1,5 @@
 [
   "dataview",
-  "highlightr-plugin",
   "obsidian-style-settings",
   "templater-obsidian",
   "obsidian-outliner",
@@ -8,5 +7,6 @@
   "editing-toolbar",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
-  "excalibrain"
+  "excalibrain",
+  "obsidian-advanced-codeblock"
 ]

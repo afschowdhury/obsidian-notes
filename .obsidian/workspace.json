@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "6c73d70c31b38c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to add objects in yml.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65a5b3ec09bfceed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "how to add array in yml.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6a6573ecac1521f9",
             "type": "leaf",
             "state": {
@@ -43,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YML.md",
+                "file": "How to add objects in yml.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "YML.md",
+                "file": "How to add objects in yml.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YML.md",
+                "file": "How to add objects in yml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YML.md"
+                "file": "How to add objects in yml.md"
               }
             }
           },
@@ -235,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "YML.md",
+                "file": "How to add objects in yml.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -286,10 +311,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6bed435582c523a9",
+  "active": "6c73d70c31b38c1a",
   "lastOpenFiles": [
-    "why yml is needed.md",
+    "Attachments/Pasted image 20230703163854.png",
+    "Attachments/Pasted image 20230703163843.png",
     "YML.md",
+    "How to add objects in yml.md",
+    "how to add array in yml.md",
+    "Attachments/Pasted image 20230703162803.png",
+    "Attachments/Pasted image 20230703162536.png",
+    "Attachments/Pasted image 20230703161544.png",
+    "YML.docx",
+    "why yml is needed.md",
     "Why.md",
     "Using Pre-Built Transformers.md",
     "Rasa/NLU.md",
@@ -312,19 +345,12 @@
     "configurations in slots.md",
     "Rasa/revert user message.md",
     "Custom Action.md",
-    "Rasa/test.md",
     "Attachments/Pasted image 20221110125157.png",
-    "intents.md",
-    "Rasa/Unlikely intent.md",
     "Attachments/Pasted image 20230621111838.png",
     "Attachments/Pasted image 20230621104554.png",
     "Attachments/Pasted image 20230621104455.png",
     "Attachments/Pasted image 20230621104321.png",
-    "Attachments/Pasted image 20230621104043.png",
-    "Attachments/Pasted image 20230621101545.png",
-    "Attachments/Pasted image 20230621101229.png",
     "drawings/blog writter.excalidraw",
-    "Attachments/Pasted image 20230619101000.png",
     "drawings",
     "RainDrop/Webs",
     "RainDrop",
@@ -332,7 +358,6 @@
     "Templates",
     "LLM/Andrew course",
     "LLM",
-    "Excalidraw/ChatChef.excalidraw",
-    "ChatChef"
+    "Excalidraw/ChatChef.excalidraw"
   ]
 }
