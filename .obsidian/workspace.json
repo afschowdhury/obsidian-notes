@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "0b90386afb521a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "loading yml data in python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87959b973f35abd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "declaring variables and accessing in yml.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "de3b3549c93cdd35",
             "type": "leaf",
             "state": {
@@ -154,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "text formatiing in rasa.md",
+                "file": "loading yml data in python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "text formatiing in rasa.md",
+                "file": "loading yml data in python.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "text formatiing in rasa.md",
+                "file": "loading yml data in python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "text formatiing in rasa.md"
+                "file": "loading yml data in python.md"
               }
             }
           },
@@ -272,7 +296,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "text formatiing in rasa.md",
+                "file": "loading yml data in python.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -323,11 +347,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de3b3549c93cdd35",
+  "active": "0b90386afb521a4d",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230703164806.png",
+    "Attachments/Pasted image 20230703172401.png",
+    "Attachments/Pasted image 20230703172305.png",
+    "Attachments/Pasted image 20230703171957.png",
     "YML.md",
+    "loading yml data in python.md",
+    "declaring variables and accessing in yml.md",
+    "Attachments/Pasted image 20230703171006.png",
+    "Attachments/Pasted image 20230703170518.png",
     "text formatiing in rasa.md",
+    "Attachments/Pasted image 20230703164806.png",
     "How to add objects in yml.md",
     "Attachments/Pasted image 20230703163854.png",
     "Attachments/Pasted image 20230703163843.png",
@@ -351,17 +382,10 @@
     "Rasa/entity roles and groups.md",
     "output processing features after entity extraction.md",
     "Rasa/Get info of Rasa Message.md",
-    "Attachments/Pasted image 20230625150554.png",
     "Preparing training data for entities.md",
     "Rasa/entities.md",
     "from_entity.md",
     "type of slots mapping.md",
-    "configurations in slots.md",
-    "Rasa/revert user message.md",
-    "Attachments/Pasted image 20221110125157.png",
-    "Attachments/Pasted image 20230621111838.png",
-    "Attachments/Pasted image 20230621104554.png",
-    "Attachments/Pasted image 20230621104455.png",
     "drawings/blog writter.excalidraw",
     "drawings",
     "RainDrop/Webs",

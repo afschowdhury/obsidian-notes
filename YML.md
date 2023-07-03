@@ -45,3 +45,8 @@ here we can see, yml supports multiple data type like strings and numbers. also 
 
 
 ![[text formatiing in rasa]]
+
+![[declaring variables and accessing in yml]]
+
+
+![[loading yml data in python]]
