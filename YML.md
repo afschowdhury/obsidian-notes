@@ -42,3 +42,6 @@ here we can see, yml supports multiple data type like strings and numbers. also 
 
 ![[How to add objects in yml]]
 
+
+
+![[text formatiing in rasa]]

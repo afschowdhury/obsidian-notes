@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "de3b3549c93cdd35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "text formatiing in rasa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6c73d70c31b38c1a",
             "type": "leaf",
             "state": {
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to add objects in yml.md",
+                "file": "text formatiing in rasa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "How to add objects in yml.md",
+                "file": "text formatiing in rasa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to add objects in yml.md",
+                "file": "text formatiing in rasa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to add objects in yml.md"
+                "file": "text formatiing in rasa.md"
               }
             }
           },
@@ -260,7 +272,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "How to add objects in yml.md",
+                "file": "text formatiing in rasa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -311,12 +323,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c73d70c31b38c1a",
+  "active": "de3b3549c93cdd35",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230703164806.png",
+    "YML.md",
+    "text formatiing in rasa.md",
+    "How to add objects in yml.md",
     "Attachments/Pasted image 20230703163854.png",
     "Attachments/Pasted image 20230703163843.png",
-    "YML.md",
-    "How to add objects in yml.md",
     "how to add array in yml.md",
     "Attachments/Pasted image 20230703162803.png",
     "Attachments/Pasted image 20230703162536.png",
@@ -344,12 +358,10 @@
     "type of slots mapping.md",
     "configurations in slots.md",
     "Rasa/revert user message.md",
-    "Custom Action.md",
     "Attachments/Pasted image 20221110125157.png",
     "Attachments/Pasted image 20230621111838.png",
     "Attachments/Pasted image 20230621104554.png",
     "Attachments/Pasted image 20230621104455.png",
-    "Attachments/Pasted image 20230621104321.png",
     "drawings/blog writter.excalidraw",
     "drawings",
     "RainDrop/Webs",
