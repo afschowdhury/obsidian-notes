@@ -8,163 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f7dd069a964bfb3",
+            "id": "6bed435582c523a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using Pre-Built Transformers.md",
+                "file": "YML.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4746a4badeccb116",
+            "id": "6a6573ecac1521f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output processing features after entity extraction.md",
+                "file": "why yml is needed.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bd24e853b4e21502",
+            "id": "a160717084a3a18e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slots mapping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13309a12eb68d1fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "type of slots mapping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a852d975ac66d157",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/synonyms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f62503254bed32f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/synonyms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0013e9f0e684e16f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "slots mapping configurations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bc2360517bb667f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "configurations in slots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08218e979c572be9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Using Pre-Built Transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49add758fd2c7fd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/NLU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fe5fe3b4dee0ee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/revert user message.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "732dc006746dc5f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/Custiom Actions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cff9b0d126110bd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "Why.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "YML.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "YML.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "YML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md"
+                "file": "YML.md"
               }
             }
           },
@@ -356,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "YML.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -403,11 +282,24 @@
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cff9b0d126110bd1",
+  "active": "6bed435582c523a9",
   "lastOpenFiles": [
+    "why yml is needed.md",
+    "YML.md",
+    "Why.md",
+    "Using Pre-Built Transformers.md",
+    "Rasa/NLU.md",
+    "slots mapping configurations.md",
+    "slots mapping.md",
+    "Rasa/Custiom Actions.md",
+    "Templates/UntitledNote.md",
+    "Templates/Thread.md",
+    "Untitled 8.md",
+    "Rasa/How to define Custom Action in rasa.md",
     "Rasa/synonyms.md",
     "Rasa/entity roles and groups.md",
     "output processing features after entity extraction.md",
@@ -416,32 +308,21 @@
     "Preparing training data for entities.md",
     "Rasa/entities.md",
     "from_entity.md",
-    "slots mapping configurations.md",
     "type of slots mapping.md",
-    "slots mapping.md",
     "configurations in slots.md",
-    "Rasa/How to define Custom Action in rasa.md",
-    "Rasa/Custiom Actions.md",
     "Rasa/revert user message.md",
     "Custom Action.md",
-    "Rasa/NLU.md",
-    "Using Pre-Built Transformers.md",
     "Rasa/test.md",
     "Attachments/Pasted image 20221110125157.png",
     "intents.md",
     "Rasa/Unlikely intent.md",
-    "Rasa/Difference between Lookup table and Synonyms in rasa.md",
     "Attachments/Pasted image 20230621111838.png",
-    "lookup table.md",
     "Attachments/Pasted image 20230621104554.png",
     "Attachments/Pasted image 20230621104455.png",
     "Attachments/Pasted image 20230621104321.png",
     "Attachments/Pasted image 20230621104043.png",
-    "Rasa/Rasa docs.md",
     "Attachments/Pasted image 20230621101545.png",
     "Attachments/Pasted image 20230621101229.png",
-    "LLM/ConversationBufferMemory.md",
-    "More interactive responses with multiple responses.md",
     "drawings/blog writter.excalidraw",
     "Attachments/Pasted image 20230619101000.png",
     "drawings",
