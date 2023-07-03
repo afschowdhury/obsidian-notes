@@ -51,7 +51,7 @@
   "CG@@CG-workspace-background-workspace-slider": 1,
   "CG@@CG-workspace-background-brightness": 2.09,
   "sanctum@@active-line-accent": "var(--background-hover)",
-  "sanctum@@dark-mode-contrast-mode": "sanctum-black",
+  "sanctum@@dark-mode-contrast-mode": "sanctum-contrast-dark",
   "sanctum@@color-accent-rgb-d": "243, 90, 55",
   "sanctum@@font-editor-theme": "APL386 Unicode",
   "sanctum@@blockquote-font-style": "italic",
@@ -60,5 +60,7 @@
   "sanctum@@code-border": true,
   "sanctum@@syntax-highlighting": "one-dark",
   "sanctum@@blockquote-border-color@@dark": "#8A3434",
-  "sanctum@@blockquote-color@@dark": "#B0EDA7"
+  "sanctum@@blockquote-color@@dark": "#B0EDA7",
+  "sanctum@@blockquote-marker": true,
+  "sanctum@@blockquote-border": true
 }
