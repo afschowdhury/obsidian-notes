@@ -5,14 +5,14 @@ the response can be creative. For example
 ![[Pasted image 20230323174640.png]]
 
 
-here two response is given in the `utter_greet`. When called, one of the two will be randomly selected. Also, {name} is the [[slots]]. It is more likely to the `f string` in python . 
+here two response is given in the `utter_greet`. When called, one of the two will be randomly selected. Also, {name} is the [[Rasa/slots]]. It is more likely to the `f string` in python . 
 
 we need to add it in [[domain]] file as the slots are defined in it.
 
 
 ![[Pasted image 20230404121054.png]]
 
-here the [[slots]] is of type [[any]]  and we have specified their [[slots mapping]] [[from_entity]]
+here the [[Rasa/slots]] is of type [[any]]  and we have specified their [[slots mapping]] [[Rasa/from_entity]]
 
 
 now we need to add some  examples in [[Preparing training data for entities]] for the model to learn the name pattern 

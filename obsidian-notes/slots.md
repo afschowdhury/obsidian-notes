@@ -5,7 +5,7 @@ These are the variable which is remembered over the course of the conversation. 
 ![[Pasted image 20230323174640.png]]
 it is similar to the `fstring` to python. 
 
-[[slots]] are used to collect useful piece of information from the user .
+[[Rasa/slots]] are used to collect useful piece of information from the user .
 
 ![[Pasted image 20230403135510.png]]
 

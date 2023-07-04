@@ -1,0 +1,2 @@
+#database #where-clause
+A predicate is **an expression that evaluates to TRUE, FALSE, or UNKNOWN**. Predicates are used in the search condition of WHERE clauses and HAVING clauses, the join conditions of FROM clauses, and other constructs where a Boolean value is required. SQL Server provides the following predicates: CONTAINS. FREETEXT.

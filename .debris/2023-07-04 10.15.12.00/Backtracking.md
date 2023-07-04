@@ -1,0 +1,7 @@
+
+
+Main article: [Backtracking](https://en.wikipedia.org/wiki/Backtracking "Backtracking")
+
+Another important application of stacks is [backtracking](https://en.wikipedia.org/wiki/Backtracking "Backtracking"). Consider a simple example of finding the correct path in a maze. There are a series of points, from the starting point to the destination. We start from one point. To reach the final destination, there are several paths. Suppose we choose a random path. After following a certain path, we realise that the path we have chosen is wrong. So we need to find a way by which we can return to the beginning of that path. This can be done with the use of stacks. With the help of stacks, we remember the point where we have reached. This is done by pushing that point into the stack. In case we end up on the wrong path, we can pop the last point from the stack and thus return to the last point and continue our quest to find the right path. This is called backtracking.
+
+The prototypical example of a backtracking algorithm is [depth-first search](https://en.wikipedia.org/wiki/Depth-first_search "Depth-first search"), which finds all vertices of a graph that can be reached from a specified starting vertex. Other applications of backtracking involve searching through spaces that represent potential solutions to an optimization problem. [Branch and bound](https://en.wikipedia.org/wiki/Branch_and_bound "Branch and bound") is a technique for performing such backtracking searches without exhaustively searching all of the potential solutions in such a space.

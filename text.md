@@ -1,6 +1,6 @@
 #rasa 
 
-text type of [[slots]] can [[influence_conversation]] . 
+text type of [[Rasa/slots]] can [[influence_conversation]] . 
 
 
 Slot type text can be used to store any text information.

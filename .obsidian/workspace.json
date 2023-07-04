@@ -8,190 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21c1065e4d15895f",
+            "id": "4ccafd6081b985e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/IELTS.md",
+                "file": "Chainlit.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5fd965dc3802d3e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IELTS/Listening Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6bc7b7ff104ea77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IELTS/section 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e06e5378030cda2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IELTS/section 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f327468ec6d7781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mega CMD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-<<<<<<< HEAD
-          },
-          {
-            "id": "468e9d592b8dad4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Download a folder using mega cmd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bc860db75a44d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "enable sync a specific folder in mega.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c9a093d0306488e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Upload a folder in mega.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b90386afb521a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "loading yml data in python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87959b973f35abd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "declaring variables and accessing in yml.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de3b3549c93cdd35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "text formatiing in rasa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c73d70c31b38c1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to add objects in yml.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65a5b3ec09bfceed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "how to add array in yml.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a6573ecac1521f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "why yml is needed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a160717084a3a18e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-=======
->>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,11 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Download a folder using mega cmd.md",
-=======
-                "file": "IELTS/section 2.md",
->>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
+                "file": "Chainlit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,11 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-<<<<<<< HEAD
-                "file": "Download a folder using mega cmd.md",
-=======
-                "file": "IELTS/section 2.md",
->>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
+                "file": "Chainlit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -325,11 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Download a folder using mega cmd.md",
-=======
-                "file": "IELTS/section 2.md",
->>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
+                "file": "Chainlit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,11 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Download a folder using mega cmd.md"
-=======
-                "file": "IELTS/section 2.md"
->>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
+                "file": "Chainlit.md"
               }
             }
           },
@@ -384,26 +196,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "678da2d476f21a18",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Attachments/Pasted image 20221110125157.png"
-              }
-            }
-          },
-          {
             "id": "02250688cabf96ae",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-<<<<<<< HEAD
-                "file": "Download a folder using mega cmd.md",
-=======
-                "file": "IELTS/section 2.md",
->>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
+                "file": "Chainlit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -432,8 +230,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -441,8 +238,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
@@ -451,69 +246,58 @@
       "daily-notes:Open today's daily note": true,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-<<<<<<< HEAD
-  "active": "468e9d592b8dad4b",
+  "active": "fb3007d8efa074b0",
   "lastOpenFiles": [
-    "Mega CMD.md",
-    "Download a folder using mega cmd.md",
-    "enable sync a specific folder in mega.md",
-    "Attachments/Pasted image 20230703180401.png",
-=======
-  "active": "f6bc7b7ff104ea77",
-  "lastOpenFiles": [
-    "IELTS/Listening Basics.md",
-    "IELTS/section 2.md",
-    "IELTS/section 1.md",
-    "Mega CMD.md",
-    "Download a folder using mega cmd.md",
-    "Untitled 10.md",
-    "Attachments/Pasted image 20230703214133.png",
-    "Templates/IELTS.md",
-    "Templates/Python.md",
-    "IELTS",
-    "Untitled 9.md",
-    "Why.md",
-    "why yml is needed.md",
-    "how to add array in yml.md",
-    "How to add objects in yml.md",
-    "text formatiing in rasa.md",
-    "declaring variables and accessing in yml.md",
-    "loading yml data in python.md",
->>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
-    "Upload a folder in mega.md",
-    "enable sync a specific folder in mega.md",
-    "Attachments/Pasted image 20230703180401.png",
-    "Attachments/Pasted image 20230703180132.png",
-    "Attachments/Pasted image 20230703180011.png",
+    "Attachments/Pasted image 20230704102527.png",
+    "Chainlit.md",
+    "Untitled",
+    "Rasa/from_entity.md",
+    "Rasa/slots.md",
+    "Rasa/Custiom Actions.md",
+    "section 2.md",
+    "Setting Slots in Rasa.md",
+    "slots mapping.md",
     "YML.md",
-    "obsidian-notes/why yml is needed.md",
-    "obsidian-notes/text formatiing in rasa.md",
-    "obsidian-notes/text.md",
-    "obsidian-notes/why few intents.md",
-    "obsidian-notes/type of slots mapping.md",
-    "obsidian-notes/task oriented dialogue system.md",
+    "why few intents.md",
+    "obsidian-notes/AI/NLP/sentence transformer vs dpr.md",
+    "why yml is needed.md",
+    "journals/2022_10_28.md",
+    "obsidian-valut-main/AI/NLP/Untitled.md",
+    "obsidian-notes/obsidian-valut-main/AI/NLP/Untitled.md",
+    "raw-notes/Github SSH authentication.md",
+    "obsidian-notes/AI/NLP/TF-IDF.md",
+    "obsidian-notes/AI/NLP/Lucene library.md",
+    "obsidian-notes/AI/NLP/Elastic Search.md",
+    "obsidian-notes/RainDrop/Webs/20 Best Productivity Podcasts You Have To Listen To in 2023 - Quidlo.md",
+    "obsidian-notes/AI/NLP/semantic search vs FAISS.md",
+    "streamlit.md",
+    "raw-notes/test-dataview.md",
+    "type of slots mapping.md",
+    "Download a folder using mega cmd.md",
+    "text.md",
+    "test.sh",
     "obsidian-notes/test.sh",
-    "obsidian-notes/test page new.md",
     "obsidian-notes/drawings/blog writter.excalidraw",
     "obsidian-notes/drawings/blog writter.png",
-    "obsidian-notes/Excalidraw/ChatChef.excalidraw",
-    "obsidian-notes/Attachments/chatchef roadmap.png",
-    "obsidian-notes/Attachments/chatchef timeline.png",
     "obsidian-notes/Attachments/chatchef.png",
+    "obsidian-notes/Excalidraw/ChatChef.excalidraw",
+    "obsidian-notes/Attachments/chatchef timeline.png",
+    "obsidian-notes/Attachments/Untitled.png",
     "obsidian-notes/Attachments/Pasted image 20230703171957.png",
+    "obsidian-notes/Attachments/Pasted image 20230703172401.png",
+    "obsidian-notes/Attachments/chatchef roadmap.png",
+    "obsidian-notes/Attachments/chatchef .png",
+    "obsidian-notes/Attachments/Pasted image 20230703171006.png",
     "obsidian-notes/Attachments/Pasted image 20230703172305.png",
-<<<<<<< HEAD
-    "obsidian-notes/Attachments/Pasted image 20230703163854.png",
-=======
->>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
+    "drawings/blog writter.excalidraw",
+    "Excalidraw/ChatChef.excalidraw",
+    "IELTS",
     "obsidian-notes/raw-notes",
-    "obsidian-notes/obsidian-valut-main/AI/NLP",
-    "obsidian-notes/obsidian-valut-main/AI",
-    "obsidian-notes/obsidian-valut-main",
-    "obsidian-notes/linux",
-    "obsidian-notes/journals"
+    "obsidian-notes/obsidian-valut-main/AI/NLP"
   ]
 }

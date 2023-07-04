@@ -1,6 +1,6 @@
 #rasa 
 
-this type of [[slots]] can also [[influence_conversation]]. 
+this type of [[Rasa/slots]] can also [[influence_conversation]]. 
 
 it is more similar to [[boolean]] , [[float]] meaning , the value of the slots can alter the conversation flow. 
 [[categorical]] type slots are used if the values of the slots are limited to 1-n ( where n is limited) values. 

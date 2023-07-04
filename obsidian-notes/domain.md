@@ -2,7 +2,7 @@ The domain file has all the intents that the chatbot can detect from the user an
 ![[Pasted image 20230323174133.png]]
 
 
-[[response]] , [[intents]] , [[slots]] , [[ entities]] are very important. [[slots]] are used to give user interactive feelings. 
+[[response]] , [[intents]] , [[Rasa/slots]] , [[ entities]] are very important. [[Rasa/slots]] are used to give user interactive feelings. 
 
 
 ![[Pasted image 20230323111708.png]]

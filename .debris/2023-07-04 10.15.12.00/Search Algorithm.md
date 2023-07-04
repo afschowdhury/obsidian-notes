@@ -1,0 +1,1 @@
+Searching is very important. For example , Facebook has 2.19 Billion users. If we want to search for a specific person and if Facebook had used [[Linear Search]], then it would requirea lot of time in its worst case scenario. So, we need to come up with a efficient way of searching .
