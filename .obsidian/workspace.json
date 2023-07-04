@@ -52,6 +52,30 @@
             }
           },
           {
+            "id": "5c8e2c1b5b789551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chainlit/run.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f607695a3c6d9d39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chainlit/hello.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "56847e3578df596f",
             "type": "leaf",
             "state": {
@@ -122,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 269.5
   },
   "right": {
     "id": "30a6f45e97eb79e9",
@@ -138,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chainlit/chainlit configuration file.md",
+                "file": "Chainlit/run.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chainlit/chainlit configuration file.md",
+                "file": "Chainlit/run.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chainlit/chainlit configuration file.md",
+                "file": "Chainlit/run.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chainlit/chainlit configuration file.md"
+                "file": "Chainlit/run.md"
               }
             }
           },
@@ -246,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chainlit/chainlit configuration file.md",
+                "file": "Chainlit/run.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,9 +320,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56847e3578df596f",
+  "active": "5c8e2c1b5b789551",
   "lastOpenFiles": [
     "Chainlit.md",
+    "Chainlit/run.md",
+    "Chainlit/hello.md",
+    "Attachments/Pasted image 20230704111439.png",
+    "Attachments/Pasted image 20230704111328.png",
+    "Attachments/Pasted image 20230704111030.png",
     "Chainlit/chainlit configuration file.md",
     "Templates/ChainlitTemplate.md",
     "Templates/Rasa.md",
@@ -325,8 +354,6 @@
     "obsidian-notes/RainDrop/Webs/20 Best Productivity Podcasts You Have To Listen To in 2023 - Quidlo.md",
     "obsidian-notes/AI/NLP/semantic search vs FAISS.md",
     "streamlit.md",
-    "raw-notes/test-dataview.md",
-    "type of slots mapping.md",
     "test.sh",
     "obsidian-notes/test.sh",
     "obsidian-notes/drawings/blog writter.excalidraw",
@@ -336,9 +363,6 @@
     "obsidian-notes/Attachments/chatchef timeline.png",
     "obsidian-notes/Attachments/Untitled.png",
     "obsidian-notes/Attachments/Pasted image 20230703171957.png",
-    "obsidian-notes/Attachments/Pasted image 20230703172401.png",
-    "obsidian-notes/Attachments/chatchef roadmap.png",
-    "obsidian-notes/Attachments/chatchef .png",
     "drawings/blog writter.excalidraw",
     "Excalidraw/ChatChef.excalidraw",
     "IELTS",
