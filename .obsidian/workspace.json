@@ -13,13 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Templates/ChainlitTemplate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d68b78b0d9d882a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chainlit/chainlit configuration file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8648477683c21cf5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f179862299c2bfaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Chainlit.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "56847e3578df596f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chainlit/chainlit configuration file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chainlit.md",
+                "file": "Chainlit/chainlit configuration file.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chainlit.md",
+                "file": "Chainlit/chainlit configuration file.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chainlit.md",
+                "file": "Chainlit/chainlit configuration file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chainlit.md"
+                "file": "Chainlit/chainlit configuration file.md"
               }
             }
           },
@@ -201,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chainlit.md",
+                "file": "Chainlit/chainlit configuration file.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,11 +296,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb3007d8efa074b0",
+  "active": "56847e3578df596f",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230704102527.png",
     "Chainlit.md",
-    "Untitled",
+    "Chainlit/chainlit configuration file.md",
+    "Templates/ChainlitTemplate.md",
+    "Templates/Rasa.md",
+    "Chainlit",
+    "Attachments/Pasted image 20230704105223.png",
+    "Attachments/Pasted image 20230704102527.png",
     "Rasa/from_entity.md",
     "Rasa/slots.md",
     "Rasa/Custiom Actions.md",
@@ -278,8 +327,6 @@
     "streamlit.md",
     "raw-notes/test-dataview.md",
     "type of slots mapping.md",
-    "Download a folder using mega cmd.md",
-    "text.md",
     "test.sh",
     "obsidian-notes/test.sh",
     "obsidian-notes/drawings/blog writter.excalidraw",
@@ -292,8 +339,6 @@
     "obsidian-notes/Attachments/Pasted image 20230703172401.png",
     "obsidian-notes/Attachments/chatchef roadmap.png",
     "obsidian-notes/Attachments/chatchef .png",
-    "obsidian-notes/Attachments/Pasted image 20230703171006.png",
-    "obsidian-notes/Attachments/Pasted image 20230703172305.png",
     "drawings/blog writter.excalidraw",
     "Excalidraw/ChatChef.excalidraw",
     "IELTS",

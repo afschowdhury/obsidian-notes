@@ -33,3 +33,25 @@ It is a framework that helps to build UI for chat apps specially with LLMs. It i
 5. [Share your app:](https://docs.chainlit.io/cloud/deploy) Publish your LLM app and share it with the world (coming soon)
     
 
+
+## Basic Chainlit 
+
+### installation
+
+```shell
+pip install chainlit
+```
+
+
+
+![[chainlit configuration file]]
+
+so the commands are 
+
+1. [[deploy]]
+2. [[hello]]
+3. [[init]]
+4. [[login]]
+5. [[logout]]
+6. [[migrate]]
+7. [[run]]
