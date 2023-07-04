@@ -32,3 +32,6 @@ list items in the mega cloud by
 ![[Upload a folder in mega]]
 
 ![[enable sync a specific folder in mega]]
+
+
+![[Download a folder using mega cmd]]
