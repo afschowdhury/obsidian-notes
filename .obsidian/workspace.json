@@ -86,9 +86,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3890e7b34fec712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "actions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a07a5d522328522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/Unlikely intent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41f0e3e88c781ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/How to define Custom Action in rasa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -162,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chainlit/run.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chainlit/run.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chainlit/run.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chainlit/run.md"
+                "file": "Rasa/How to define Custom Action in rasa.md"
               }
             }
           },
@@ -270,7 +306,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chainlit/run.md",
+                "file": "Rasa/How to define Custom Action in rasa.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -320,10 +356,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c8e2c1b5b789551",
+  "active": "41f0e3e88c781ba7",
   "lastOpenFiles": [
-    "Chainlit.md",
+    "Rasa/Unlikely intent.md",
+    "Custom Action.md",
+    "actions.md",
     "Chainlit/run.md",
+    "Chainlit.md",
     "Chainlit/hello.md",
     "Attachments/Pasted image 20230704111439.png",
     "Attachments/Pasted image 20230704111328.png",
@@ -351,9 +390,6 @@
     "obsidian-notes/AI/NLP/TF-IDF.md",
     "obsidian-notes/AI/NLP/Lucene library.md",
     "obsidian-notes/AI/NLP/Elastic Search.md",
-    "obsidian-notes/RainDrop/Webs/20 Best Productivity Podcasts You Have To Listen To in 2023 - Quidlo.md",
-    "obsidian-notes/AI/NLP/semantic search vs FAISS.md",
-    "streamlit.md",
     "test.sh",
     "obsidian-notes/test.sh",
     "obsidian-notes/drawings/blog writter.excalidraw",
