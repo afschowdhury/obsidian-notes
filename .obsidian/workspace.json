@@ -8,7 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bed435582c523a9",
+            "id": "21c1065e4d15895f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/IELTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fd965dc3802d3e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IELTS/Listening Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6bc7b7ff104ea77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IELTS/section 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e06e5378030cda2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IELTS/section 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f327468ec6d7781",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,6 +66,7 @@
                 "source": false
               }
             }
+<<<<<<< HEAD
           },
           {
             "id": "468e9d592b8dad4b",
@@ -138,9 +187,11 @@
                 "source": false
               }
             }
+=======
+>>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,7 +265,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Download a folder using mega cmd.md",
+=======
+                "file": "IELTS/section 2.md",
+>>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +286,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
                 "file": "Download a folder using mega cmd.md",
+=======
+                "file": "IELTS/section 2.md",
+>>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,7 +325,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Download a folder using mega cmd.md",
+=======
+                "file": "IELTS/section 2.md",
+>>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +352,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Download a folder using mega cmd.md"
+=======
+                "file": "IELTS/section 2.md"
+>>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
               }
             }
           },
@@ -310,7 +377,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "c9199fac796b4e08",
@@ -332,7 +399,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
                 "file": "Download a folder using mega cmd.md",
+=======
+                "file": "IELTS/section 2.md",
+>>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -370,6 +441,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
@@ -378,18 +451,41 @@
       "daily-notes:Open today's daily note": true,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
+<<<<<<< HEAD
   "active": "468e9d592b8dad4b",
   "lastOpenFiles": [
     "Mega CMD.md",
     "Download a folder using mega cmd.md",
     "enable sync a specific folder in mega.md",
     "Attachments/Pasted image 20230703180401.png",
+=======
+  "active": "f6bc7b7ff104ea77",
+  "lastOpenFiles": [
+    "IELTS/Listening Basics.md",
+    "IELTS/section 2.md",
+    "IELTS/section 1.md",
+    "Mega CMD.md",
+    "Download a folder using mega cmd.md",
+    "Untitled 10.md",
+    "Attachments/Pasted image 20230703214133.png",
+    "Templates/IELTS.md",
+    "Templates/Python.md",
+    "IELTS",
+    "Untitled 9.md",
+    "Why.md",
+    "why yml is needed.md",
+    "how to add array in yml.md",
+    "How to add objects in yml.md",
+    "text formatiing in rasa.md",
+    "declaring variables and accessing in yml.md",
+    "loading yml data in python.md",
+>>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
     "Upload a folder in mega.md",
+    "enable sync a specific folder in mega.md",
+    "Attachments/Pasted image 20230703180401.png",
     "Attachments/Pasted image 20230703180132.png",
     "Attachments/Pasted image 20230703180011.png",
     "YML.md",
@@ -401,20 +497,6 @@
     "obsidian-notes/task oriented dialogue system.md",
     "obsidian-notes/test.sh",
     "obsidian-notes/test page new.md",
-    "obsidian-notes/streamlit.md",
-    "obsidian-notes/lookup table.md",
-    "obsidian-notes/output processing features after entity extraction.md",
-    "obsidian-notes/response with buttons.md",
-    "obsidian-notes/raw-notes/test-dataview.md",
-    "obsidian-notes/slots.md",
-    "obsidian-notes/raw-notes/Github SSH authentication.md",
-    "obsidian-notes/response with images.md",
-    "obsidian-notes/response.md",
-    "obsidian-notes/loading yml data in python.md",
-    "obsidian-notes/slots mapping.md",
-    "obsidian-notes/slots mapping configurations.md",
-    "obsidian-notes/obsidian-valut-main/AI/NLP/Untitled.md",
-    "obsidian-notes/list.md",
     "obsidian-notes/drawings/blog writter.excalidraw",
     "obsidian-notes/drawings/blog writter.png",
     "obsidian-notes/Excalidraw/ChatChef.excalidraw",
@@ -423,13 +505,15 @@
     "obsidian-notes/Attachments/chatchef.png",
     "obsidian-notes/Attachments/Pasted image 20230703171957.png",
     "obsidian-notes/Attachments/Pasted image 20230703172305.png",
+<<<<<<< HEAD
     "obsidian-notes/Attachments/Pasted image 20230703163854.png",
+=======
+>>>>>>> a3bfd02aed3159706185ce3f1138400d2797a9f9
     "obsidian-notes/raw-notes",
     "obsidian-notes/obsidian-valut-main/AI/NLP",
     "obsidian-notes/obsidian-valut-main/AI",
     "obsidian-notes/obsidian-valut-main",
     "obsidian-notes/linux",
-    "obsidian-notes/journals",
-    "obsidian-notes/drawings"
+    "obsidian-notes/journals"
   ]
 }
