@@ -25,6 +25,8 @@ we also can specify the output structure(  [[obsidian-notes/LLM/Output Parser|Ou
 while prompting , we must follow the [[Write clear and specific instructions.]] 
 the similar can be done using [[obsidian-notes/LLM/SequentialChain|SequentialChain]] or [[obsidian-notes/LLM/SimpleSequentialChain|SimpleSequentialChain]] in langchain. 
 
+Another example :
+![[Pasted image 20230705171508.png]]
 
 ## Example of Usefullness
 

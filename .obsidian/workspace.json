@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Basic Instructions For Better Prompting.md",
+                "file": "LLM/specify  the steps to complete a task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40b744e1c538e9b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/Write clear and specific instructions..md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/iterative development of the prompt.md",
+                "file": "LLM/specify  the steps to complete a task.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/iterative development of the prompt.md",
+                "file": "LLM/specify  the steps to complete a task.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/iterative development of the prompt.md",
+                "file": "LLM/specify  the steps to complete a task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/iterative development of the prompt.md"
+                "file": "LLM/specify  the steps to complete a task.md"
               }
             }
           },
@@ -215,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/iterative development of the prompt.md",
+                "file": "LLM/specify  the steps to complete a task.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -265,8 +276,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea95265dd6221d13",
+  "active": "8482d63912bfc381",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230705171508.png",
+    "LLM/Give the model time to think.md",
+    "LLM/Basic Instructions For Better Prompting.md",
+    "LLM/Write clear and specific instructions..md",
+    "LLM/iterative development of the prompt.md",
     "Attachments/Pasted image 20230705160638.png",
     "Attachments/Pasted image 20230705160559.png",
     "Attachments/Pasted image 20230705160445.png",
@@ -276,14 +292,11 @@
     "Attachments/Pasted image 20230705155700.png",
     "Attachments/Pasted image 20230705155630.png",
     "Attachments/Pasted image 20230705155606.png",
-    "LLM/Basic Instructions For Better Prompting.md",
-    "LLM/iterative development of the prompt.md",
     "obsidian-notes/Basic Instructions For Better Prompt.md",
     "LLM/using delimiters.md",
     "LLM/ask for specific format( structured output).md",
     "LLM/check whether the conditions are satisfied.md",
     "LLM/few shot prompting.md",
-    "LLM/Write clear and specific instructions..md",
     "LLM/specify  the steps to complete a task.md",
     "Rasa/Unlikely intent.md",
     "actions.md",
@@ -293,8 +306,6 @@
     "mega-sync.sh",
     "Chainlit.md",
     "Attachments/Pasted image 20230705152331.png",
-    "Attachments/Pasted image 20230705152318.png",
-    "LLM/Give the model time to think.md",
     "obsidian-notes/LLM/Output Parser.md",
     "Rasa/How to define Custom Action in rasa.md",
     "Custom Action.md",
