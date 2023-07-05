@@ -117,14 +117,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "LLM/Basic Instructions For Better Prompt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d80b61ad1f29129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/few shot prompting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caab70b811227e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/check whether the conditions are satisfied.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1acea3bf7d97284d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/ask for specific format( structured output).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ecc2c773e54cdde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/using delimiters.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -153,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#prompt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "LLM/few shot prompting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "LLM/few shot prompting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "LLM/few shot prompting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +321,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md"
+                "file": "LLM/few shot prompting.md"
               }
             }
           },
@@ -306,7 +354,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/How to define Custom Action in rasa.md",
+                "file": "LLM/few shot prompting.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -356,8 +404,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41f0e3e88c781ba7",
+  "active": "3d80b61ad1f29129",
   "lastOpenFiles": [
+    "LLM/Basic Instructions For Better Prompt.md",
+    "LLM/few shot prompting.md",
+    "LLM/check whether the conditions are satisfied.md",
+    "Attachments/Pasted image 20230705144151.png",
+    "Attachments/Pasted image 20230705144122.png",
+    "Attachments/Pasted image 20230705144022.png",
+    "LLM/ask for specific format( structured output).md",
+    "obsidian-notes/LLM/Output Parser.md",
+    "Attachments/Pasted image 20230705143515.png",
+    "LLM/using delimiters.md",
+    "Attachments/Pasted image 20230705143209.png",
+    "Attachments/Pasted image 20230705142905.png",
+    "Attachments/Pasted image 20230705142236.png",
+    "obsidian-notes/Basic Instructions For Better Prompt.md",
+    "Rasa/How to define Custom Action in rasa.md",
     "Rasa/Unlikely intent.md",
     "Custom Action.md",
     "actions.md",
@@ -371,8 +434,6 @@
     "Templates/ChainlitTemplate.md",
     "Templates/Rasa.md",
     "Chainlit",
-    "Attachments/Pasted image 20230704105223.png",
-    "Attachments/Pasted image 20230704102527.png",
     "Rasa/from_entity.md",
     "Rasa/slots.md",
     "Rasa/Custiom Actions.md",
@@ -382,23 +443,10 @@
     "YML.md",
     "why few intents.md",
     "obsidian-notes/AI/NLP/sentence transformer vs dpr.md",
-    "why yml is needed.md",
-    "journals/2022_10_28.md",
-    "obsidian-valut-main/AI/NLP/Untitled.md",
-    "obsidian-notes/obsidian-valut-main/AI/NLP/Untitled.md",
-    "raw-notes/Github SSH authentication.md",
-    "obsidian-notes/AI/NLP/TF-IDF.md",
-    "obsidian-notes/AI/NLP/Lucene library.md",
-    "obsidian-notes/AI/NLP/Elastic Search.md",
     "test.sh",
     "obsidian-notes/test.sh",
     "obsidian-notes/drawings/blog writter.excalidraw",
-    "obsidian-notes/drawings/blog writter.png",
-    "obsidian-notes/Attachments/chatchef.png",
     "obsidian-notes/Excalidraw/ChatChef.excalidraw",
-    "obsidian-notes/Attachments/chatchef timeline.png",
-    "obsidian-notes/Attachments/Untitled.png",
-    "obsidian-notes/Attachments/Pasted image 20230703171957.png",
     "drawings/blog writter.excalidraw",
     "Excalidraw/ChatChef.excalidraw",
     "IELTS",
