@@ -17,13 +17,5 @@ Current Folder : LLM
 
 
 
-Write clear and specific instructions. we need to be very specific when writing prompt for llms.
-
-![[using delimiters]]
-
-![[ask for specific format( structured output)]]
-
-
-![[check whether the conditions are satisfied]]
-
-![[few shot prompting]]
+[[Write clear and specific instructions.]] 
+[[Give the model time to think]]
