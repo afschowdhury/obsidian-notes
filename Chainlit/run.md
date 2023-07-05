@@ -16,3 +16,8 @@ Current Folder : Chainlit
 [[04-07-2023]]
 
 for a basic chainlit apps, we can create a python file .
+```fish
+ chainlit run app.py -w
+ 
+```
+

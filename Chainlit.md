@@ -55,3 +55,8 @@ so the commands are
 5. [[logout]]
 6. [[migrate]]
 7. [[run]]
+
+
+all the basic api or functions of the [[Chainlit]] app is easy to use. they are found in this location : 
+
+https://docs.chainlit.io/api-reference/on-message 

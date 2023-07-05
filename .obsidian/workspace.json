@@ -4,199 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "042a5d16a8aa0bdf",
+        "id": "16f8dabacb155217",
         "type": "tabs",
         "children": [
           {
-            "id": "4ccafd6081b985e9",
+            "id": "8482d63912bfc381",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/ChainlitTemplate.md",
+                "file": "LLM/Basic Instructions For Better Prompting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d68b78b0d9d882a8",
+            "id": "ea95265dd6221d13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chainlit/chainlit configuration file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8648477683c21cf5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f179862299c2bfaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chainlit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c8e2c1b5b789551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chainlit/run.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f607695a3c6d9d39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chainlit/hello.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56847e3578df596f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chainlit/chainlit configuration file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3890e7b34fec712",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "actions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a07a5d522328522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/Unlikely intent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41f0e3e88c781ba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/Basic Instructions For Better Prompt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "100959fd57df7c80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/Give the model time to think.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf1164fe52de3bc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/Write clear and specific instructions..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d80b61ad1f29129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/few shot prompting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caab70b811227e83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/check whether the conditions are satisfied.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1acea3bf7d97284d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/ask for specific format( structured output).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ecc2c773e54cdde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/using delimiters.md",
+                "file": "LLM/iterative development of the prompt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/Give the model time to think.md",
+                "file": "LLM/iterative development of the prompt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/Give the model time to think.md",
+                "file": "LLM/iterative development of the prompt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -322,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/Give the model time to think.md",
+                "file": "LLM/iterative development of the prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -345,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Give the model time to think.md"
+                "file": "LLM/iterative development of the prompt.md"
               }
             }
           },
@@ -378,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/Give the model time to think.md",
+                "file": "LLM/iterative development of the prompt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -428,35 +265,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "100959fd57df7c80",
+  "active": "ea95265dd6221d13",
   "lastOpenFiles": [
-    "LLM/Basic Instructions For Better Prompt.md",
-    "LLM/Give the model time to think.md",
-    "LLM/Write clear and specific instructions..md",
-    "LLM/few shot prompting.md",
-    "Attachments/Pasted image 20230705144800.png",
-    "LLM/check whether the conditions are satisfied.md",
-    "Attachments/Pasted image 20230705144151.png",
-    "Attachments/Pasted image 20230705144122.png",
-    "Attachments/Pasted image 20230705144022.png",
-    "LLM/ask for specific format( structured output).md",
-    "obsidian-notes/LLM/Output Parser.md",
-    "Attachments/Pasted image 20230705143515.png",
-    "LLM/using delimiters.md",
-    "Attachments/Pasted image 20230705143209.png",
-    "Attachments/Pasted image 20230705142905.png",
-    "Attachments/Pasted image 20230705142236.png",
+    "LLM/Basic Instructions For Better Prompting.md",
+    "LLM/iterative development of the prompt.md",
     "obsidian-notes/Basic Instructions For Better Prompt.md",
-    "Rasa/How to define Custom Action in rasa.md",
+    "LLM/using delimiters.md",
+    "LLM/ask for specific format( structured output).md",
+    "LLM/check whether the conditions are satisfied.md",
+    "LLM/few shot prompting.md",
+    "LLM/Write clear and specific instructions..md",
+    "LLM/specify  the steps to complete a task.md",
     "Rasa/Unlikely intent.md",
-    "Custom Action.md",
     "actions.md",
-    "Chainlit/run.md",
-    "Chainlit.md",
     "Chainlit/hello.md",
-    "Attachments/Pasted image 20230704111439.png",
-    "Attachments/Pasted image 20230704111328.png",
     "Chainlit/chainlit configuration file.md",
+    "Chainlit/run.md",
+    "mega-sync.sh",
+    "Chainlit.md",
+    "Attachments/Pasted image 20230705152331.png",
+    "Attachments/Pasted image 20230705152318.png",
+    "Attachments/Pasted image 20230705152258.png",
+    "Attachments/Pasted image 20230705152114.png",
+    "Attachments/Pasted image 20230705152053.png",
+    "LLM/Give the model time to think.md",
+    "Attachments/Pasted image 20230705151541.png",
+    "Attachments/Pasted image 20230705151445.png",
+    "Attachments/Pasted image 20230705151304.png",
+    "Attachments/Pasted image 20230705144800.png",
+    "Attachments/Pasted image 20230705144151.png",
+    "obsidian-notes/LLM/Output Parser.md",
+    "Rasa/How to define Custom Action in rasa.md",
+    "Custom Action.md",
     "Templates/ChainlitTemplate.md",
     "Templates/Rasa.md",
     "Chainlit",
@@ -465,8 +305,6 @@
     "Rasa/Custiom Actions.md",
     "section 2.md",
     "Setting Slots in Rasa.md",
-    "slots mapping.md",
-    "YML.md",
     "test.sh",
     "obsidian-notes/test.sh",
     "obsidian-notes/drawings/blog writter.excalidraw",
@@ -474,7 +312,6 @@
     "drawings/blog writter.excalidraw",
     "Excalidraw/ChatChef.excalidraw",
     "IELTS",
-    "obsidian-notes/raw-notes",
-    "obsidian-notes/obsidian-valut-main/AI/NLP"
+    "obsidian-notes/raw-notes"
   ]
 }
