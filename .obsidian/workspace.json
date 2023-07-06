@@ -172,9 +172,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5998116706cfabc2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "435052c131e7d90b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-notes/LLM/LLMChain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -248,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-notes/LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
+                "file": "obsidian-notes/LLM/LLMChain.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +285,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
+                "file": "obsidian-notes/LLM/LLMChain.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,7 +320,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-notes/LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
+                "file": "obsidian-notes/LLM/LLMChain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-notes/LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md"
+                "file": "obsidian-notes/LLM/LLMChain.md"
               }
             }
           },
@@ -356,7 +376,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
+                "file": "obsidian-notes/LLM/LLMChain.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -406,8 +426,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "21c779f64d0e3e70",
+  "active": "435052c131e7d90b",
   "lastOpenFiles": [
+    "obsidian-notes/LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
     "obsidian-notes/LLM/Prompt Template in Langchain.md",
     "LLM/Prompt template.md",
     "obsidian-notes/LLM/ConversationBufferWindowMemory.md",
@@ -446,7 +467,6 @@
     "Chainlit/run.md",
     "mega-sync.sh",
     "Chainlit.md",
-    "obsidian-notes/LLM/Output Parser.md",
     "Chainlit",
     "test.sh",
     "obsidian-notes/test.sh",
