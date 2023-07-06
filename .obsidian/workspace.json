@@ -20,6 +20,28 @@
             }
           },
           {
+            "id": "c9f4922e91efe882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/system message.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "148a5294b6982e82",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments/PDF/API Reference - OpenAI API.pdf"
+              }
+            }
+          },
+          {
             "id": "40b744e1c538e9b0",
             "type": "leaf",
             "state": {
@@ -42,8 +64,73 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7a0512334266f42",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1b502e09fa0d404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-notes/LLM/Memory in Langchain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2548047f775f6f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b12e40c03fd7092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-notes/LLM/ConversationBufferWindowMemory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ee94ec0caa40819",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c3237395ef36a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-notes/LLM/Chains in Langchain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -117,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/OpenAI api chat_completion.md",
+                "file": "obsidian-notes/LLM/ConversationBufferWindowMemory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/OpenAI api chat_completion.md",
+                "file": "obsidian-notes/LLM/ConversationBufferWindowMemory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/OpenAI api chat_completion.md",
+                "file": "obsidian-notes/LLM/ConversationBufferWindowMemory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/OpenAI api chat_completion.md"
+                "file": "obsidian-notes/LLM/ConversationBufferWindowMemory.md"
               }
             }
           },
@@ -225,7 +312,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/OpenAI api chat_completion.md",
+                "file": "obsidian-notes/LLM/ConversationBufferWindowMemory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +335,7 @@
                   "repelStrength": 2.5,
                   "linkStrength": 0.442708333333333,
                   "linkDistance": 270,
-                  "scale": 0.6666666666666663,
+                  "scale": 0.2962962962962959,
                   "close": true
                 }
               }
@@ -275,26 +362,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02250688cabf96ae",
+  "active": "1b12e40c03fd7092",
   "lastOpenFiles": [
+    "obsidian-notes/LLM/Chains in Langchain.md",
+    "obsidian-notes/LLM/ConversationBufferMemory.md",
+    "obsidian-notes/LLM/Memory in Langchain.md",
+    "obsidian-notes/LLM/ConversationBufferWindowMemory.md",
+    "LLM/iterative development of the prompt.md",
+    "obsidian-notes/AI/NLP/semantic search vs FAISS.md",
+    "LLM/OpenAI api chat_completion.md",
+    "LLM/system message.md",
+    "Attachments/Pasted image 20230706100442.png",
     "Attachments/PDF/API Reference - OpenAI API.pdf",
     "Attachments/PDF",
     "Attachments/Pasted image 20230706095205.png",
     "Attachments/Pasted image 20230706094822.png",
     "LLM/specify  the steps to complete a task.md",
-    "LLM/OpenAI api chat_completion.md",
     "Attachments/Pasted image 20230705171508.png",
     "LLM/Give the model time to think.md",
     "LLM/Basic Instructions For Better Prompting.md",
     "LLM/Write clear and specific instructions..md",
-    "LLM/iterative development of the prompt.md",
     "Attachments/Pasted image 20230705160638.png",
     "Attachments/Pasted image 20230705160559.png",
     "Attachments/Pasted image 20230705160445.png",
     "Attachments/Pasted image 20230705160305.png",
     "Attachments/Pasted image 20230705155826.png",
     "Attachments/Pasted image 20230705155726.png",
-    "Attachments/Pasted image 20230705155700.png",
     "obsidian-notes/Basic Instructions For Better Prompt.md",
     "LLM/using delimiters.md",
     "LLM/ask for specific format( structured output).md",
@@ -310,18 +403,12 @@
     "obsidian-notes/LLM/Output Parser.md",
     "Rasa/How to define Custom Action in rasa.md",
     "Custom Action.md",
-    "Templates/ChainlitTemplate.md",
-    "Templates/Rasa.md",
     "Chainlit",
-    "Rasa/from_entity.md",
-    "Rasa/slots.md",
-    "Rasa/Custiom Actions.md",
     "test.sh",
     "obsidian-notes/test.sh",
     "obsidian-notes/drawings/blog writter.excalidraw",
     "obsidian-notes/Excalidraw/ChatChef.excalidraw",
     "drawings/blog writter.excalidraw",
-    "Excalidraw/ChatChef.excalidraw",
-    "IELTS"
+    "Excalidraw/ChatChef.excalidraw"
   ]
 }

@@ -24,3 +24,11 @@ by default, the role is user and the content is prompt. we don't need to define 
 the entire api documentation : https://platform.openai.com/docs/api-reference/introduction
 
 [[API Reference - OpenAI API.pdf]]
+
+
+the role of the messages is very important.
+
+![[Pasted image 20230706100442.png]]
+
+[[system message]]
+the assistant message and user message is self explanatory. 
