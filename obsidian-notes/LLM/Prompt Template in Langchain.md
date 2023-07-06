@@ -1,6 +1,6 @@
 ---
 type: Coding  
-tags: llm , langchain
+tags: llm , langchain,prompt
 category: work
 for_inteview: True
 creation_date: 2023-06-11 11:39

@@ -1,4 +1,19 @@
-#llm #langchain 
+---
+type: Coding  
+tags: llm ,prompt, langchain
+category: work
+for_inteview: True
+creation_date: 2023-07-04 10:16
+modification_date: 2023-07-06 11:31
+---
+
+  
+Current Folder : LLM
+
+
+
+
+[[06-07-2023]]
 
 
 A prompt template is a way of creating dynamic input for language models using [[langchain]], a framework for building applications with large language models (LLMs). A prompt template consists of a fixed template string and some input variables that can be filled by the user or other sources. LangChain provides several classes and functions to make constructing and working with prompt templates easy. For example, the PromptTemplate class can take a template and input variables as arguments and return a PromptValue object that can be passed to the model. You can also use ExampleSelectors to choose relevant examples for your prompt template based on the input variables. For more details, see the following links:
