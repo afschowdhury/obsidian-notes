@@ -192,9 +192,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5b0a6bcfbfebb1f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f6687e949542cb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding basic/Scripting Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -268,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-notes/LLM/LLMChain.md",
+                "file": "coding basic/Scripting Language.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +305,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/LLM/LLMChain.md",
+                "file": "coding basic/Scripting Language.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,7 +340,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-notes/LLM/LLMChain.md",
+                "file": "coding basic/Scripting Language.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +363,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-notes/LLM/LLMChain.md"
+                "file": "coding basic/Scripting Language.md"
               }
             }
           },
@@ -376,7 +396,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/LLM/LLMChain.md",
+                "file": "coding basic/Scripting Language.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -426,8 +446,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "435052c131e7d90b",
+  "active": "7f6687e949542cb0",
   "lastOpenFiles": [
+    "obsidian-notes/LLM/LLMChain.md",
     "obsidian-notes/LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
     "obsidian-notes/LLM/Prompt Template in Langchain.md",
     "LLM/Prompt template.md",
@@ -466,7 +487,6 @@
     "Chainlit/chainlit configuration file.md",
     "Chainlit/run.md",
     "mega-sync.sh",
-    "Chainlit.md",
     "Chainlit",
     "test.sh",
     "obsidian-notes/test.sh",
