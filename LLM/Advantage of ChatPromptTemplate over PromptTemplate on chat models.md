@@ -15,6 +15,7 @@ Current Folder : LLM
 
 [[11-06-2023]]
 
+[[obsidian-notes/LLM/Prompt Template in Langchain|Prompt Template in Langchain]]
 
 The advantage of using ChatPromptTemplate over PromptTemplate in chat models is that **ChatPromptTemplate allows you to create more structured and dynamic prompts that can leverage the message-based interface of chat models.** <mark style="background: #FFB86CA6;">Chat models are designed to handle multiple messages as input and output, rather than a single text string. ChatPromptTemplate lets you define different types of messages, such as system messages, human messages, or AI messages, and use them to create prompts that can guide the chat model's behavior and output</mark>. For example, you can use system messages to provide instructions or constraints for the chat model, human messages to simulate user input or feedback, or AI messages to specify the format or style of the chat model's response. You can also use variables, functions, and commands to make your prompts more dynamic and interactive. For example, you can use variables to pass information from one message to another, functions to generate random or contextual data, or commands to control the chat model's actions.
 
