@@ -276,7 +276,7 @@
                   "repelStrength": 2.5,
                   "linkStrength": 0.442708333333333,
                   "linkDistance": 270,
-                  "scale": 0.6666666666666659,
+                  "scale": 0.6666666666666656,
                   "close": true
                 }
               }
@@ -303,10 +303,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f13e213396c21108",
+  "active": "02250688cabf96ae",
   "lastOpenFiles": [
-    "obsidian-notes/Custom Action.md",
     "obsidian-notes/LLM/ConversationBufferMemory.md",
+    "obsidian-notes/Custom Action.md",
     "obsidian-notes/LLM/Memory in Langchain.md",
     "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
     "obsidian-notes/LLM/Prompt Template in Langchain.md",
