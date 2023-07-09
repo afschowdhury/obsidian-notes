@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-notes/LLM/Prompt Template in Langchain.md",
+                "file": "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/LLM/Prompt Template in Langchain.md",
+                "file": "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-notes/LLM/Prompt Template in Langchain.md",
+                "file": "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-notes/LLM/Prompt Template in Langchain.md"
+                "file": "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md"
               }
             }
           },
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/LLM/Prompt Template in Langchain.md",
+                "file": "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -291,10 +291,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f69cdd3d3c5caff",
+  "active": "a96703f87e86cc06",
   "lastOpenFiles": [
-    "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
     "obsidian-notes/LLM/Prompt Template in Langchain.md",
+    "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
     "obsidian-notes/LLM/Chains in Langchain.md",
     "obsidian-notes/LLM/LLMChain.md",
     "coding basic/Scripting Language.md",
