@@ -33,9 +33,14 @@ Some examples of chains in LangChain are:
 
 - [[LLMChain]]: A chain that combines a prompt template, a language model (either an LLM or a ChatModel), and an optional [[output parser]]. This chain takes multiple input variables, uses the [[prompt template]] to format them into a prompt, passes it to the language model, and parses the output into a final format.
 - [[SimpleSequentialChain]]: **A chain that runs multiple [[LLMChains]] in sequence, passing the output of one chain as the input of the next one.** 
-- [[SequentialChain]]: A chain that runs multiple LLMChains in sequence, passing multiple outputs and inputs between them.
-- **MultiPromptChain**: A chain that uses a router chain to select the best prompt template for a given input, and then runs an LLMChain with that prompt template.
+- [[SequentialChain]]: A chain that runs multiple LLMChains in sequence, passing **multiple outputs and inputs between them**.
+- **MultiPromptChain**: A chain that uses a router chain to select the best prompt template for a given input, and then runs an LLMChain with that prompt template. 
+	- [?]  Read more   
 - **RouterChain**: A chain that takes an input and returns the name of the best destination chain to use for that input.
+
+
+
+
 
 
 
