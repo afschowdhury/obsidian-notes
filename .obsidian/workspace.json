@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-notes/LLM/Chains in Langchain.md",
+                "file": "obsidian-notes/LLM/LLMChain.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,9 +70,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "beea2ff31d554058",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "866b6f2c5a74084e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-notes/LLM/Chains in Langchain.md",
+                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/LLM/Chains in Langchain.md",
+                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-notes/LLM/Chains in Langchain.md",
+                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-notes/LLM/Chains in Langchain.md"
+                "file": "obsidian-notes/LLM/ConversationBufferMemory.md"
               }
             }
           },
@@ -253,7 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/LLM/Chains in Langchain.md",
+                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -303,15 +323,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02250688cabf96ae",
+  "active": "866b6f2c5a74084e",
   "lastOpenFiles": [
+    "obsidian-notes/LLM/LLMChain.md",
     "obsidian-notes/LLM/ConversationBufferMemory.md",
-    "obsidian-notes/Custom Action.md",
     "obsidian-notes/LLM/Memory in Langchain.md",
+    "obsidian-notes/LLM/Chains in Langchain.md",
+    "obsidian-notes/Custom Action.md",
     "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
     "obsidian-notes/LLM/Prompt Template in Langchain.md",
-    "obsidian-notes/LLM/Chains in Langchain.md",
-    "obsidian-notes/LLM/LLMChain.md",
     "coding basic/Scripting Language.md",
     "obsidian-notes/LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
     "LLM/Prompt template.md",
