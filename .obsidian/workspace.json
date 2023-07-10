@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
+                "file": "obsidian-notes/LLM/Chains in Langchain.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
+                "file": "obsidian-notes/LLM/Chains in Langchain.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
+                "file": "obsidian-notes/LLM/Chains in Langchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-notes/LLM/ConversationBufferMemory.md"
+                "file": "obsidian-notes/LLM/Chains in Langchain.md"
               }
             }
           },
@@ -253,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
+                "file": "obsidian-notes/LLM/Chains in Langchain.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
