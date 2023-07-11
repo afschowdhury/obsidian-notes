@@ -90,9 +90,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72cb41854edf80c4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "421ec31eb14eaa61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-notes/YML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -166,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
+                "file": "obsidian-notes/YML.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
+                "file": "obsidian-notes/YML.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
+                "file": "obsidian-notes/YML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-notes/LLM/ConversationBufferMemory.md"
+                "file": "obsidian-notes/YML.md"
               }
             }
           },
@@ -273,7 +293,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
+                "file": "obsidian-notes/YML.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -323,10 +343,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "866b6f2c5a74084e",
+  "active": "421ec31eb14eaa61",
   "lastOpenFiles": [
-    "obsidian-notes/LLM/LLMChain.md",
     "obsidian-notes/LLM/ConversationBufferMemory.md",
+    "obsidian-notes/LLM/LLMChain.md",
     "obsidian-notes/LLM/Memory in Langchain.md",
     "obsidian-notes/LLM/Chains in Langchain.md",
     "obsidian-notes/Custom Action.md",
