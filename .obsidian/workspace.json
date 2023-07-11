@@ -110,9 +110,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ad9db560d1804f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "loading yml data in python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -186,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-notes/YML.md",
+                "file": "loading yml data in python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/YML.md",
+                "file": "loading yml data in python.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-notes/YML.md",
+                "file": "loading yml data in python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-notes/YML.md"
+                "file": "loading yml data in python.md"
               }
             }
           },
@@ -293,7 +305,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/YML.md",
+                "file": "loading yml data in python.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -343,8 +355,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "421ec31eb14eaa61",
+  "active": "5ad9db560d1804f5",
   "lastOpenFiles": [
+    "obsidian-notes/YML.md",
     "obsidian-notes/LLM/ConversationBufferMemory.md",
     "obsidian-notes/LLM/LLMChain.md",
     "obsidian-notes/LLM/Memory in Langchain.md",
@@ -382,7 +395,6 @@
     "LLM/check whether the conditions are satisfied.md",
     "LLM/few shot prompting.md",
     "Rasa/Unlikely intent.md",
-    "actions.md",
     "mega-sync.sh",
     "Chainlit",
     "test.sh",
