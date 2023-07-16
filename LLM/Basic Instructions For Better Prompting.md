@@ -20,3 +20,4 @@ Current Folder : LLM
 [[Write clear and specific instructions.]] 
 [[Give the model time to think]] 
 [[iterative development of the prompt]]
+[[openai instructions for better prompt]]

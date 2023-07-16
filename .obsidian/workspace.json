@@ -13,9 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/iterative development of the prompt.md",
+                "file": "LLM/Basic Instructions For Better Prompting.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "88cd729792d125ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/openai instructions for better prompt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f3db54572e7777f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments/PDF/Best practices for prompt engineering with OpenAI API _ OpenAI Help Center.pdf"
               }
             }
           },
@@ -51,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/iterative development of the prompt.md",
+                "file": "LLM/openai instructions for better prompt.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/iterative development of the prompt.md",
+                "file": "LLM/openai instructions for better prompt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -178,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/iterative development of the prompt.md",
+                "file": "LLM/openai instructions for better prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/iterative development of the prompt.md"
+                "file": "LLM/openai instructions for better prompt.md"
               }
             }
           },
@@ -234,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/iterative development of the prompt.md",
+                "file": "LLM/openai instructions for better prompt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -284,9 +307,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "745ab6c0a241ed09",
+  "active": "88cd729792d125ce",
   "lastOpenFiles": [
+    "mega.sh",
     "LLM/Basic Instructions For Better Prompting.md",
+    "LLM/openai instructions for better prompt.md",
+    "Attachments/PDF/Best practices for prompt engineering with OpenAI API _ OpenAI Help Center.pdf",
+    "LLM/iterative development of the prompt.md",
+    "Attachments/PDF/Unconfirmed 587111.crdownload",
     "LLM/specify  the steps to complete a task.md",
     "LLM/Give the model time to think.md",
     "LLM/Write clear and specific instructions..md",
@@ -309,10 +337,7 @@
     "obsidian-notes/LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
     "LLM/Prompt template.md",
     "obsidian-notes/LLM/ConversationBufferWindowMemory.md",
-    "LLM/iterative development of the prompt.md",
     "Attachments/PDF/API Reference - OpenAI API.pdf",
-    "LLM/system message.md",
-    "obsidian-notes/AI/NLP/semantic search vs FAISS.md",
     "Attachments/Pasted image 20230706100442.png",
     "Attachments/PDF",
     "Attachments/Pasted image 20230706095205.png",
@@ -329,8 +354,6 @@
     "test.sh",
     "obsidian-notes/test.sh",
     "obsidian-notes/drawings/blog writter.excalidraw",
-    "obsidian-notes/Excalidraw/ChatChef.excalidraw",
-    "drawings/blog writter.excalidraw",
-    "Excalidraw/ChatChef.excalidraw"
+    "obsidian-notes/Excalidraw/ChatChef.excalidraw"
   ]
 }
