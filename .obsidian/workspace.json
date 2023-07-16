@@ -8,140 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "435052c131e7d90b",
+            "id": "745ab6c0a241ed09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-notes/LLM/LLMChain.md",
+                "file": "LLM/Basic Instructions For Better Prompting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "79e53a1b514a8573",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0f69cdd3d3c5caff",
+            "id": "01837ca2bbcc95e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-notes/LLM/Prompt Template in Langchain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a96703f87e86cc06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26e3ab10f98b0cb3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f13e213396c21108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "beea2ff31d554058",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "866b6f2c5a74084e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-notes/LLM/ConversationBufferMemory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72cb41854edf80c4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "421ec31eb14eaa61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-notes/YML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ad9db560d1804f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "loading yml data in python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc3368d797b9497f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/slots.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02c3dbf094c6cb03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "text.md",
+                "file": "LLM/Write clear and specific instructions..md",
                 "mode": "source",
                 "source": false
               }
@@ -158,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58a9218be61d785e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,7 +106,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -234,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "text.md",
+                "file": "LLM/Write clear and specific instructions..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "text.md",
+                "file": "LLM/Write clear and specific instructions..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "text.md",
+                "file": "LLM/Write clear and specific instructions..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "text.md"
+                "file": "LLM/Write clear and specific instructions..md"
               }
             }
           },
@@ -329,7 +222,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c9199fac796b4e08",
@@ -341,7 +235,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "text.md",
+                "file": "LLM/Write clear and specific instructions..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -364,7 +258,7 @@
                   "repelStrength": 2.5,
                   "linkStrength": 0.442708333333333,
                   "linkDistance": 270,
-                  "scale": 0.6666666666666656,
+                  "scale": 0.9999999999999978,
                   "close": true
                 }
               }
@@ -374,7 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 626.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -391,26 +285,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02c3dbf094c6cb03",
+  "active": "01837ca2bbcc95e4",
   "lastOpenFiles": [
-    "Types of slots.md",
-    "any.md",
+    "LLM/Write clear and specific instructions..md",
+    "LLM/Basic Instructions For Better Prompting.md",
+    "text.md",
     "Rasa/slots.md",
     "loading yml data in python.md",
     "obsidian-notes/YML.md",
     "obsidian-notes/LLM/ConversationBufferMemory.md",
+    "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
+    "obsidian-notes/LLM/Prompt Template in Langchain.md",
+    "obsidian-notes/Basic Instructions For Better Prompt.md",
+    "LLM/few shot prompting.md",
+    "Types of slots.md",
+    "any.md",
     "obsidian-notes/LLM/LLMChain.md",
     "obsidian-notes/LLM/Memory in Langchain.md",
     "obsidian-notes/LLM/Chains in Langchain.md",
     "obsidian-notes/Custom Action.md",
-    "LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
-    "obsidian-notes/LLM/Prompt Template in Langchain.md",
     "coding basic/Scripting Language.md",
     "obsidian-notes/LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
     "LLM/Prompt template.md",
     "obsidian-notes/LLM/ConversationBufferWindowMemory.md",
     "LLM/iterative development of the prompt.md",
-    "LLM/Write clear and specific instructions..md",
     "Attachments/PDF/API Reference - OpenAI API.pdf",
     "LLM/system message.md",
     "obsidian-notes/AI/NLP/semantic search vs FAISS.md",
@@ -421,16 +319,12 @@
     "Attachments/Pasted image 20230706094822.png",
     "LLM/specify  the steps to complete a task.md",
     "Attachments/Pasted image 20230705171508.png",
-    "LLM/Give the model time to think.md",
-    "LLM/Basic Instructions For Better Prompting.md",
     "Attachments/Pasted image 20230705160638.png",
     "Attachments/Pasted image 20230705160559.png",
     "Attachments/Pasted image 20230705160445.png",
     "Attachments/Pasted image 20230705160305.png",
     "Attachments/Pasted image 20230705155826.png",
     "Attachments/Pasted image 20230705155726.png",
-    "obsidian-notes/Basic Instructions For Better Prompt.md",
-    "LLM/using delimiters.md",
     "mega-sync.sh",
     "Chainlit",
     "test.sh",
