@@ -122,9 +122,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc3368d797b9497f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/slots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02c3dbf094c6cb03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "text.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64b8830e8f80142e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "any.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -198,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loading yml data in python.md",
+                "file": "text.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "loading yml data in python.md",
+                "file": "text.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "loading yml data in python.md",
+                "file": "text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +309,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "loading yml data in python.md"
+                "file": "text.md"
               }
             }
           },
@@ -305,7 +341,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "loading yml data in python.md",
+                "file": "text.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -355,8 +391,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ad9db560d1804f5",
+  "active": "02c3dbf094c6cb03",
   "lastOpenFiles": [
+    "Types of slots.md",
+    "any.md",
+    "Rasa/slots.md",
+    "loading yml data in python.md",
     "obsidian-notes/YML.md",
     "obsidian-notes/LLM/ConversationBufferMemory.md",
     "obsidian-notes/LLM/LLMChain.md",
@@ -391,10 +431,6 @@
     "Attachments/Pasted image 20230705155726.png",
     "obsidian-notes/Basic Instructions For Better Prompt.md",
     "LLM/using delimiters.md",
-    "LLM/ask for specific format( structured output).md",
-    "LLM/check whether the conditions are satisfied.md",
-    "LLM/few shot prompting.md",
-    "Rasa/Unlikely intent.md",
     "mega-sync.sh",
     "Chainlit",
     "test.sh",
