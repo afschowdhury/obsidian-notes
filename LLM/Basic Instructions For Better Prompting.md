@@ -21,3 +21,4 @@ Current Folder : LLM
 [[Give the model time to think]] 
 [[iterative development of the prompt]]
 [[openai instructions for better prompt]]
+[[chain of thought prompting]]
