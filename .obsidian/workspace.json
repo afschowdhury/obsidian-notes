@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "cbc2f6666b6a6f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/zero shot chain of thought.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "71b6e2abcd736e74",
             "type": "leaf",
             "state": {
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/chain of thought prompting.md",
+                "file": "LLM/zero shot chain of thought.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/chain of thought prompting.md",
+                "file": "LLM/zero shot chain of thought.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/chain of thought prompting.md",
+                "file": "LLM/zero shot chain of thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/chain of thought prompting.md"
+                "file": "LLM/zero shot chain of thought.md"
               }
             }
           },
@@ -269,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/chain of thought prompting.md",
+                "file": "LLM/zero shot chain of thought.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -319,11 +331,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71b6e2abcd736e74",
+  "active": "cbc2f6666b6a6f07",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230717104323.png",
+    "Attachments/Pasted image 20230717111308.png",
+    "Attachments/Pasted image 20230717111252.png",
+    "Attachments/Pasted image 20230717111217.png",
     "LLM/Basic Instructions For Better Prompting.md",
+    "LLM/zero shot chain of thought.md",
     "LLM/chain of thought prompting.md",
+    "Attachments/Pasted image 20230717104323.png",
     "LLM/openai instructions for better prompt.md",
     "mega.sh",
     "Attachments/PDF/Best practices for prompt engineering with OpenAI API _ OpenAI Help Center.pdf",
@@ -349,7 +365,6 @@
     "obsidian-notes/Custom Action.md",
     "coding basic/Scripting Language.md",
     "obsidian-notes/LLM/Advantage of ChatPromptTemplate over PromptTemplate on chat models.md",
-    "LLM/Prompt template.md",
     "Attachments/PDF/API Reference - OpenAI API.pdf",
     "Attachments/Pasted image 20230706100442.png",
     "Attachments/PDF",
@@ -359,9 +374,6 @@
     "Attachments/Pasted image 20230705160638.png",
     "Attachments/Pasted image 20230705160559.png",
     "Attachments/Pasted image 20230705160445.png",
-    "Attachments/Pasted image 20230705160305.png",
-    "Attachments/Pasted image 20230705155826.png",
-    "Attachments/Pasted image 20230705155726.png",
     "mega-sync.sh",
     "Chainlit",
     "test.sh",

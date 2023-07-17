@@ -22,3 +22,4 @@ Current Folder : LLM
 [[iterative development of the prompt]]
 [[openai instructions for better prompt]]
 [[chain of thought prompting]]
+[[zero shot chain of thought]]
