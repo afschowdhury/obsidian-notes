@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/function calling to force a specific function.md",
+                "file": "LLM/OpenAI pricing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/function calling to force a specific function.md",
+                "file": "LLM/OpenAI pricing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/function calling to force a specific function.md",
+                "file": "LLM/OpenAI pricing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/function calling to force a specific function.md"
+                "file": "LLM/OpenAI pricing.md"
               }
             }
           },
@@ -337,7 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/function calling to force a specific function.md",
+                "file": "LLM/OpenAI pricing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -387,12 +387,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "761b7dcde2f0135a",
+  "active": "5c067cbd1ba00e0d",
   "lastOpenFiles": [
     "LLM/Openai fourum.md",
+    "LLM/function calling to force a specific function.md",
     "LLM/efficient system message cycle.md",
     "Attachments/Pasted image 20230718113144.png",
-    "LLM/function calling to force a specific function.md",
     "Attachments/Pasted image 20230718111732.png",
     "LLM/OpenAI pricing.md",
     "Attachments/Pasted image 20230718110607.png",
