@@ -126,4 +126,26 @@ Thus, `Function_description_token` = 339-(192+1) = **146**
 
 ![[Pasted image 20230718104408.png]]
 
+### Cost Calculation:
+**openai Pricing**: 
+
+| Context Size | Prompt token        | Completion token   | 
+| ------------ | ------------------- | :------------------ |
+| 4K context   | $0.0015 / 1K tokens | $0.002 / 1K tokens  |
+
+
+
+Per token cost :
+
+| Prompt token | completion token |
+| ------------ | ---------------- |
+| 0.0000015    | 0.000002         |
+|              |                  |
+
+Hence the total cost is : 
+
+`(339 * 0.000015 + 0.00002 * 10 ) * 108 = 0.06 Taka `
+
+
+
 

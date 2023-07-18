@@ -279,9 +279,17 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "8691f61db4ca096f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "c9199fac796b4e08",
@@ -343,7 +351,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c067cbd1ba00e0d",
+  "active": "8691f61db4ca096f",
   "lastOpenFiles": [
     "Attachments/Pasted image 20230718104408.png",
     "Attachments/Pasted image 20230718103938.png",
