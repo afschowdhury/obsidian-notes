@@ -127,6 +127,7 @@ Thus, `Function_description_token` = 339-(192+1) = **146**
 ![[Pasted image 20230718104408.png]]
 
 ### Cost Calculation:
+
 **openai Pricing**: 
 
 | Context Size | Prompt token        | Completion token   | 
@@ -145,6 +146,25 @@ Per token cost :
 Hence the total cost is : 
 
 `(339 * 0.000015 + 0.00002 * 10 ) * 108 = 0.06 Taka `
+
+From response to response , there is 7 token difference from actual calculation . 
+
+![[Pasted image 20230718110301.png]]
+
+
+first message prompt token = 339 , completion token = 10
+total token = 339+10 = 349
+
+second message ( How are you ?) total token = 4
+
+hence, 
+second message prompt token = 349+4 = 353
+
+but we can see, the prompt token is 360 with a difference of ( 360-353) = 7
+
+after observing the next messages , the same difference is found. 
+
+![[Pasted image 20230718110607.png]]
 
 
 

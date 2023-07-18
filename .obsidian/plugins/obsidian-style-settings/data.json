@@ -62,5 +62,7 @@
   "sanctum@@blockquote-border-color@@dark": "#8A3434",
   "sanctum@@blockquote-color@@dark": "#B0EDA7",
   "sanctum@@blockquote-marker": true,
-  "sanctum@@blockquote-border": true
+  "sanctum@@blockquote-border": true,
+  "sanctum@@code-background@@light": "#E45252",
+  "sanctum@@heading-outline": "heading-counter-1"
 }

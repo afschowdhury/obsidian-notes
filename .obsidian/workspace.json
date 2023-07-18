@@ -108,9 +108,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63ecdb3c255e2dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/Openai fourum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "761b7dcde2f0135a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/function calling to force a specific function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd17869126f2cd0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/efficient system message cycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -185,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/OpenAI pricing.md",
+                "file": "LLM/function calling to force a specific function.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/OpenAI pricing.md",
+                "file": "LLM/function calling to force a specific function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/OpenAI pricing.md",
+                "file": "LLM/function calling to force a specific function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/OpenAI pricing.md"
+                "file": "LLM/function calling to force a specific function.md"
               }
             }
           },
@@ -289,7 +325,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       },
       {
         "id": "c9199fac796b4e08",
@@ -301,7 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/OpenAI pricing.md",
+                "file": "LLM/function calling to force a specific function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -351,11 +387,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8691f61db4ca096f",
+  "active": "761b7dcde2f0135a",
   "lastOpenFiles": [
+    "LLM/Openai fourum.md",
+    "LLM/efficient system message cycle.md",
+    "Attachments/Pasted image 20230718113144.png",
+    "LLM/function calling to force a specific function.md",
+    "Attachments/Pasted image 20230718111732.png",
+    "LLM/OpenAI pricing.md",
+    "Attachments/Pasted image 20230718110607.png",
+    "Attachments/Pasted image 20230718110301.png",
     "Attachments/Pasted image 20230718104408.png",
     "Attachments/Pasted image 20230718103938.png",
-    "LLM/OpenAI pricing.md",
     "LLM/Basic Instructions For Better Prompting.md",
     "Attachments/PDF/linkedin-logo-png-2026.png",
     "Attachments/PDF/linkedin-logo-png-2026.png.crdownload",
@@ -364,7 +407,6 @@
     "Attachments/Pasted image 20230717111217.png",
     "LLM/zero shot chain of thought.md",
     "LLM/chain of thought prompting.md",
-    "Attachments/Pasted image 20230717104323.png",
     "LLM/openai instructions for better prompt.md",
     "mega.sh",
     "Attachments/PDF/Best practices for prompt engineering with OpenAI API _ OpenAI Help Center.pdf",
@@ -386,15 +428,8 @@
     "any.md",
     "obsidian-notes/LLM/LLMChain.md",
     "obsidian-notes/LLM/Memory in Langchain.md",
-    "obsidian-notes/LLM/Chains in Langchain.md",
-    "obsidian-notes/Custom Action.md",
-    "coding basic/Scripting Language.md",
     "Attachments/PDF/API Reference - OpenAI API.pdf",
-    "Attachments/Pasted image 20230706100442.png",
     "Attachments/PDF",
-    "Attachments/Pasted image 20230706095205.png",
-    "Attachments/Pasted image 20230706094822.png",
-    "Attachments/Pasted image 20230705171508.png",
     "mega-sync.sh",
     "Chainlit",
     "test.sh",
