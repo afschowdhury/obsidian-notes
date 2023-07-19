@@ -146,11 +146,15 @@
             }
           },
           {
-            "id": "c69524ff679c4c78",
+            "id": "b4f92b94e8750847",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/Intentless policies.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -229,6 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rasa/Intentless policies.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,6 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Rasa/Intentless policies.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,6 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rasa/Intentless policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +307,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rasa/Intentless policies.md"
+              }
             }
           },
           {
@@ -340,6 +349,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Rasa/Intentless policies.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -389,12 +399,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c69524ff679c4c78",
+  "active": "b4f92b94e8750847",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230719173502.png",
+    "Rasa/Intentless policies.md",
+    "LLM/efficient system message cycle.md",
     "LLM/OpenAI pricing.md",
     "LLM/Openai fourum.md",
     "LLM/function calling to force a specific function.md",
-    "LLM/efficient system message cycle.md",
     "Attachments/Pasted image 20230718113144.png",
     "Attachments/Pasted image 20230718111732.png",
     "Attachments/Pasted image 20230718110607.png",
@@ -429,7 +441,6 @@
     "Types of slots.md",
     "any.md",
     "obsidian-notes/LLM/LLMChain.md",
-    "obsidian-notes/LLM/Memory in Langchain.md",
     "Attachments/PDF/API Reference - OpenAI API.pdf",
     "Attachments/PDF",
     "mega-sync.sh",
