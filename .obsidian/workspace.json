@@ -144,9 +144,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c69524ff679c4c78",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -221,7 +229,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/OpenAI pricing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +245,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/OpenAI pricing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,7 +279,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/OpenAI pricing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,9 +300,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LLM/OpenAI pricing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -337,7 +340,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/OpenAI pricing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -387,14 +389,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c067cbd1ba00e0d",
+  "active": "c69524ff679c4c78",
   "lastOpenFiles": [
+    "LLM/OpenAI pricing.md",
     "LLM/Openai fourum.md",
     "LLM/function calling to force a specific function.md",
     "LLM/efficient system message cycle.md",
     "Attachments/Pasted image 20230718113144.png",
     "Attachments/Pasted image 20230718111732.png",
-    "LLM/OpenAI pricing.md",
     "Attachments/Pasted image 20230718110607.png",
     "Attachments/Pasted image 20230718110301.png",
     "Attachments/Pasted image 20230718104408.png",

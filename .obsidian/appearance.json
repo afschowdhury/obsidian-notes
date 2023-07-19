@@ -3,5 +3,6 @@
   "cssTheme": "Sanctum",
   "theme": "moonstone",
   "textFontFamily": "APL386 Unicode",
-  "baseFontSize": 21
+  "baseFontSize": 21,
+  "monospaceFontFamily": "Maple Mono"
 }
