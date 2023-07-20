@@ -156,9 +156,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31d02fe19dbf1ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/Fientuning vs Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -233,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/Intentless policies.md",
+                "file": "LLM/Fientuning vs Search.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/Intentless policies.md",
+                "file": "LLM/Fientuning vs Search.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/Intentless policies.md",
+                "file": "LLM/Fientuning vs Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/Intentless policies.md"
+                "file": "LLM/Fientuning vs Search.md"
               }
             }
           },
@@ -349,7 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/Intentless policies.md",
+                "file": "LLM/Fientuning vs Search.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -399,10 +411,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4f92b94e8750847",
+  "active": "31d02fe19dbf1ebd",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230719173502.png",
+    "Attachments/Pasted image 20230720114121.png",
+    "LLM/Fientuning vs Search.md",
     "Rasa/Intentless policies.md",
+    "Attachments/Pasted image 20230719173502.png",
     "LLM/efficient system message cycle.md",
     "LLM/OpenAI pricing.md",
     "LLM/Openai fourum.md",
@@ -418,7 +432,6 @@
     "Attachments/PDF/linkedin-logo-png-2026.png.crdownload",
     "Attachments/Pasted image 20230717111308.png",
     "Attachments/Pasted image 20230717111252.png",
-    "Attachments/Pasted image 20230717111217.png",
     "LLM/zero shot chain of thought.md",
     "LLM/chain of thought prompting.md",
     "LLM/openai instructions for better prompt.md",
@@ -440,7 +453,6 @@
     "LLM/few shot prompting.md",
     "Types of slots.md",
     "any.md",
-    "obsidian-notes/LLM/LLMChain.md",
     "Attachments/PDF/API Reference - OpenAI API.pdf",
     "Attachments/PDF",
     "mega-sync.sh",
