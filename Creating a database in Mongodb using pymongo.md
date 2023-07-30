@@ -91,3 +91,13 @@ we can see all the collections(tables in [[obsidian-notes/Database/SQL|SQL]]) un
 ![[Pasted image 20230730154123.png]]
 
 
+![[Pasted image 20230730155002.png]]
+
+
+> don't use hyphen (-) while defining collection name. use camel casing instead
+
+we can see all the objects by 
+![[Pasted image 20230730155657.png]]
+
+it is simillar to mongosh command
+
