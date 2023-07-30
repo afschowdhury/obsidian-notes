@@ -89,7 +89,34 @@ now, if we want to use `engaze-test` db, we need to run `use engaze-test` it wil
 ![[Pasted image 20230730154047.png]]
 we can see all the collections(tables in [[obsidian-notes/Database/SQL|SQL]]) under the db by running `show collections` command
 ![[Pasted image 20230730154123.png]]
-in order to create a database or a collection , we must insert one document into the collection using pymongo and by using mongosh or compas, we need to just create a collection. 
+in order to create a database or a collection , we must insert one document into the collection using pymongo and by using mongosh or compas, we need to just create a collection. there, inserting object is not necessary. 
+
+
+we can list the available database under a client or collections inside a database by 
+```python
+import pymongo
+
+from pprint import pprint
+
+  
+
+client = pymongo.MongoClient("mongodb://localhost:27017")
+
+  
+  
+
+db = client['engaze-test']
+
+collection = db['employees']
+
+print(f"Databases : {client.list_database_names()}")
+
+  
+
+print(f"Collections : {db.list_collection_names()}")
+```
+![[Pasted image 20230730164616.png]]
+
 
 ![[Pasted image 20230730155002.png]]
 
