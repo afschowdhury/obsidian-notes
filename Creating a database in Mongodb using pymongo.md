@@ -89,7 +89,7 @@ now, if we want to use `engaze-test` db, we need to run `use engaze-test` it wil
 ![[Pasted image 20230730154047.png]]
 we can see all the collections(tables in [[obsidian-notes/Database/SQL|SQL]]) under the db by running `show collections` command
 ![[Pasted image 20230730154123.png]]
-
+in order to create a database or a collection , we must insert one document into the collection using pymongo and by using mongosh or compas, we need to just create a collection. 
 
 ![[Pasted image 20230730155002.png]]
 
@@ -100,4 +100,45 @@ we can see all the objects by
 ![[Pasted image 20230730155657.png]]
 
 it is simillar to mongosh command
+
+if we want to search or filter by a specific name , in mongosh 
+![[Pasted image 20230730162353.png]]
+
+```python
+found= collection.find({"name":" Rajon"}, {"name":0,"_id":0})
+
+  
+
+for obj in found:
+
+print("printing---")
+
+pprint(obj)
+```
+![[Pasted image 20230730162438.png]]
+
+in the second dictionary, we can select what we want to see and what not. if a attribute is set to 0, it will not be visible and all the other attribute will be visible unlike `_id` . we have to set the visibility specifically. 
+
+on the other hand, if we set any parameter to 1, only that parameter will be displayed and all other will be 0
+
+```python
+found= collection.find({"role":"NLP Engineer"}, {"name":1,"_id":0})
+
+  
+
+for obj in found:
+
+print("printing---")
+
+pprint(obj)
+```
+![[Pasted image 20230730162815.png]]
+
+here , we are printing only the name
+
+![[Pasted image 20230730162940.png]]
+
+
+pymongo other methods can be found here 
+https://pymongo.readthedocs.io/en/stable/tutorial.html
 
