@@ -168,9 +168,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b896330dc1faee83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Creating a database in Mongodb using pymongo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -245,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PyMongo.md",
+                "file": "Creating a database in Mongodb using pymongo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +274,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PyMongo.md",
+                "file": "Creating a database in Mongodb using pymongo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +309,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PyMongo.md",
+                "file": "Creating a database in Mongodb using pymongo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +332,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PyMongo.md"
+                "file": "Creating a database in Mongodb using pymongo.md"
               }
             }
           },
@@ -361,7 +373,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PyMongo.md",
+                "file": "Creating a database in Mongodb using pymongo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -411,12 +423,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31d02fe19dbf1ebd",
+  "active": "b896330dc1faee83",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230730154123.png",
+    "Attachments/Pasted image 20230730154047.png",
+    "Attachments/Pasted image 20230730153944.png",
+    "Attachments/Pasted image 20230730153239.png",
+    "PyMongo.md",
+    "Creating a database in Mongodb using pymongo.md",
     "Attachments/Pasted image 20230730115823.png",
     "Attachments/Pasted image 20230730115722.png",
     "LLM/Fientuning vs Search.md",
-    "PyMongo.md",
     "Attachments/Pasted image 20230720114121.png",
     "Rasa/Intentless policies.md",
     "Attachments/Pasted image 20230719173502.png",
@@ -427,11 +444,7 @@
     "Attachments/Pasted image 20230718113144.png",
     "Attachments/Pasted image 20230718111732.png",
     "Attachments/Pasted image 20230718110607.png",
-    "Attachments/Pasted image 20230718110301.png",
-    "Attachments/Pasted image 20230718104408.png",
-    "Attachments/Pasted image 20230718103938.png",
     "LLM/Basic Instructions For Better Prompting.md",
-    "Attachments/PDF/linkedin-logo-png-2026.png",
     "Attachments/PDF/linkedin-logo-png-2026.png.crdownload",
     "LLM/zero shot chain of thought.md",
     "LLM/chain of thought prompting.md",
@@ -452,7 +465,6 @@
     "obsidian-notes/LLM/Prompt Template in Langchain.md",
     "obsidian-notes/Basic Instructions For Better Prompt.md",
     "LLM/few shot prompting.md",
-    "Types of slots.md",
     "Attachments/PDF/API Reference - OpenAI API.pdf",
     "Attachments/PDF",
     "mega-sync.sh",

@@ -21,3 +21,5 @@ Current Folder :
 
 ![[Pasted image 20230730115823.png]]
 
+
+[[Creating a database in Mongodb using pymongo]]
