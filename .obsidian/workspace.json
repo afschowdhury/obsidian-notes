@@ -163,7 +163,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Fientuning vs Search.md",
+                "file": "PyMongo.md",
                 "mode": "source",
                 "source": false
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/Fientuning vs Search.md",
+                "file": "PyMongo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/Fientuning vs Search.md",
+                "file": "PyMongo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -297,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/Fientuning vs Search.md",
+                "file": "PyMongo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,7 +320,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Fientuning vs Search.md"
+                "file": "PyMongo.md"
               }
             }
           },
@@ -361,7 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LLM/Fientuning vs Search.md",
+                "file": "PyMongo.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -413,8 +413,11 @@
   },
   "active": "31d02fe19dbf1ebd",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230720114121.png",
+    "Attachments/Pasted image 20230730115823.png",
+    "Attachments/Pasted image 20230730115722.png",
     "LLM/Fientuning vs Search.md",
+    "PyMongo.md",
+    "Attachments/Pasted image 20230720114121.png",
     "Rasa/Intentless policies.md",
     "Attachments/Pasted image 20230719173502.png",
     "LLM/efficient system message cycle.md",
@@ -430,8 +433,6 @@
     "LLM/Basic Instructions For Better Prompting.md",
     "Attachments/PDF/linkedin-logo-png-2026.png",
     "Attachments/PDF/linkedin-logo-png-2026.png.crdownload",
-    "Attachments/Pasted image 20230717111308.png",
-    "Attachments/Pasted image 20230717111252.png",
     "LLM/zero shot chain of thought.md",
     "LLM/chain of thought prompting.md",
     "LLM/openai instructions for better prompt.md",
@@ -452,7 +453,6 @@
     "obsidian-notes/Basic Instructions For Better Prompt.md",
     "LLM/few shot prompting.md",
     "Types of slots.md",
-    "any.md",
     "Attachments/PDF/API Reference - OpenAI API.pdf",
     "Attachments/PDF",
     "mega-sync.sh",
