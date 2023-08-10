@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "influence_conversation.md",
+                "file": "custom slot mapping.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#rasa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 311.5
   },
   "right": {
     "id": "30a6f45e97eb79e9",
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "influence_conversation.md",
+                "file": "custom slot mapping.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "influence_conversation.md",
+                "file": "custom slot mapping.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "influence_conversation.md",
+                "file": "custom slot mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "influence_conversation.md"
+                "file": "custom slot mapping.md"
               }
             }
           },
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "influence_conversation.md",
+                "file": "custom slot mapping.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -283,6 +283,8 @@
   },
   "active": "9c8bed0198297697",
   "lastOpenFiles": [
+    "any.md",
+    "influence_conversation.md",
     "text.md",
     "Types of slots.md",
     "obsidian-notes/slots.md",
@@ -317,8 +319,6 @@
     "Rasa/Intentless policies.md",
     "LLM/efficient system message cycle.md",
     "LLM/OpenAI pricing.md",
-    "LLM/Openai fourum.md",
-    "LLM/function calling to force a specific function.md",
     "Attachments/PDF/linkedin-logo-png-2026.png.crdownload",
     "mega.sh",
     "Attachments/PDF/Best practices for prompt engineering with OpenAI API _ OpenAI Help Center.pdf",
