@@ -8,287 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "745ab6c0a241ed09",
+            "id": "f18f5abb095399c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/Basic Instructions For Better Prompting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbc2f6666b6a6f07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/zero shot chain of thought.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71b6e2abcd736e74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/chain of thought prompting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88cd729792d125ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/openai instructions for better prompt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f3db54572e7777f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Attachments/PDF/Best practices for prompt engineering with OpenAI API _ OpenAI Help Center.pdf"
-              }
-            }
-          },
-          {
-            "id": "01837ca2bbcc95e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/specify  the steps to complete a task.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64b8830e8f80142e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "any.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58a9218be61d785e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "5c067cbd1ba00e0d",
+            "id": "9c8bed0198297697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/OpenAI pricing.md",
+                "file": "influence_conversation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "63ecdb3c255e2dce",
+            "id": "110c30f00143a8b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Openai fourum.md",
+                "file": "Rasa/slots mapping.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "761b7dcde2f0135a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/function calling to force a specific function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd17869126f2cd0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/efficient system message cycle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4f92b94e8750847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/Intentless policies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31d02fe19dbf1ebd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PyMongo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b896330dc1faee83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creating a database in Mongodb using pymongo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdfdc368b1269bcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-notes/Rasa/entities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "633beba83d0f9e1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preparing training data for entities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "546a2f05b8ed2250",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "output processing features after entity extraction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bff7a93991fbc997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lookup table.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ceccb4c6b056e855",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/Training Data Insights.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0001c5ad66bff208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preparing training data for entities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d84a1bb2ddd54aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Using Pre-Built Transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "223df4b358d9acd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-notes/domain.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1905a73b5249bb26",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/engaze-bot-schema.md"
               }
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -363,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/Training Data Insights.md",
+                "file": "influence_conversation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/Training Data Insights.md",
+                "file": "influence_conversation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -415,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/Training Data Insights.md",
+                "file": "influence_conversation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -438,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/Training Data Insights.md"
+                "file": "influence_conversation.md"
               }
             }
           },
@@ -479,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/Training Data Insights.md",
+                "file": "influence_conversation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -529,31 +281,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ceccb4c6b056e855",
+  "active": "9c8bed0198297697",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230810141153.png",
-    "Using Pre-Built Transformers.md",
+    "text.md",
+    "Types of slots.md",
+    "obsidian-notes/slots.md",
+    "Setting Slots in Rasa.md",
+    "Custom Action.md",
+    "Rasa/Using NLU.md",
+    "Rasa/slots mapping.md",
     "Excalidraw/engaze-bot-schema.md",
+    "obsidian-notes/domain.md",
+    "Using Pre-Built Transformers.md",
+    "Preparing training data for entities.md",
+    "Rasa/Training Data Insights.md",
+    "lookup table.md",
+    "output processing features after entity extraction.md",
+    "obsidian-notes/Rasa/entities.md",
+    "Creating a database in Mongodb using pymongo.md",
+    "Attachments/Pasted image 20230810141153.png",
     "Database/SQL.md",
     "Attachments/Pasted image 20221110122101.png",
-    "Rasa/Training Data Insights.md",
     "Attachments/Pasted image 20230810123737.png",
     "Attachments/Pasted image 20230810123637.png",
     "Attachments/Pasted image 20230810123441.png",
     "obsidian-notes/Rasa/synonyms.md",
-    "lookup table.md",
-    "output processing features after entity extraction.md",
-    "Preparing training data for entities.md",
-    "obsidian-notes/Rasa/entities.md",
     "Attachments/Pasted Image 20230731153209_292.png",
     "Attachments/Pasted Image 20230731153153_258.png",
-    "obsidian-notes/domain.md",
     "obsidian-notes/Rasa/NLU.md",
-    "Creating a database in Mongodb using pymongo.md",
     "Attachments/Pasted image 20230730164616.png",
     "Attachments/Pasted image 20230730162940.png",
     "Attachments/Pasted image 20230730162815.png",
-    "Attachments/Pasted image 20230730162438.png",
     "PyMongo.md",
     "LLM/Fientuning vs Search.md",
     "Rasa/Intentless policies.md",
@@ -561,16 +319,10 @@
     "LLM/OpenAI pricing.md",
     "LLM/Openai fourum.md",
     "LLM/function calling to force a specific function.md",
-    "LLM/Basic Instructions For Better Prompting.md",
     "Attachments/PDF/linkedin-logo-png-2026.png.crdownload",
-    "LLM/zero shot chain of thought.md",
-    "LLM/chain of thought prompting.md",
-    "LLM/openai instructions for better prompt.md",
     "mega.sh",
     "Attachments/PDF/Best practices for prompt engineering with OpenAI API _ OpenAI Help Center.pdf",
-    "LLM/iterative development of the prompt.md",
     "Attachments/PDF/Unconfirmed 587111.crdownload",
-    "LLM/specify  the steps to complete a task.md",
     "Attachments/PDF/API Reference - OpenAI API.pdf",
     "Attachments/PDF",
     "mega-sync.sh",

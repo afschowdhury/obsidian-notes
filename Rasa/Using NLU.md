@@ -1,4 +1,20 @@
-#rasa 
+---
+type: Coding  
+tags: rasa , headless, nlp
+category: work
+for_inteview: True
+creation_date: 2023-07-04 10:15
+modification_date: 2023-08-10 15:17
+---
+
+  
+Current Folder : Rasa
+
+
+
+
+[[10-08-2023]]
+
 
 ## By using NLU, we can connect a slot to a [[entities]] . 
 

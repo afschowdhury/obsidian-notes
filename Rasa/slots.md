@@ -24,7 +24,7 @@ it is similar to the `fstring` to python.
 
 ![[Pasted image 20230403135510.png]]
 
-Slots are defined in the [[domain]] file . first we define the slots name, then type of the slot and other [[configurations in slots]].  and [[slots mapping]] 
+Slots are defined in the [[domain]] file . first we define the slots name, then type of the slot and other [[configurations in slots]].  and [[Rasa/slots mapping]] 
 
 ![[Pasted image 20230404111641.png]]
 

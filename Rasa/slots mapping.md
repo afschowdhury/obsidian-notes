@@ -1,8 +1,25 @@
-#rasa 
+---
+type: Coding  
+tags: rasa , headless, nlp
+category: work
+for_inteview: True
+creation_date: 2023-07-04 10:16
+modification_date: 2023-08-10 15:14
+---
+
+  
+Current Folder : Rasa
+
+
+
+
+[[10-08-2023]]
+
+
 
 slots mapping are the way to map the values to a particular [[Rasa/slots]].
 ![[Pasted image 20230404113019.png]]
-here, we can see, [[slots mapping]] has first field [[type of slots mapping]] it describes how the slots will be fill in . [[Rasa/from_entity]]  is self explainatory, meaning , the value will be filled by the values of the entity. so , we need to specify the entity name in the `name` field. 
+here, we can see, [[Rasa/slots mapping]] has first field [[type of slots mapping]] it describes how the slots will be fill in . [[Rasa/from_entity]]  is self explainatory, meaning , the value will be filled by the values of the entity. so , we need to specify the entity name in the `name` field. 
 
 we have two more configurations, 
 1. `intent`

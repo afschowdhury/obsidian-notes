@@ -12,7 +12,7 @@ we need to add it in [[domain]] file as the slots are defined in it.
 
 ![[Pasted image 20230404121054.png]]
 
-here the [[Rasa/slots]] is of type [[any]]  and we have specified their [[slots mapping]] [[Rasa/from_entity]]
+here the [[Rasa/slots]] is of type [[any]]  and we have specified their [[Rasa/slots mapping]] [[Rasa/from_entity]]
 
 
 now we need to add some  examples in [[Preparing training data for entities]] for the model to learn the name pattern 
