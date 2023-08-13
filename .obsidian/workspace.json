@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32746c86e3166f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/Training Data Insights.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "custom slot mapping.md",
+                "file": "Rasa/Training Data Insights.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "custom slot mapping.md",
+                "file": "Rasa/Training Data Insights.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "custom slot mapping.md",
+                "file": "Rasa/Training Data Insights.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "custom slot mapping.md"
+                "file": "Rasa/Training Data Insights.md"
               }
             }
           },
@@ -231,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "custom slot mapping.md",
+                "file": "Rasa/Training Data Insights.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -281,8 +293,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c8bed0198297697",
+  "active": "32746c86e3166f57",
   "lastOpenFiles": [
+    "Rasa/slots mapping.md",
+    "custom slot mapping.md",
     "any.md",
     "influence_conversation.md",
     "text.md",
@@ -291,7 +305,6 @@
     "Setting Slots in Rasa.md",
     "Custom Action.md",
     "Rasa/Using NLU.md",
-    "Rasa/slots mapping.md",
     "Excalidraw/engaze-bot-schema.md",
     "obsidian-notes/domain.md",
     "Using Pre-Built Transformers.md",
@@ -318,7 +331,6 @@
     "LLM/Fientuning vs Search.md",
     "Rasa/Intentless policies.md",
     "LLM/efficient system message cycle.md",
-    "LLM/OpenAI pricing.md",
     "Attachments/PDF/linkedin-logo-png-2026.png.crdownload",
     "mega.sh",
     "Attachments/PDF/Best practices for prompt engineering with OpenAI API _ OpenAI Help Center.pdf",

@@ -88,5 +88,5 @@ examples: |
 ekhane `branch_location` extract korar jonne training data dea hoy nai , still , jodi query kora hoy , answer daye . 
 ![[Pasted image 20230810141153.png]]
 
-
+- synonyms er khetre obossoi seita j kono ekta training data te thakte hobe. jemon , synonyms a `banasree` er synonyms aache `bonosree` . but, ei bonosree diye kono traning data nai nlu te. tahole seita extract korte parbe na. 
 
