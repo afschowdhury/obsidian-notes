@@ -90,3 +90,4 @@ ekhane `branch_location` extract korar jonne training data dea hoy nai , still ,
 
 - synonyms er khetre obossoi seita j kono ekta training data te thakte hobe. jemon , synonyms a `banasree` er synonyms aache `bonosree` . but, ei bonosree diye kono traning data nai nlu te. tahole seita extract korte parbe na. 
 
+fasdfasd
