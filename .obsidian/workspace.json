@@ -45,14 +45,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rasa/Training Data Insights.md",
+                "file": "Crontab example.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9abf84a906aedfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-notes/Rasa/entity roles and groups.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/Training Data Insights.md",
+                "file": "obsidian-notes/Rasa/entity roles and groups.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/Training Data Insights.md",
+                "file": "obsidian-notes/Rasa/entity roles and groups.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/Training Data Insights.md",
+                "file": "obsidian-notes/Rasa/entity roles and groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/Training Data Insights.md"
+                "file": "obsidian-notes/Rasa/entity roles and groups.md"
               }
             }
           },
@@ -243,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/Training Data Insights.md",
+                "file": "obsidian-notes/Rasa/entity roles and groups.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -293,8 +305,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32746c86e3166f57",
+  "active": "e9abf84a906aedfc",
   "lastOpenFiles": [
+    "Crontab example.md",
+    "Rasa/Training Data Insights.md",
     "Rasa/slots mapping.md",
     "custom slot mapping.md",
     "any.md",
@@ -309,7 +323,6 @@
     "obsidian-notes/domain.md",
     "Using Pre-Built Transformers.md",
     "Preparing training data for entities.md",
-    "Rasa/Training Data Insights.md",
     "lookup table.md",
     "output processing features after entity extraction.md",
     "obsidian-notes/Rasa/entities.md",
@@ -330,7 +343,6 @@
     "PyMongo.md",
     "LLM/Fientuning vs Search.md",
     "Rasa/Intentless policies.md",
-    "LLM/efficient system message cycle.md",
     "Attachments/PDF/linkedin-logo-png-2026.png.crdownload",
     "mega.sh",
     "Attachments/PDF/Best practices for prompt engineering with OpenAI API _ OpenAI Help Center.pdf",
