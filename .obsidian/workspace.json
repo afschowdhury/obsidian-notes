@@ -62,9 +62,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1298f4645f118188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/sitting_policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7893d03c3d4e7823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/buffet_policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -123,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "30a6f45e97eb79e9",
@@ -139,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Add to train.md",
+                "file": "Rasa/buffet_policy.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Add to train.md",
+                "file": "Rasa/buffet_policy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Add to train.md",
+                "file": "Rasa/buffet_policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Add to train.md"
+                "file": "Rasa/buffet_policy.md"
               }
             }
           },
@@ -254,7 +279,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Add to train.md",
+                "file": "Rasa/buffet_policy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -287,7 +312,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 366.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,10 +330,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "404cea0c96dc994c",
+  "active": "7893d03c3d4e7823",
   "lastOpenFiles": [
-    "obsidian-notes/Rasa/entity roles and groups.md",
+    "Rasa/sitting_policy.md",
+    "Rasa/buffet_policy.md",
     "Add to train.md",
+    "Rasa/Untitled 11.md",
+    "obsidian-notes/Rasa/entity roles and groups.md",
     "Crontab example.md",
     "Rasa/Training Data Insights.md",
     "Rasa/slots mapping.md",
@@ -334,14 +363,11 @@
     "Attachments/Pasted image 20230810123737.png",
     "Attachments/Pasted image 20230810123637.png",
     "Attachments/Pasted image 20230810123441.png",
-    "obsidian-notes/Rasa/synonyms.md",
     "Attachments/Pasted Image 20230731153209_292.png",
     "Attachments/Pasted Image 20230731153153_258.png",
-    "obsidian-notes/Rasa/NLU.md",
     "Attachments/Pasted image 20230730164616.png",
     "Attachments/Pasted image 20230730162940.png",
     "Attachments/Pasted image 20230730162815.png",
-    "PyMongo.md",
     "Attachments/PDF/linkedin-logo-png-2026.png.crdownload",
     "mega.sh",
     "Attachments/PDF/Best practices for prompt engineering with OpenAI API _ OpenAI Help Center.pdf",

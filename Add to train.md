@@ -15,7 +15,8 @@ Current Folder :
 [[17-08-2023]]
 
 
+[[sitting_policy]]
+[[buffet_policy]]
 
-add a new intent as sitting_arrangement <font color="#1f497d">( koto manush eksathe boshe khaite parbe, bose khaoa jabe kina )</font>
 
 
