@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-notes/Rasa/entity roles and groups.md",
+                "file": "Add to train.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-notes/Rasa/entity roles and groups.md",
+                "file": "Add to train.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/Rasa/entity roles and groups.md",
+                "file": "Add to train.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-notes/Rasa/entity roles and groups.md",
+                "file": "Add to train.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-notes/Rasa/entity roles and groups.md"
+                "file": "Add to train.md"
               }
             }
           },
@@ -242,8 +242,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "c9199fac796b4e08",
@@ -255,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "obsidian-notes/Rasa/entity roles and groups.md",
+                "file": "Add to train.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -305,8 +304,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e9abf84a906aedfc",
+  "active": "404cea0c96dc994c",
   "lastOpenFiles": [
+    "obsidian-notes/Rasa/entity roles and groups.md",
+    "Add to train.md",
     "Crontab example.md",
     "Rasa/Training Data Insights.md",
     "Rasa/slots mapping.md",
@@ -341,8 +342,6 @@
     "Attachments/Pasted image 20230730162940.png",
     "Attachments/Pasted image 20230730162815.png",
     "PyMongo.md",
-    "LLM/Fientuning vs Search.md",
-    "Rasa/Intentless policies.md",
     "Attachments/PDF/linkedin-logo-png-2026.png.crdownload",
     "mega.sh",
     "Attachments/PDF/Best practices for prompt engineering with OpenAI API _ OpenAI Help Center.pdf",
