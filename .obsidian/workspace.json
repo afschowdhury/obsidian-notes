@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/buffet_policy.md",
+                "file": "Add to train.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/buffet_policy.md",
+                "file": "Add to train.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/buffet_policy.md",
+                "file": "Add to train.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/buffet_policy.md"
+                "file": "Add to train.md"
               }
             }
           },
@@ -279,7 +279,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/buffet_policy.md",
+                "file": "Add to train.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -330,10 +330,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7893d03c3d4e7823",
+  "active": "e9abf84a906aedfc",
   "lastOpenFiles": [
-    "Rasa/sitting_policy.md",
     "Rasa/buffet_policy.md",
+    "Rasa/sitting_policy.md",
     "Add to train.md",
     "Rasa/Untitled 11.md",
     "obsidian-notes/Rasa/entity roles and groups.md",
