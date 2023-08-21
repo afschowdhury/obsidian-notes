@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "04c6637f7d0b36f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "text.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "110c30f00143a8b8",
             "type": "leaf",
             "state": {
@@ -46,6 +58,18 @@
               "type": "markdown",
               "state": {
                 "file": "Crontab example.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f07c7e6d11c95203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/Using NLU.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Training Summary.md",
+                "file": "text.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Training Summary.md",
+                "file": "text.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Training Summary.md",
+                "file": "text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Training Summary.md"
+                "file": "text.md"
               }
             }
           },
@@ -279,7 +303,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Training Summary.md",
+                "file": "text.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -330,27 +354,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e9abf84a906aedfc",
+  "active": "04c6637f7d0b36f2",
   "lastOpenFiles": [
-    "Rasa/sitting_policy.md",
+    "Types of slots.md",
+    "obsidian-notes/slots.md",
+    "custom slot mapping.md",
+    "Rasa/slots mapping.md",
     "Training Summary.md",
+    "Rasa/Using NLU.md",
+    "Setting Slots in Rasa.md",
+    "Crontab example.md",
+    "Rasa/sitting_policy.md",
     "Add to train.md",
     "Untitled 11.md",
     "Rasa/buffet_policy.md",
     "Rasa/Untitled 11.md",
     "obsidian-notes/Rasa/entity roles and groups.md",
-    "Crontab example.md",
     "Rasa/Training Data Insights.md",
-    "Rasa/slots mapping.md",
-    "custom slot mapping.md",
     "any.md",
     "influence_conversation.md",
     "text.md",
-    "Types of slots.md",
-    "obsidian-notes/slots.md",
-    "Setting Slots in Rasa.md",
     "Custom Action.md",
-    "Rasa/Using NLU.md",
     "Excalidraw/engaze-bot-schema.md",
     "obsidian-notes/domain.md",
     "Using Pre-Built Transformers.md",
