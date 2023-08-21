@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Add to train.md",
+                "file": "Training Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Add to train.md",
+                "file": "Training Summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Add to train.md",
+                "file": "Training Summary.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Add to train.md",
+                "file": "Training Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Add to train.md"
+                "file": "Training Summary.md"
               }
             }
           },
@@ -279,7 +279,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Add to train.md",
+                "file": "Training Summary.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -332,9 +332,11 @@
   },
   "active": "e9abf84a906aedfc",
   "lastOpenFiles": [
-    "Rasa/buffet_policy.md",
     "Rasa/sitting_policy.md",
+    "Training Summary.md",
     "Add to train.md",
+    "Untitled 11.md",
+    "Rasa/buffet_policy.md",
     "Rasa/Untitled 11.md",
     "obsidian-notes/Rasa/entity roles and groups.md",
     "Crontab example.md",
@@ -356,9 +358,7 @@
     "lookup table.md",
     "output processing features after entity extraction.md",
     "obsidian-notes/Rasa/entities.md",
-    "Creating a database in Mongodb using pymongo.md",
     "Attachments/Pasted image 20230810141153.png",
-    "Database/SQL.md",
     "Attachments/Pasted image 20221110122101.png",
     "Attachments/Pasted image 20230810123737.png",
     "Attachments/Pasted image 20230810123637.png",
