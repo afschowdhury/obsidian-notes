@@ -1,6 +1,6 @@
 ---
 type: 
-tags: rasa, training, headless, nlp
+tags: rasa, training, headless, nlp , engaze
 category: work
 for_inteview: 
 creation_date: 2023-08-21 10:16

@@ -28,67 +28,37 @@
             }
           },
           {
-            "id": "9c8bed0198297697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "custom slot mapping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04c6637f7d0b36f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "text.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "110c30f00143a8b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/slots mapping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32746c86e3166f57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Crontab example.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f07c7e6d11c95203",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/Using NLU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e9abf84a906aedfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engaze Server Current Flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e2d883a26924105",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/engaze-flow.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "73906c20e6feb4eb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bde611299a9803a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,33 +68,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1298f4645f118188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/sitting_policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7893d03c3d4e7823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/buffet_policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rasa",
+                "query": "tag:#engaze",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creating a database in Mongodb using pymongo.md",
+                "file": "Excalidraw/engaze-flow.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Creating a database in Mongodb using pymongo.md",
+                "file": "Excalidraw/engaze-flow.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creating a database in Mongodb using pymongo.md",
+                "file": "Excalidraw/engaze-flow.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +210,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -275,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creating a database in Mongodb using pymongo.md"
+                "file": "Excalidraw/engaze-flow.excalidraw.md"
               }
             }
           },
@@ -303,7 +249,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c9199fac796b4e08",
@@ -315,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Creating a database in Mongodb using pymongo.md",
+                "file": "Excalidraw/engaze-flow.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -338,7 +285,7 @@
                   "repelStrength": 2.5,
                   "linkStrength": 0.442708333333333,
                   "linkDistance": 270,
-                  "scale": 0.4444444444444434,
+                  "scale": 0.6666666666666652,
                   "close": true
                 }
               }
@@ -366,19 +313,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15ce4c8b9d735224",
+  "active": "0e2d883a26924105",
   "lastOpenFiles": [
-    "PyMongo.md",
+    "Attachments/Pasted Image 20230903105505_814.png",
+    "Attachments/Pasted Image 20230903104207_715.png",
+    "Attachments/Pasted Image 20230903103948_661.png",
+    "Engaze Server Current Flow.md",
+    "Excalidraw/engaze-flow.excalidraw.md",
+    "Training Summary.md",
+    "Creating a database in Mongodb using pymongo.md",
+    "Rasa/Using NLU.md",
     "custom slot mapping.md",
     "text.md",
+    "Rasa/slots mapping.md",
+    "Rasa/sitting_policy.md",
+    "PyMongo.md",
     "Types of slots.md",
     "obsidian-notes/slots.md",
-    "Rasa/slots mapping.md",
-    "Training Summary.md",
-    "Rasa/Using NLU.md",
     "Setting Slots in Rasa.md",
     "Crontab example.md",
-    "Rasa/sitting_policy.md",
     "Add to train.md",
     "Untitled 11.md",
     "Rasa/buffet_policy.md",
@@ -390,10 +343,6 @@
     "Custom Action.md",
     "Excalidraw/engaze-bot-schema.md",
     "obsidian-notes/domain.md",
-    "Using Pre-Built Transformers.md",
-    "Preparing training data for entities.md",
-    "lookup table.md",
-    "output processing features after entity extraction.md",
     "Attachments/Pasted image 20230810141153.png",
     "Attachments/Pasted image 20221110122101.png",
     "Attachments/Pasted image 20230810123737.png",
@@ -402,8 +351,6 @@
     "Attachments/Pasted Image 20230731153209_292.png",
     "Attachments/Pasted Image 20230731153153_258.png",
     "Attachments/Pasted image 20230730164616.png",
-    "Attachments/Pasted image 20230730162940.png",
-    "Attachments/Pasted image 20230730162815.png",
     "Attachments/PDF/linkedin-logo-png-2026.png.crdownload",
     "mega.sh",
     "Attachments/PDF/Best practices for prompt engineering with OpenAI API _ OpenAI Help Center.pdf",
