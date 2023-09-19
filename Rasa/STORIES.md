@@ -1,4 +1,26 @@
-#rasa #headless #nlp 
+
+---
+type: Coding  
+tags: rasa , headless, nlp
+category: work
+for_inteview: True
+creation_date: 2023-08-14 12:55
+modification_date: 2023-08-14 12:55
+---
+---
+type: Coding  
+tags: rasa , headless, nlp
+category: work
+for_inteview: True
+creation_date: 2023-08-14 12:55
+modification_date: 2023-09-19 17:57
+---
+
+
+  
+
+
+[[19-09-2023]]
 
 
 ### Stories are the training data for the chat bot to teach it what it should do next

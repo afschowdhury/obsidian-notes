@@ -21,7 +21,7 @@ The best training data for a rasa chat-bot is to have humans interacting with th
 
 While training , we must , know, how the data are used. 
 
-> How should the conversation go -> kept in the [[STORIES]] or [[RULES]] 
+> How should the conversation go -> kept in the [[Rasa/STORIES]] or [[RULES]] 
 How should the user say things -> kept in the [[intents]]
 
 

@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f18f5abb095399c4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "15ce4c8b9d735224",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating a database in Mongodb using pymongo.md",
+                "file": "Rasa/Test properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,9 +45,11 @@
             "id": "3ca0045067ecbf7b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "coding basic/Argument vs Parameter.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -63,8 +57,12 @@
             "id": "73906c20e6feb4eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rasa/STORIES.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -79,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,13 +131,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "right": {
     "id": "30a6f45e97eb79e9",
@@ -156,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/engaze-flow.excalidraw.md",
+                "file": "Rasa/Test properties.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/engaze-flow.excalidraw.md",
+                "file": "Rasa/Test properties.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/engaze-flow.excalidraw.md",
+                "file": "Rasa/Test properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/engaze-flow.excalidraw.md"
+                "file": "Rasa/Test properties.md"
               }
             }
           },
@@ -272,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/engaze-flow.excalidraw.md",
+                "file": "Rasa/Test properties.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -323,15 +318,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ca0045067ecbf7b",
+  "active": "15ce4c8b9d735224",
   "lastOpenFiles": [
+    "Rasa/Training Data Insights.md",
+    "Rasa/Test properties.md",
+    "Creating a database in Mongodb using pymongo.md",
+    "Engaze Server Current Flow.md",
+    "Excalidraw/engaze-flow.excalidraw.md",
+    "Rasa/STORIES.md",
+    "coding basic/Argument vs Parameter.md",
     "Attachments/Pasted Image 20230903105505_814.png",
     "Attachments/Pasted Image 20230903104207_715.png",
     "Attachments/Pasted Image 20230903103948_661.png",
-    "Engaze Server Current Flow.md",
-    "Excalidraw/engaze-flow.excalidraw.md",
     "Training Summary.md",
-    "Creating a database in Mongodb using pymongo.md",
     "Rasa/Using NLU.md",
     "custom slot mapping.md",
     "text.md",
@@ -347,12 +346,9 @@
     "Rasa/buffet_policy.md",
     "Rasa/Untitled 11.md",
     "obsidian-notes/Rasa/entity roles and groups.md",
-    "Rasa/Training Data Insights.md",
     "any.md",
     "influence_conversation.md",
     "Custom Action.md",
-    "Excalidraw/engaze-bot-schema.md",
-    "obsidian-notes/domain.md",
     "Attachments/Pasted image 20230810141153.png",
     "Attachments/Pasted image 20221110122101.png",
     "Attachments/Pasted image 20230810123737.png",
@@ -360,7 +356,6 @@
     "Attachments/Pasted image 20230810123441.png",
     "Attachments/Pasted Image 20230731153209_292.png",
     "Attachments/Pasted Image 20230731153153_258.png",
-    "Attachments/Pasted image 20230730164616.png",
     "Attachments/PDF/linkedin-logo-png-2026.png.crdownload",
     "mega.sh",
     "Attachments/PDF/Best practices for prompt engineering with OpenAI API _ OpenAI Help Center.pdf",

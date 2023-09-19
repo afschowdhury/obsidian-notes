@@ -27,4 +27,4 @@ we need to provide sufficient amount of data variations for our model to efficie
 Also , entity roles can be used to change the flow of conversation .
 ![[Pasted image 20230402181318.png]]
 
-we just need to add the flow into the [[STORIES]] file, and there , we can access the entities role and make the action accordingly. 
+we just need to add the flow into the [[Rasa/STORIES]] file, and there , we can access the entities role and make the action accordingly. 

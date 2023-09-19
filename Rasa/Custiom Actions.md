@@ -16,7 +16,7 @@ Current Folder : Rasa
 [[30-04-2023]]
 
 
-Action is performed when a specific intent is occurred. If we take a look on [[RULES]] or in [[STORIES]] we will see , there is a [[intents]] and action type of flow exists.
+Action is performed when a specific intent is occurred. If we take a look on [[RULES]] or in [[Rasa/STORIES]] we will see , there is a [[intents]] and action type of flow exists.
 
 Custom action lets us write python code to define an action regarding a specific intent. 
 

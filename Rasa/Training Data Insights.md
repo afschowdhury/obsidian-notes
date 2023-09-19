@@ -1,8 +1,11 @@
 ---
-type: Coding  
-tags: rasa , headless, nlp
+type: Coding
+tags:
+  - rasa
+  - headless
+  - nlp
 category: work
-for_inteview: True
+for_inteview: "true"
 creation_date: 2023-08-10 12:32
 modification_date: 2023-08-10 12:32
 ---
