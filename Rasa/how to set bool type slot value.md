@@ -45,5 +45,101 @@ examples: |
 - any offer in [badda](branch_location) branch?
 ```
 
-then , we need to crate a custom action for mapping these string value to boolean and define the c
+then , we need to crate a custom action for mapping these string value to boolean and define the custom mapping in the [[obsidian-notes/domain|domain]] file 
+```yml
+couple_tag:
+
+	type: bool
+	
+	influence_conversation: true
+	
+	mappings:
+	
+	- type: custom
+	
+	action: action_set_couple
+```
+
+
+and the custom action is : 
+```python 
+from rasa_sdk import Action, Tracker
+
+from rasa_sdk.events import SlotSet
+
+from typing import Any, Text, Dict, List
+
+from rasa_sdk import Action, Tracker
+
+from rasa_sdk.executor import CollectingDispatcher
+
+  
+  
+
+class ActionSetCouple(Action):
+
+def name(self) -> Text:
+
+return "action_set_couple"
+
+  
+
+def run(
+
+self,
+
+dispatcher: CollectingDispatcher,
+
+tracker: Tracker,
+
+domain: Dict[Text, Any],
+
+) -> List[Dict[Text, Any]]:
+
+# Entity:[{'entity': 'couple_tag', 'start': 0, 'end': 6, 'confidence_entity': 0.9793958067893982, 'value': '1
+
+entities = tracker.latest_message["entities"]
+
+for entity in entities:
+
+if entity.get("entity") == "couple_tag":
+
+if entity.get("value") == "1":
+
+couple_slot = True
+
+elif entity.get("value") == "0":
+
+couple_slot = False
+
+else:
+
+couple_slot = None
+
+print(entities)
+
+print(f"slots value {couple_slot}")
+
+# couple = tracker.get_slot("couple_tag")
+
+# print(f"Type {type(couple)}")
+
+# print(f"value {couple}")
+
+# if couple == "1":
+
+# couple_slot = True
+
+# elif couple == "0":
+
+# couple_slot = False
+
+# else:
+
+# couple_slot = None
+
+  
+
+return [SlotSet("couple_tag", couple_slot)]
+```
 
