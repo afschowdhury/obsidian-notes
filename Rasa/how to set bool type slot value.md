@@ -30,12 +30,20 @@ nlu:
 
 examples: |
 
+- any offer on [beef burger](generic_food_item) ?
 
-- [eid](long_vacation) e apnara [gulshan](branch_location) ar [uttara](branch_location) branch e [couples]{"entity":"couple_tag" , "value":"true"} discount diyechen kono ?
+- [couple]{"entity":"couple_tag","value":1} hisebe asle koto percent char ?
 
-- [dhanmondi](branch_location) or [mohammadpur](branch_location) e [student]{"entity":"student_tag","value":"true"} der kono discount ache ?
+- any [buffet](generic_food_item) offer inn [dhanmondi](branch_location) ?
 
-- [couple]{"entity":"couple_tag","value":"true"}m hisebe asle koto percent char ?
+- [eid](long_vacation) e apnara [gulshan](branch_location) ar [uttara](branch_location) branch e [couples]{"entity":"couple_tag" , "value":1} discount diyechen kono ?
+
+- [dhanmondi](branch_location) or [mohammadpur](branch_location) e [couple]{"entity":"couple_tag","value":1} der kono discount ache ?
+
+- [gulshan](branch_location) or [banani](branch_location) branch e [bkash](mobile_wallet_type) offer choltese ?
+
+- any offer in [badda](branch_location) branch?
 ```
 
-then , we need to crate a custom action for mapping these string value to boolean. 
+then , we need to crate a custom action for mapping these string value to boolean and define the c
+
