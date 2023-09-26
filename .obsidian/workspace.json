@@ -44,65 +44,31 @@
             }
           },
           {
-            "id": "e9abf84a906aedfc",
+            "id": "cc4943cabeedff2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engaze Server Current Flow.md",
+                "file": "Rasa/synonyms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0e2d883a26924105",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/engaze-flow.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3ca0045067ecbf7b",
+            "id": "1cc80b714a0fd918",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding basic/Argument vs Parameter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73906c20e6feb4eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rasa/STORIES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bde611299a9803a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training Summary.md",
+                "file": "Rasa/slots mapping.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "boolean.md",
+                "file": "Rasa/synonyms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +159,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "boolean.md",
+                "file": "Rasa/synonyms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "boolean.md",
+                "file": "Rasa/synonyms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "boolean.md"
+                "file": "Rasa/synonyms.md"
               }
             }
           },
@@ -290,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "c9199fac796b4e08",
@@ -302,7 +268,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "boolean.md",
+                "file": "Rasa/synonyms.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -335,8 +301,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 440.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -353,12 +318,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a73b8c8a84c7bfef",
+  "active": "cc4943cabeedff2a",
   "lastOpenFiles": [
+    "output processing features after entity extraction.md",
+    "Preparing training data for entities.md",
+    "Rasa/slots mapping.md",
+    "obsidian-notes/Rasa/entities.md",
+    "boolean.md",
     "Types of slots.md",
     "Rasa/slots.md",
     "domain.md",
-    "obsidian-notes/Rasa/entities.md",
     "LLM/LLM Notes.md",
     "Rasa/Using NLU.md",
     "Rasa/Training Data Insights.md",
@@ -374,16 +343,12 @@
     "Training Summary.md",
     "custom slot mapping.md",
     "text.md",
-    "Rasa/slots mapping.md",
     "Rasa/sitting_policy.md",
     "PyMongo.md",
     "obsidian-notes/slots.md",
     "Setting Slots in Rasa.md",
     "Crontab example.md",
     "Add to train.md",
-    "Untitled 11.md",
-    "Rasa/buffet_policy.md",
-    "Rasa/Untitled 11.md",
     "Attachments/Pasted image 20230810141153.png",
     "Attachments/Pasted image 20221110122101.png",
     "Attachments/Pasted image 20230810123737.png",
