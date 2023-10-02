@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/how to set bool type slot value.md",
+                "file": "Rasa/slots mapping.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/how to set bool type slot value.md",
+                "file": "Rasa/slots mapping.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/how to set bool type slot value.md",
+                "file": "Rasa/slots mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/how to set bool type slot value.md"
+                "file": "Rasa/slots mapping.md"
               }
             }
           },
@@ -288,6 +288,14 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "7c1f542651f748f6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -302,7 +310,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/how to set bool type slot value.md",
+                "file": "Rasa/slots mapping.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -349,10 +357,11 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "f097db1f279067f2",
+  "active": "1cc80b714a0fd918",
   "lastOpenFiles": [
     "boolean.md",
     "Rasa/how to set bool type slot value.md",

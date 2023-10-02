@@ -1,8 +1,8 @@
 {
   "accentColor": "#f36262",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Prism",
   "theme": "moonstone",
-  "textFontFamily": "Maple Mono",
+  "textFontFamily": "Maple Mono,Calling Code",
   "baseFontSize": 21,
   "monospaceFontFamily": "Maple Mono"
 }
