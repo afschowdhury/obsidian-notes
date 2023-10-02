@@ -80,6 +80,16 @@
             }
           },
           {
+            "id": "f097db1f279067f2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "1cc80b714a0fd918",
             "type": "leaf",
             "state": {
@@ -92,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -342,7 +352,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e08aa296d9a2705f",
+  "active": "f097db1f279067f2",
   "lastOpenFiles": [
     "boolean.md",
     "Rasa/how to set bool type slot value.md",
