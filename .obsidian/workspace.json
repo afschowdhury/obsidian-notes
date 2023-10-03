@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rasa/slots mapping.md",
+                "file": "Increase Swap.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rasa/slots mapping.md",
+                "file": "Increase Swap.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/slots mapping.md",
+                "file": "Increase Swap.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rasa/slots mapping.md",
+                "file": "Increase Swap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rasa/slots mapping.md"
+                "file": "Increase Swap.md"
               }
             }
           },
@@ -310,7 +310,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rasa/slots mapping.md",
+                "file": "Increase Swap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -363,6 +363,8 @@
   },
   "active": "1cc80b714a0fd918",
   "lastOpenFiles": [
+    "Rasa/slots mapping.md",
+    "Increase Swap.md",
     "boolean.md",
     "Rasa/how to set bool type slot value.md",
     "Types of slots.md",
@@ -370,7 +372,6 @@
     "Rasa/synonyms.md",
     "output processing features after entity extraction.md",
     "Preparing training data for entities.md",
-    "Rasa/slots mapping.md",
     "obsidian-notes/Rasa/entities.md",
     "Rasa/slots.md",
     "domain.md",
@@ -391,7 +392,6 @@
     "text.md",
     "Rasa/sitting_policy.md",
     "PyMongo.md",
-    "Setting Slots in Rasa.md",
     "Attachments/Pasted image 20230810141153.png",
     "Attachments/Pasted image 20221110122101.png",
     "Attachments/Pasted image 20230810123737.png",
