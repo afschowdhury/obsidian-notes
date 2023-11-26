@@ -25,13 +25,22 @@
       "key": "A"
     }
   ],
+  "switcher:open": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
   "darlal-switcher-plus:switcher-plus:open": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "O"
+      "key": "P"
     }
-  ],
-  "switcher:open": []
+  ]
 }
